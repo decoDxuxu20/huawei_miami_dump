@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<AiConfig>
+
+    <SceneRecognition AIName="SceneRecognition" AIEnableFlg="1" AICategory="Image" AIPriority="2"  AIFramework="Caffe"  ModelType="Original" ComputingResource="4,2,3,1">
+        <modelconfig  ModelID="26" ModelRatio="0" AI_WIDTH="112" AI_HEIGHT="112" AI_MAX_WIDTH="3936" AI_MAX_HEIGHT="2976" ModelSize ="37245516" Modelsparse="0"
+                    IMAGEFORMAT="RGB_888" BuildMode ="online" DataType="Floatpoint" DataWidth="32BIT"  ModelOutPuttype="Vector"
+                    ModelInPutFormat = "RGB_888" ModelOutPutFormat="RGB_888" ModelType = "Original" ModelPerf="Low"
+                    ModelNetPath = "vendor/etc/models/SceneRecognition/caffe/original/IC_conv_112x112.prototxt.sec"
+                    IsModelNetEncrypted = "1"
+                    ModelNetParameterPath ="vendor/etc/models/SceneRecognition/caffe/original/IC_conv_112x112.caffemodel.sec"
+                    IsModelNetParamEncrypted = "1"
+                    MaxUsedMemory = "26574848"
+                    ModelMeanFilePath = "vendor/etc/models/SceneRecognition/caffe/original/IC_conv_112x112_mean"
+                    ModelResultFilePath = "" />
+
+    </SceneRecognition>
+    <SceneRecognition_front AIName="SceneRecognition_front" AIEnableFlg="1" AICategory="Image" AIPriority="2"  AIFramework="Caffe"  ModelType="Original" ComputingResource="4,2,3,1">
+        <modelconfig  ModelID="28" ModelRatio="0" AI_WIDTH="112" AI_HEIGHT="112" AI_MAX_WIDTH="3936" AI_MAX_HEIGHT="2976" ModelSize ="37245516" Modelsparse="0"
+                    IMAGEFORMAT="RGB_888" BuildMode ="online" DataType="Floatpoint" DataWidth="32BIT"  ModelOutPuttype="Vector"
+                    ModelInPutFormat = "RGB_888" ModelOutPutFormat="RGB_888" ModelType = "Original" ModelPerf="Low"
+                    ModelNetPath = "vendor/etc/models/SceneRecognition/caffe/original/IC_conv_112x112_front.prototxt.sec"
+                    IsModelNetEncrypted = "1"
+                    ModelNetParameterPath ="vendor/etc/models/SceneRecognition/caffe/original/IC_conv_112x112_front.caffemodel.sec"
+                    IsModelNetParamEncrypted = "1"
+                    MaxUsedMemory = "26574848"
+                    ModelMeanFilePath = "vendor/etc/models/SceneRecognition/caffe/original/IC_conv_112x112_front_mean"
+                    ModelResultFilePath = "" />
+
+    </SceneRecognition_front>
+    <ImageClassification_tf AIName="ImageClassification_tf" AIID="4" AIEnableFlg="1" AICategory="Image" AIPriority="2"  AIFramework="TensorFlow"   ModelType="Build" ComputingResource="1,1,3,4">
+            <modelconfig    ModelID="27" ModelRatio="0" IMAGEFORMAT="RGB_888" AI_WIDTH="227"  AI_HEIGHT="227" AI_MAX_WIDTH="3936" AI_MAX_HEIGHT="2976"
+                    BuildMode ="offline" ModelType = "Build" ModelPerf="Low" DataType="Floatpoint" DataWidth="32BIT"
+                    ModelSize ="37245516" Modelsparse="0" ModelInPutFormat = "RGB_888" ModelOutPuttype="Vector" ModelOutPutFormat="AI_Invalid"
+                    ModelNetPath = "vendor/etc/models/ImageClassification/tensorflow/build/IC_conv_112x112.cambricon"
+                    IsModelNetEncrypted = "0"
+                    ModelNetParameterPath ="vendor/etc/models/ImageClassification/tensorflow/build/IC_conv_112x112.cambricon"
+                    IsModelNetParamEncrypted = "0"
+                    MaxUsedMemory = "12173912"
+                    ModelMeanFilePath = "vendor/etc/models/ImageClassification/tensorflow/build/IC_conv_112x112_mean"
+                    ModelResultFilePath = "vendor/etc/models/ImageClassification/tensorflow/build/IC_conv_112x112_synset_words.txt" />
+    </ImageClassification_tf>
+
+</AiConfig>
+

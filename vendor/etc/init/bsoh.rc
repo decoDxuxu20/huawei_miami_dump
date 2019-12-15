@@ -1,0 +1,7 @@
+on boot
+    start bsoh
+
+service bsoh /vendor/bin/bsoh
+    user system
+    group system
+    disabled
