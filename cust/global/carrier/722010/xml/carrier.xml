@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9867589d6494ea59b6bc167daef243e0">
+  <dict>
+    <!--2018-08-27 15:04:15.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-07-25 15:05:30.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2018-07-23 15:01:21.000-->
+    <string key="hw_networkname_normal">all,LTE:4G;CA:4G+;MiMo:4G+;CAMiMo:4G+</string>
+    <!--2019-01-25 14:41:40.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2019-01-25 14:41:40.000-->
+    <bool key="hw_ussd_message_vibrator">true</bool>
+    <!--2019-01-25 14:39:00.000-->
+    <bool key="hw_ussd_message_wakescreen">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-09-06 11:41:08.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-09-06 11:41:08.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-08-27 15:04:53.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+  </dict>
+</config>

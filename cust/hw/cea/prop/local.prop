@@ -1,0 +1,60 @@
+# 2018-06-04 20:34:04.000
+drm.service.enabled=true
+# 2018-07-26 17:06:36.000
+ro.camera.cos_ttpic_supported=false
+# 2018-06-08 16:56:45.000
+ro.config.CphsOnsEnabled=false
+# 2018-06-08 17:01:38.000
+ro.config.attach_apn_enabled=true
+# 2018-06-08 16:57:29.000
+ro.config.custom_short_codes=true
+# 2018-05-28 19:08:15.000
+ro.config.delay_updatename=true
+# 2018-11-16 17:33:34.000
+ro.config.device_time_for_mms=true
+# 2018-06-08 16:59:29.000
+ro.config.dualimsi.disableap=true
+# 2018-06-08 16:57:45.000
+ro.config.force_auto_plmn=20815
+# 2019-05-10 11:50:01.000
+ro.config.hw.region=cea
+# 2018-06-08 16:56:21.000
+ro.config.hw_always_allow_mms=6
+# 2018-06-08 17:00:02.000
+ro.config.hw_delay_detach_time=5
+# 2018-06-08 16:56:07.000
+ro.config.hw_is_pre_post_pay=true
+# 2018-06-06 16:46:01.000
+ro.config.hw_nfc_on=true
+# 2018-06-05 16:52:15.000
+ro.config.hw_omacp=1
+# 2018-05-31 10:03:22.000
+ro.config.hw_opta=461
+# 2018-05-31 10:03:22.000
+ro.config.hw_optb=999
+# 2018-06-13 09:48:19.000
+ro.config.hw_volte_icon_rule=0
+# 2018-06-04 11:53:11.000
+ro.config.music_region=normal
+# 2018-07-25 17:14:19.000
+ro.config.show_data_act_all_apn=true
+# 2018-11-15 11:06:55.000
+ro.config.ussd_linkify=true
+# 2018-06-05 15:36:56.000
+ro.config.vm_prioritymode=2
+# 2018-06-04 20:34:17.000
+ro.huawei.cust.drm.fl_only=false
+# 2018-06-04 20:34:17.000
+ro.huawei.cust.oma_drm=true
+# 2018-06-04 16:32:13.000
+ro.odm.gsm.fastdormancy.mode=1
+# 2018-06-04 16:32:13.000
+ro.odm.gsm.fd.screen=3
+# 2018-06-08 16:59:08.000
+ro.odm.gsm.fd.time_scroff=4000
+# 2018-06-01 16:51:20.000
+ro.product.CustCVersion=C461
+# 2018-06-15 11:46:12.000
+ro.product.locale=en-GB
+# 2018-09-11 14:52:08.000
+ro.vendor.config.camera.region=oz

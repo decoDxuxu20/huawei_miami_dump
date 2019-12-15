@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!--Party Mode-->
+    <favorite
+        launcher:packageName="com.android.imedia.syncplay"
+        launcher:className="com.android.mediacenter.PageActivity"
+        launcher:container="@string/cust_folder_name_hwapp"
+        launcher:op="add"/>
+    <favorite
+        launcher:packageName="com.android.browser"
+        launcher:className="com.UCMobile.main.UCMobile"
+        launcher:op="delete"/>
+    <!-- 浏览器 -->
+    <favorite
+        launcher:packageName="com.huawei.browser"
+        launcher:className="com.huawei.browser.Main"
+        launcher:container="-101"
+        launcher:screen="2"
+        launcher:x="2"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insert"/>
+</favorites>

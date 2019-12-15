@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="8fbd7f1a80ac839687d85fee4d121ea8">
+  <dict>
+    <!--2018-07-27 15:55:34.000-->
+    <int key="num_match">7</int>
+    <!--2018-07-28 14:06:12.000-->
+    <string key="voicemail_carrier">KCELL</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">2000</string>
+    <!--2018-07-28 14:06:37.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

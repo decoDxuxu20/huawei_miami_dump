@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="fc1760acac7f1fd0880f9c132281e346">
+  <dict>
+    <!--2018-08-27 15:04:05.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-12-21 17:24:08.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2018-12-21 17:24:08.000-->
+    <bool key="hw_ussd_message_vibrator">true</bool>
+    <!--2018-12-21 17:24:08.000-->
+    <bool key="hw_ussd_message_wakescreen">true</bool>
+    <!--2018-06-15 15:38:20.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-15 15:39:29.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-08-27 15:04:46.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+  </dict>
+</config>

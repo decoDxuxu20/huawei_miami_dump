@@ -1,0 +1,26 @@
+# 2018-09-18 20:22:41.0
+ro.build.hide.matchers=ARM;hi6250;Mali-T830;Mali-T880;9.0.1;
+# 2018-09-18 20:22:41.0
+ro.build.hide.replacements=unknown;unknown;unknown;unknown;5.0.1;
+# 2018-09-17 17:33:13.0
+ro.config.default_sms_app=com.google.android.apps.messaging
+# 2018-11-14 19:22:22.0
+ro.config.face_rs_delay=0
+# 2019-04-02 16:52:22.0
+ro.config.hisi_video_acc=false
+# 2018-12-20 17:45:06.0
+ro.config.hw_globalSearch=true
+# 2018-07-06 15:58:49.0
+ro.config.hw_vowifi_mmsut=true
+# 2018-12-18 10:42:18.0
+ro.config.hw_vtlte_on=true
+# 2018-10-17 11:37:02.0
+ro.config.marketing_name=HUAWEI P smart 2019 
+# 2018-08-21 10:05:53.0
+ro.cust.cdrom=/product/region_comm/oversea/cdrom/autorun.iso
+# 2018-09-30 11:50:41.0
+ro.frp.pst=/dev/block/bootdevice/by-name/frp
+# 2019-03-19 19:21:37.0
+ro.product.fingerprintName=HUAWEI-Z119
+# 2018-07-06 16:27:31.0
+ro.vendor.config.hw_vowifi=true

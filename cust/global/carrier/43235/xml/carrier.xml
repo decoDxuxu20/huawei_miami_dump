@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="eabd9be32c08dacce8862df2ef646579">
+  <dict>
+    <!--2018-08-08 11:38:04.000-->
+    <bool key="hw_tme_enable">true</bool>
+    <!--2018-07-27 15:55:33.000-->
+    <int key="num_match">10</int>
+  </dict>
+</config>

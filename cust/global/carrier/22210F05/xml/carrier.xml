@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="917949ea4b255ec7d2e665a5999fee23">
+  <dict>
+    <!--2018-11-01 20:41:15.000-->
+    <string key="SMSCAddress">+393492000200</string>
+    <!--2018-09-29 08:50:32.000-->
+    <string key="hw_networkname_normal">all,GSM:G</string>
+    <!--2018-06-14 17:23:24.000-->
+    <bool key="remove_apn_MVNO">true</bool>
+  </dict>
+</config>

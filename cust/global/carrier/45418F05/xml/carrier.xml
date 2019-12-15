@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="4278f905cfe5ac53ec6341b9f9f41672">
+  <dict>
+    <!--2018-07-27 15:55:17.000-->
+    <int key="num_match">7</int>
+    <!--2018-09-25 20:00:57.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+911,+112,+999</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">CSL</string>
+  </dict>
+</config>

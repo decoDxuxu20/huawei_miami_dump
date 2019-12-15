@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hwouc_presets>
+  <!--2018-10-16 19:27:31.0-->
+  <int key="allset_cota_after_cardmanager_data">5000</int>
+  <!--2018-10-16 19:27:31.0-->
+  <int key="allset_cota_after_cardmanager_wifi">5000</int>
+  <!--2018-10-16 19:27:31.0-->
+  <int key="allset_cota_after_launcher">1800</int>
+</hwouc_presets>

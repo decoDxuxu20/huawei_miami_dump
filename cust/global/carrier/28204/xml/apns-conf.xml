@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="Beeline Internet"
+    mcc="282"
+    mnc="04"
+    apn="internet.ge.beeline.net"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+  />
+  <apn carrier="GPRS_GE"
+    mcc="282"
+    mnc="04"
+    apn="wap.ge.beeline.net"
+    user="beeline"
+    server=""
+    password="beeline"
+    proxy="172.30.141.119"
+    port="8080"
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+  />
+  <apn carrier="Beeline MMS"
+    mcc="282"
+    mnc="04"
+    apn="mms.ge.beeline.net"
+    user="beeline"
+    server=""
+    password="beeline"
+    proxy=""
+    port=""
+    mmsproxy="172.30.141.119"
+    mmsport="8080"
+    mmsc="http://mms.ge.beeline.net/mms/wapenc"
+    type="mms"
+  />
+</apns>

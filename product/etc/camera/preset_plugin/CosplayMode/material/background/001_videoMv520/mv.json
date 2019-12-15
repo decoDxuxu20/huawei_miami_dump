@@ -1,0 +1,73 @@
+{
+    "parts":[
+        {
+            "duration":10.0,
+            "background":{
+                "type":1,
+                "videoFile":"mv/beijing/beijing",
+                "videoAlphaType":0,
+                "imageName":"",
+                "imageCount":122,
+                "imageDuration":10.17,
+                "width": 720,
+                "height": 960,
+                "aspectMode":0,
+                "blendMode":0
+            },
+            "cameraFrame":{
+                "scale":{
+                    "0.0":1.0,
+                    "1.0":1.0
+                },
+                "rotate":{
+                    "0.0":0,
+                    "1.0":0
+                },
+                "gridType":{
+                    "0.0":0,
+                    "1.0":0
+                },
+                "gridMode":{
+                    "0.0":1,
+                    "1.0":1
+                },
+                "easeCurve":0
+            },
+            "cover":{
+                "imageFile":"",
+                "aspectMode":0,
+                "blendMode":0
+            },
+            "foreground":{
+                "videoFile":"",
+                "videoAlphaType":1,
+                "imageName":"mv/qianjing/qianjing_",
+                "imageCount":14,
+                "imageDuration":1.1667,
+                "width": 720,
+                "height": 960,
+                "aspectMode":0,
+                "blendMode":0
+            },
+            "filterEffect":{
+                "type":0,
+                "fid":"",
+                "lutFile":""
+            },
+            "finishTransition":{
+                "triggerType":0,
+                "duration":0.0,
+                "easeCurve":2,
+                "transitionFunction":0,
+                "maskVideoFile":"",
+                "maskVideoAlphaType":0,
+                "maskImageName":"",
+                "maskImageCount":0,
+                "maskImageDuration":0.0,
+                "maskType":1,
+                "blurRadius":0.0
+            }
+        }
+    ],
+    "bgmAudio":"mv/bgm.mp3"
+}

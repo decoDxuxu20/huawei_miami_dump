@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="bf050fb9b7c3582ec5c1d4756167624c">
+  <dict>
+    <!--2019-05-30 10:07:43.000-->
+    <bool key="hw_stk_calling_show_text">true</bool>
+    <!--2019-05-30 10:07:43.000-->
+    <bool key="hw_stk_home_back">true</bool>
+    <!--2019-05-30 10:07:43.000-->
+    <bool key="hw_stk_screen_on_unlock">true</bool>
+    <!--2019-05-30 10:07:43.000-->
+    <bool key="hw_stk_show_cancel_button">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:54:59.000-->
+    <int key="num_match">7</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+  </dict>
+</config>

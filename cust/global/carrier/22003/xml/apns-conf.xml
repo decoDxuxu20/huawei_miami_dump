@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="MTS WAP" mcc="220" mnc="03" apn="gprswap" user="mts" server="http://m.mondo.rs" password="064" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="1"/>
+  <apn carrier="MTS MMS" mcc="220" mnc="03" apn="mms" user="mts" server="" password="064" proxy="" port="" mmsproxy="172.17.85.131" mmsport="8080" mmsc="http://mms.mts064.telekom.rs/mms/wapenc" type="mms" authtype="1"/>
+  <apn carrier="XCAP" mcc="220" mnc="03" apn="HOS" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV4V6"/>
+</apns>

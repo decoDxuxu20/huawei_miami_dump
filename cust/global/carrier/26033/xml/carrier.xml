@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="98a4cdc38ccb87e00634cc03acc2951b">
+  <dict>
+    <!--2018-11-28 16:26:55.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-10-31 20:41:18.000-->
+    <bool key="hw_callforward_networkname">true</bool>
+  </dict>
+</config>

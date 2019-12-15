@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="a0f24f0bd1c76dcb03027148fdeecd1e">
+  <dict>
+    <!--2018-06-07 17:27:12.000-->
+    <string key="hw_replace_country_code">+81</string>
+    <!--2018-07-27 15:56:28.000-->
+    <int key="num_match">11</int>
+    <!--2018-07-27 15:56:26.000-->
+    <int key="num_match_short">10</int>
+    <!--2018-05-28 14:48:12.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-08-17 15:50:32.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-08-17 15:50:32.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-07-28 14:06:17.000-->
+    <string key="voicemail_carrier">Softbank</string>
+    <!--2018-07-28 14:06:30.000-->
+    <string key="voicemail_number">1416</string>
+    <!--2018-07-28 14:06:42.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

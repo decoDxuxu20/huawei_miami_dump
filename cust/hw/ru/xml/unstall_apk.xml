@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>/system/priv-app/CellBroadcastReceiver.apk;/system/priv-app/HiVision.apk;/product/region_comm/oversea/app/HiVision.apk;/product/region_comm/oversea/app/HwHiAiEngine.apk;/system/app/HiTouch.apk;/product/region_comm/oversea/app/HiTouch.apk;/system/priv-app/HiAction.apk;/product/region_comm/oversea/app/HiAction.apk;/data/hw_init/product/region_comm/oversea/app/HiVision.apk;/data/hw_init/product/region_comm/oversea/app/HwHiAiEngine.apk;/data/hw_init/product/region_comm/oversea/app/HiTouch.apk;/data/hw_init/product/region_comm/oversea/app/HiAction.apk;/system/priv-app/HwMediaCenter_cloud.apk;</apk>
+  <restoreapk>/system/app/HMS.apk;/system/app/HwCloudDrive_Local.apk;/system/priv-app/HwPhoneService.apk;/system/app/HwDetectRepair.apk;/system/app/HwWallet.apk;/system/delapp/HiAppOOBE.apk;/product/app/HwWallet.apk;/system/priv-app/HwPushService.apk;/system/priv-app/HiSpace.apk;/product/region_comm/oversea/app/HwBrowser.apk;/data/hw_init/product/app/HwWallet.apk;/system/app/HiFolder.apk;/system/priv-app/HwMediaCenter.apk;</restoreapk>
+</tag>

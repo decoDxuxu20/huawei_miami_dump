@@ -1,0 +1,8 @@
+# 2019-03-06 16:01:40.0
+ro.config.hw_cota=true
+# 2019-02-28 10:31:01.0
+ro.config.use_google_smartlock=true
+# 2019-02-28 15:19:30.0
+ro.product.name=POT-LX1EEA
+
+ro.build.version.base_os=HUAWEI/POT-LX1EEA/HWPOT-H:9/HUAWEIPOT-L01/293C431:user/release-keys

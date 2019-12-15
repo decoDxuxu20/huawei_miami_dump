@@ -1,0 +1,4 @@
+<permissions>
+    <library name="com.huawei.nb"
+    file="/product/jar/HwNaturalBase/com.huawei.nb.sdk.jar" />
+</permissions>

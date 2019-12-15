@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b0602dbed284cb33c3618f96002e642f">
+  <dict>
+    <!--2018-11-09 11:01:36.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2018-07-27 15:55:29.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 14:41:18.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 14:56:59.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-22 17:06:49.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-09-25 20:00:29.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+911,+112,+999</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Virgin</string>
+    <!--2018-08-13 16:59:17.000-->
+    <string key="voicemail_carrier">Virgin Media</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_number">222</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

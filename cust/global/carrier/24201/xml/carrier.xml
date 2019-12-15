@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="507d7ee7a610036c5e913996e7959ea0">
+  <dict>
+    <!--2019-04-22 15:39:36.000-->
+    <bool key="hw_stk_calling_show_text">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">1048576</int>
+    <!--2018-07-27 15:55:04.000-->
+    <int key="num_match">7</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+  </dict>
+</config>

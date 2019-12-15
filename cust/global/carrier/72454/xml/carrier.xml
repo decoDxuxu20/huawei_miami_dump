@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="87bb343f1c075c020b2de90e130f2b44">
+  <dict>
+    <!--2018-12-07 10:50:48.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2018-08-27 15:04:18.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-08-08 20:28:50.000-->
+    <int key="num_match">8</int>
+    <!--2018-08-27 15:04:56.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-08-08 20:28:51.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2018-08-08 20:28:49.000-->
+    <string key="voicemail_carrier">Porto Seguro Conecta</string>
+    <!--2018-08-08 20:28:45.000-->
+    <string key="voicemail_number">*100</string>
+    <!--2018-08-08 20:28:47.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

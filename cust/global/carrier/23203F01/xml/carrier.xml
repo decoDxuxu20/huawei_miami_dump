@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="018c02e162ae16f231ca661c7806bbc6">
+  <dict>
+    <!--2018-06-21 11:01:56.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-12-25 17:10:20.000-->
+    <string key="hide_sepcial_apn_form_list">hos</string>
+    <!--2018-12-03 11:50:55.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-12-03 12:10:53.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-12-03 11:15:55.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-06-04 16:56:28.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-11-29 19:58:42.000-->
+    <int key="num_match">10</int>
+    <!--2018-11-29 19:58:46.000-->
+    <int key="num_match_short">7</int>
+    <!--2018-05-28 15:30:11.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 16:00:21.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-14 17:46:48.000-->
+    <int key="set_new_apn_port">8080</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">6</int>
+    <!--2018-09-25 20:00:24.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+112,+999</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">T-Mobile A</string>
+    <!--2018-07-26 16:34:39.000-->
+    <bool key="vm_edit_not_to_sim_bool">true</bool>
+    <!--2018-08-13 17:01:56.000-->
+    <string key="voicemail_carrier">T-Mobile</string>
+    <!--2018-07-31 16:36:44.000-->
+    <string key="voicemail_number">+436762200</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

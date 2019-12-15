@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="4e8a587a5179fee3e29b03f87f4b04c1">
+  <dict>
+    <array key="plmn_spn">
+      <dict>
+        <string key="network_mccmnc">40478</string>
+        <string key="sim_mccmnc">40493</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">Airtel</string>
+        <string key="plmn">Airtel</string>
+      </dict>
+    </array>
+    <array key="set_mtu"/>
+    <array key="plmn_abbrev"/>
+    <array key="net_sim_ue_pri"/>
+  </dict>
+</config>

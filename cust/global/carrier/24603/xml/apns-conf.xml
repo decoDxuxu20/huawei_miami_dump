@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="Tele2 internet"
+    mcc="246"
+    mnc="03"
+    apn="internet.tele2.lt"
+    user="wap"
+    server=""
+    password="wap"
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+  />
+  <apn carrier="Tele2 MMS"
+    mcc="246"
+    mnc="03"
+    apn="internet.tele2.lt"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy="193.012.040.029"
+    mmsport="8080"
+    mmsc="http://mmsc.tele2.lt"
+    type="mms"
+  />
+</apns>

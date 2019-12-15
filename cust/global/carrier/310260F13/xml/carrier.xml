@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="45fc152e953553914c7e2ef25b4a9cb4">
+  <dict>
+    <!--2018-07-25 09:53:58.000-->
+    <string key="hw_networkname_normal">all,GPRS:G;EDGE:E;UMTS:4G;HSDPA:4G;HSUPA:4G;HSPA:4G;HSPA+:4G;LTE:4G LTE;CA:4G LTE</string>
+    <!--2018-07-27 15:55:47.000-->
+    <int key="num_match">10</int>
+    <!--2018-09-25 20:00:41.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+911,+112</string>
+  </dict>
+</config>

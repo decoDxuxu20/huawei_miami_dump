@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datainitializor>
+  <contact>
+    <name>Huawei Care</name>
+    <phone>
+      <detail>1800 209 6555</detail>
+      <type>Mobile</type>
+    </phone>
+    <email>
+      <detail>service.hw.in@huawei.com</detail>
+      <type>Home</type>
+    </email>
+    <address>
+      <detail/>
+      <type/>
+    </address>
+    <avatar/>
+    <readonly/>
+    <company/>
+    <care/>
+  </contact>
+</datainitializor>

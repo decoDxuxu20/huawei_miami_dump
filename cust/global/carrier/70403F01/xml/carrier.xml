@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="eff3374b1d4a356d9102f26556cba7d0">
+  <dict>
+    <!--2019-01-17 16:04:51.000-->
+    <bool key="clir_config_enable">true</bool>
+    <!--2018-08-27 15:04:18.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-07-25 14:49:04.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2018-11-28 15:46:19.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-11-28 15:42:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-11-28 15:50:46.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-07-23 15:56:54.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE+;MiMo:LTE+;CAMiMo:LTE+</string>
+    <!--2018-08-09 11:25:54.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2018-08-09 11:25:54.000-->
+    <bool key="hw_ussd_message_vibrator">true</bool>
+    <!--2018-08-09 11:25:54.000-->
+    <bool key="hw_ussd_message_wakescreen">true</bool>
+    <!--2018-07-27 15:56:24.000-->
+    <int key="num_match">8</int>
+    <!--2018-08-27 15:04:56.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-07-20 19:26:23.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2018-09-25 20:01:01.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-08-06 15:09:58.000-->
+    <string key="virtual_ecclist_withcard">+122,+911,+112</string>
+    <!--2018-06-26 16:25:58.000-->
+    <string key="voicemail_carrier">movistar virtual net1</string>
+    <!--2018-06-26 16:25:58.000-->
+    <string key="voicemail_number">*86</string>
+    <!--2018-06-26 16:25:58.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

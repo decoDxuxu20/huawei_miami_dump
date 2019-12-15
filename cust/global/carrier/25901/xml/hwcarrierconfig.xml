@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="a9f94a0e65503165a10b4e82512cf708">
+  <dict>
+    <!--2018-06-04 23:27:38.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-05-21 16:30:13.000-->
+    <bool key="preferToUseUT">false</bool>
+  </dict>
+</config>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="Vodafone Internet"
+    mcc="286"
+    mnc="02"
+    apn="internet"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+  />
+  <apn carrier="Vodafone MMS"
+    mcc="286"
+    mnc="02"
+    apn="mms"
+    user="vodafone"
+    server=""
+    password="vodafone"
+    proxy=""
+    port=""
+    mmsproxy="217.31.233.18"
+    mmsport="9401"
+    mmsc="http://217.31.233.18:6001/MM1Servlet"
+    type="mms"
+    authtype="0"
+  />
+</apns>

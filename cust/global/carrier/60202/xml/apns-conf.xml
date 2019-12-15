@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Vodafone Internet" mcc="602" mnc="02" apn="internet.vodafone.net" user="internet" server="" password="internet" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="1"/>
+  <apn carrier="Vodafone Live!" mcc="602" mnc="02" apn="wap.vodafone.com.eg" user="wap" server="" password="wap" proxy="163.121.178.2" port="8080" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="1"/>
+  <apn carrier="Vodafone MMS" mcc="602" mnc="02" apn="mms.vodafone.com.eg" user="mms" server="" password="mms" proxy="" port="" mmsproxy="163.121.178.2" mmsport="8080" mmsc="http://mms.vodafone.com.eg/servlets/mms" type="mms" authtype="1"/>
+  <apn carrier="EG VDF XCAP" mcc="602" mnc="02" apn="hos" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV6"/>
+</apns>

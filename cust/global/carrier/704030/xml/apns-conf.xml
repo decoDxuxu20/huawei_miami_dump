@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Movistar INTERNET"
+    mcc="704"
+    mnc="030"
+    apn="internet.movistar.gt"
+    user="movistargt"
+    server=""
+    password="movistargt"
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+    protocol="IPV4V6"
+  />
+</apns>

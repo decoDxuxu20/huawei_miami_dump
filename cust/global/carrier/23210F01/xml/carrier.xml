@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="06f0bc4b5104012d6af788cd6d1c8f6b">
+  <dict>
+    <!--2018-11-29 19:58:42.000-->
+    <int key="num_match">10</int>
+    <!--2018-11-29 19:58:46.000-->
+    <int key="num_match_short">7</int>
+    <!--2018-05-28 14:40:03.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-09-25 20:00:25.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+112,+999</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">MediaMarkt</string>
+  </dict>
+</config>

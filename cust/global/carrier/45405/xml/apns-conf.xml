@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="3" mcc="454" mnc="05" apn="mobile.three.com.hk" user="" server="" password="" proxy="" port="" mmsproxy="mms.three.com.hk" mmsport="8799" mmsc="http://mms.um.three.com.hk:10021/mmsc" type="default,mms" authtype="1"/>
+  <apn carrier="3 Share" mcc="454" mnc="05" apn="share.three.com.hk" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="dun" authtype="1"/>
+</apns>

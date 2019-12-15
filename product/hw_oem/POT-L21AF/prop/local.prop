@@ -1,0 +1,28 @@
+# 2018-06-29 09:05:32.0
+persist.sys.dualcards=true
+# 2018-06-29 09:05:32.0
+ro.boot.product.hardware.sku=POT-LX1AF
+# 2019-01-11 16:48:41.0
+ro.build.id=HUAWEIPOT-L21AF
+# 2018-08-30 15:32:25.0
+ro.config.cpu_info_display=Hisilicon Kirin 710
+# 2018-06-29 09:05:32.0
+ro.config.hw_sim2airplane=true
+# 2018-09-12 18:59:41.0
+ro.config.nfcdisabled=true
+# 2018-10-30 10:42:46.0
+ro.config.safety_certification=CE
+# 2018-06-29 09:05:32.0
+ro.dual.sim.phone=true
+# 2018-11-20 20:19:32.0
+ro.hwcamera.ai_resolution=3264x2448
+# 2018-06-29 09:05:32.0
+ro.product.board=POT-L21AF
+# 2018-07-07 17:51:10.0
+ro.product.hardwareversion=HL3POTM
+# 2018-06-29 09:05:32.0
+ro.product.model=POT-LX1AF
+# 2018-06-29 09:05:32.0
+ro.product.name=POT-LX1AF	
+
+ro.build.description=POT-LX1AF-user 9 HUAWEIPOT-LX1AF 314-OVS-LGRP2 release-keys

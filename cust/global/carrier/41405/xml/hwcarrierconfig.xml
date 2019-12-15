@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9b5bcaa47bf02c59de99573481332ab0">
+  <dict>
+    <!--2018-05-28 17:45:48.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-06-09 19:26:47.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-11-22 10:48:30.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2018-05-21 16:30:24.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-08-28 17:25:19.000-->
+    <string key="ssTypeUseCsOnly">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23</string>
+    <!--2018-05-28 17:45:48.000-->
+    <int key="utBearType">2</int>
+    <!--2018-05-28 17:45:48.000-->
+    <int key="utBsfPort">80</int>
+    <!--2018-08-28 14:42:40.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc005.mcc414.pub.3gppnetwork.org</string>
+  </dict>
+</config>

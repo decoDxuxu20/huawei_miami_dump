@@ -1,0 +1,31 @@
+material lambert1
+{
+    renderState
+    {
+        cullFace = true
+        depthTest = true
+    }
+
+    technique
+    {
+        pass
+        {
+            vertexShader = res/shaders/textured.vert
+            fragmentShader = res/shaders/textured.frag
+            defines = TEXTURE_ORIGIN
+
+            // uniforms
+            u_worldViewProjectionMatrix = WORLD_VIEW_PROJECTION_MATRIX
+
+            sampler u_diffuseTexture
+            {
+                path = duck.png
+                mipmap = true
+                wrapS = CLAMP
+                wrapT = CLAMP
+                minFilter = NEAREST_MIPMAP_LINEAR
+                magFilter = LINEAR
+            }
+        }
+    }
+}

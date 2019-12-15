@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-10-17 17:45:00.0-->
+  <string custom_certify_picture="/product/etc/media/POT-LX1AF.png" reset="true"/>
+  <!--2018-07-06 15:36:47.0-->
+  <integer settings.global.hw_wifi_ap_band="1"/>
+</resources>

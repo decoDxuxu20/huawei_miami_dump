@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="4808220d724d02336195a13545eac0c0">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks">
+        <dict>
+          <string key="title">Personal Play</string>
+          <string key="url">http://play.personal.com.ar</string>
+        </dict>
+        <dict>
+          <string key="title">Personal Música</string>
+          <string key="url">http://wap.musica.personal.com.ar</string>
+        </dict>
+        <dict>
+          <string key="title">Personal Kids</string>
+          <string key="url">http://kids.personal.com.ar</string>
+        </dict>
+        <dict>
+          <string key="title">Personal Video</string>
+          <string key="url">http://video.personal.com.ar</string>
+        </dict>
+        <dict>
+          <string key="title">Personal Juegos</string>
+          <string key="url">http://juegos.personal.com.ar</string>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

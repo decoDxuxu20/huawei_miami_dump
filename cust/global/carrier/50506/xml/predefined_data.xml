@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datainitializor>
+  <contact>
+    <name>Vodafone</name>
+    <phone>
+      <detail>1555</detail>
+      <type>Work</type>
+    </phone>
+    <phone>
+      <detail>+61426320000</detail>
+      <type>Mobile</type>
+    </phone>
+    <email>
+      <detail>support@vodafone.com.au</detail>
+    </email>
+  </contact>
+</datainitializor>

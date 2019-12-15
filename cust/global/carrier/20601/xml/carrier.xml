@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6f8834037128934c081b7e15ab638b9a">
+  <dict>
+    <!--2018-11-01 20:41:08.000-->
+    <string key="SMSCAddress">+32475161616</string>
+    <!--2018-09-29 08:45:26.000-->
+    <string key="hw_networkname_normal">all,GSM:G</string>
+    <!--2018-06-14 09:55:23.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:21.000-->
+    <int key="num_match">7</int>
+    <!--2018-06-14 17:25:48.000-->
+    <bool key="remove_apn_MVNO">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-09-25 20:00:13.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Proximus</string>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">Proximus</string>
+    <!--2018-07-28 14:06:24.000-->
+    <string key="voicemail_number">+32475151969</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

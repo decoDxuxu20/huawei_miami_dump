@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="691c666300f61efaaba6527d0454361a">
+  <dict>
+    <!--2018-11-01 20:41:16.000-->
+    <string key="SMSCAddress">+32475161616</string>
+    <!--2018-11-12 15:45:52.000-->
+    <int key="max_message_size">614400</int>
+    <!--2018-11-12 15:45:44.000-->
+    <int key="num_match">7</int>
+    <!--2018-11-12 15:47:00.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+  </dict>
+</config>

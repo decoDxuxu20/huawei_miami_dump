@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="Saunalahti internet"
+    mcc="244"
+    mnc="21"
+    apn="internet.saunalahti"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+  />
+  <apn carrier="Saunalahti MMS"
+    mcc="244"
+    mnc="21"
+    apn="mms.saunalahti.fi"
+    user="chess"
+    server=""
+    password="chess"
+    proxy=""
+    port=""
+    mmsproxy="62.142.4.197"
+    mmsport="8080"
+    mmsc="http://mms.saunalahti.fi:8002/"
+    type="mms"
+  />
+</apns>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e2396a064d05282f23fe0b7995588474">
+  <dict>
+    <!--2018-11-16 16:14:24.000-->
+    <string key="hw_replace_country_code">+81</string>
+    <!--2018-06-09 11:17:00.000-->
+    <int key="plmn_esm_flag">1</int>
+  </dict>
+</config>

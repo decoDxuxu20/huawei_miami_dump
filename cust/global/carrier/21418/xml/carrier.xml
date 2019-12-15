@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c749dad2acb165594b33e0d3868a2201">
+  <dict>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:23.000-->
+    <int key="num_match">9</int>
+    <!--2018-06-27 16:00:34.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">6</int>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">ONO</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">1214</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

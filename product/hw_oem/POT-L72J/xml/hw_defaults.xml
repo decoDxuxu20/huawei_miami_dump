@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-07-06 15:58:34.0-->
+  <integer ca_settings_on="1"/>
+  <!--2018-07-06 15:36:47.0-->
+  <integer settings.global.hw_wifi_ap_band="1"/>
+</resources>

@@ -1,0 +1,3 @@
+/product/region_comm/oversea/app/HwHealthPlatform_OVE/HwHealthPlatform_OVE.apk
+/product/region_comm/oversea/app/HwUserGuide/HwUserGuide.apk,nosys
+/product/region_comm/oversea/app/Wnn_Japanese_Ext_Pack-HW/Wnn_Japanese_Ext_Pack-HW.apk

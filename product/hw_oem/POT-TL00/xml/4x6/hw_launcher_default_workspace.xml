@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!--Party Mode-->
+    <favorite
+        launcher:packageName="com.android.imedia.syncplay"
+        launcher:className="com.android.mediacenter.PageActivity"
+        launcher:container="@string/cust_folder_name_hwapp"
+        launcher:op="add"/>
+    <favorite
+        launcher:packageName="com.android.browser"
+        launcher:className="com.UCMobile.main.UCMobile"
+        launcher:op="delete"/>
+    <!-- 浏览器 -->
+    <favorite
+        launcher:packageName="com.huawei.browser"
+        launcher:className="com.huawei.browser.Main"
+        launcher:container="-101"
+        launcher:screen="2"
+        launcher:x="2"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insert"/>
+    <!-- 中国移动 -->
+    <favorite
+        launcher:packageName="com.greenpoint.android.mc10086.activity"
+        launcher:className="com.leadeon.cmcc.base.StartPageActivity"
+        launcher:container="@string/cust_folder_name_top_apps"
+        launcher:op="add"/>
+    <!-- 139邮箱 -->
+    <favorite
+        launcher:packageName="cn.cj.pe"
+        launcher:className="com.mail139.about.LaunchActivity"
+        launcher:container="@string/cust_folder_name_top_apps"
+        launcher:op="add"/>
+    <!-- 咪咕视频 -->
+    <favorite
+        launcher:packageName="com.cmcc.cmvideo"
+        launcher:className="com.wondertek.activity.AppFakeActivity"
+        launcher:container="@string/cust_folder_name_top_apps"
+        launcher:op="add"/>
+    <!-- 备份恢复 -->
+    <favorite
+        launcher:packageName="com.aspire.cloudbr"
+        launcher:className="com.aspire.andcloudbackupapp.activity.FlashActivity"
+        launcher:container="@string/cust_folder_name_top_apps"
+        launcher:op="add"/>
+    <!-- 必备应用 -->
+    <favorite
+        launcher:packageName="com.cmic.mmnes"
+        launcher:className="com.cmic.mmnes.activity.SplashActivity"
+        launcher:container="-100"
+        launcher:op="add"/>
+    <!-- 和彩云 -->
+    <favorite
+        launcher:packageName="com.chinamobile.mcloud"
+        launcher:className="desktop.icon.active"
+        launcher:container="-100"
+        launcher:op="add"/>
+    <!-- 移动权益惠 -->
+    <favorite
+        launcher:packageName="com.cmcc.terminal"
+        launcher:className="com.cmcc.terminal.presentation.bundle.common.view.activity.SplashActivity"
+        launcher:container="-100"
+        launcher:op="add"/>
+</favorites>

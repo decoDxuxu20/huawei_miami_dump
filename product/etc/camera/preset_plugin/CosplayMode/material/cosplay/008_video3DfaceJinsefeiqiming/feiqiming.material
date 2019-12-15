@@ -1,0 +1,131 @@
+material textured
+{
+    u_worldViewProjectionMatrix = WORLD_VIEW_PROJECTION_MATRIX
+
+    sampler u_diffuseTexture
+    {
+        mipmap = true
+        wrapS = CLAMP
+        wrapT = CLAMP
+        minFilter = LINEAR_MIPMAP_LINEAR
+        magFilter = LINEAR
+    }
+
+    renderState
+    {
+        depthTest = true
+    }
+
+    technique
+    {
+        pass
+        {
+            vertexShader = res/shaders/textured.vert
+            fragmentShader = res/shaders/textured.frag
+        }
+    }
+}
+
+material frame : textured
+{
+    u_diffuseColor = 0.679612, 0.607191, 0.529776, 1
+    u_cameraPosition = CAMERA_WORLD_POSITION
+    u_inverseTransposeWorldViewMatrix = INVERSE_TRANSPOSE_WORLD_VIEW_MATRIX
+
+    u_ambientColor = 1, 1, 1
+    u_cameraPosition = 0, 0, 100
+    u_cubeBlendFactor = 0.0
+    u_zNormalOffset = 2.5
+        u_blendMode = 1
+
+    sampler u_diffuseTexture
+    {
+        path = frame1.png
+        wrapS = REPEAT
+        wrapT = REPEAT
+    }
+    renderState
+    {
+        blend = true
+        blendSrc = SRC_ALPHA
+        blendDst = ONE_MINUS_SRC_ALPHA
+        depthWrite = true
+    }
+
+    technique
+    {
+        pass
+        {
+            defines = LIGHTING; SPECULAR; TEXTURE_CUBE_MAP; CUBE_MAP_BLEND_MODE
+        }
+    }
+}
+
+material glass : textured
+{
+    u_diffuseColor = 0.679612, 0.607191, 0.529776, 1
+    u_cameraPosition = CAMERA_WORLD_POSITION
+    u_inverseTransposeWorldViewMatrix = INVERSE_TRANSPOSE_WORLD_VIEW_MATRIX
+
+    u_ambientColor = 1, 1, 1
+    u_cameraPosition = 0, 0, 100
+    u_cubeBlendFactor = 0.0
+    u_zNormalOffset = 2.5
+        u_blendMode = 1
+
+    sampler u_diffuseTexture
+    {
+        path = frame1.png
+        wrapS = REPEAT
+        wrapT = REPEAT
+    }
+    renderState
+    {
+        blend = true
+        blendSrc = SRC_ALPHA
+        blendDst = ONE_MINUS_SRC_ALPHA
+        depthWrite = true
+    }
+
+    technique
+    {
+        pass
+        {
+            defines = LIGHTING; SPECULAR; TEXTURE_CUBE_MAP; CUBE_MAP_BLEND_MODE
+        }
+    }
+}
+material glass_1 : textured
+{
+    u_diffuseColor = 0.679612, 0.607191, 0.529776, 1
+    u_cameraPosition = CAMERA_WORLD_POSITION
+    u_inverseTransposeWorldViewMatrix = INVERSE_TRANSPOSE_WORLD_VIEW_MATRIX
+
+    u_ambientColor = 1, 1, 1
+    u_cameraPosition = 0, 0, 100
+    u_cubeBlendFactor = 0.1
+    u_zNormalOffset = 2.5
+        u_blendMode = 1
+
+    sampler u_diffuseTexture
+    {
+        path = frame1.png
+        wrapS = REPEAT
+        wrapT = REPEAT
+    }
+    renderState
+    {
+        blend = true
+        blendSrc = SRC_ALPHA
+        blendDst = ONE_MINUS_SRC_ALPHA
+        depthWrite = true
+    }
+
+    technique
+    {
+        pass
+        {
+            defines = LIGHTING; SPECULAR; TEXTURE_CUBE_MAP; CUBE_MAP_BLEND_MODE
+        }
+    }
+}

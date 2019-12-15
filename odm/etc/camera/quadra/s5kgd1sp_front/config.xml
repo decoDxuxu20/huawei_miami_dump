@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="GB2312"?>
+<CONFIG_PARA>
+        <REMOSAIC_EVLUAM_THRESHOLD value="80"/>
+        <REMOSAIC_EVLUAM_CHANGE_DOMAIN value="3"/>
+</CONFIG_PARA>

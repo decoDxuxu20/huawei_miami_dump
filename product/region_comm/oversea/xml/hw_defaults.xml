@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-02-12 15:35:37.0-->
+  <string colors_themes="black+midnightblack,/product/region_comm/oversea/themes/Flowing.hwt;black+aurorablue,/product/region_comm/oversea/themes/Moonriver.hwt;black+coralred,/product/region_comm/oversea/themes/Flame.hwt;black+sapphireblue,/product/region_comm/oversea/themes/Sapphire.hwt;black+morphoaurora,/product/region_comm/oversea/themes/Sapphire.hwt;black+starlightblue,/product/region_comm/oversea/themes/Sapphire.hwt" reset="true"/>
+  <!--2018-09-21 09:20:17.0-->
+  <string hw_def_theme="/product/region_comm/oversea/themes/Moonriver.hwt" reset="true"/>
+  <!--2019-03-25 14:22:33.0-->
+  <string hw_theme_sort="Moonriver##Flowing##Flame##Sapphire##Crystal##Snow##Horizon##Virid Beach" reset="true"/>
+</resources>

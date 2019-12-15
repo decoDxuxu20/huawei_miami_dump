@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5151b49b49b744e82fe8b508933fdb33">
+  <dict>
+    <!--2018-12-01 16:44:38.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2018-06-01 17:02:26.000-->
+    <string key="hw_networkname_normal">all,CA:4G</string>
+    <!--2018-06-04 19:18:55.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2018-11-12 16:07:40.000-->
+    <bool key="hw_stk_blank_dialog_title">true</bool>
+    <!--2018-09-07 15:19:57.000-->
+    <bool key="hw_stk_calling_show_text">true</bool>
+    <!--2018-09-07 14:45:14.000-->
+    <bool key="hw_stk_home_back">true</bool>
+    <!--2018-09-07 14:22:58.000-->
+    <bool key="hw_stk_screen_on_unlock">true</bool>
+    <!--2018-09-07 14:59:46.000-->
+    <bool key="hw_stk_show_cancel_button">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:25.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 14:36:52.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 14:56:59.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-22 16:52:24.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2018-07-28 14:06:12.000-->
+    <string key="voicemail_carrier">Orange UK</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">07973100123</string>
+    <!--2018-07-28 14:06:37.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

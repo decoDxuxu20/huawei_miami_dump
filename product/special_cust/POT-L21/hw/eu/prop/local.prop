@@ -1,0 +1,8 @@
+# 2018-09-05 16:45:59.0
+ro.com.google.clientidbase.ms=android-huawei-rev1
+# 2018-10-12 14:31:35.0
+ro.config.hw_cota=true
+# 2018-10-30 15:39:44.0
+ro.config.use_google_smartlock=true
+
+ro.build.version.base_os=HUAWEI/POT-LX1/HWPOT-H:9/HUAWEIPOT-L21/293C432:user/release-keys

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Telekom HU NET" mcc="216" mnc="30" apn="internet.telekom" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl,xcap" authtype="1" protocol="IPV4V6"/>
+  <apn carrier="Telekom HU MMS" mcc="216" mnc="30" apn="internet.telekom" user="" server="" password="" proxy="" port="" mmsproxy="212.051.126.010" mmsport="8080" mmsc="http://mms.t-mobile.hu/servlets/mms" type="mms" authtype="1" protocol="IPV4V6"/>
+  <apn carrier="HOS" mcc="216" mnc="30" apn="hos" user="" server="" password="" proxy="" port="" mmsproxy="212.051.126.010" mmsport="8080" mmsc="http://mms.t-mobile.hu/servlets/mms" type="vowifi_mms,xcap" authtype="0" bearer_bitmask="18" protocol="IP"/>
+</apns>

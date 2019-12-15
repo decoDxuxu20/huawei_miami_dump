@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="b3542f6d15a4f31b1ad86489cca8c188">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <string key="bookmarks_language"></string>
+          <string key="bookmarks_folder_name"></string>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Huawei India Facebook</string>
+              <string key="url">https://www.facebook.com/HuaweiIndia/</string>
+            </dict>
+            <dict>
+              <string key="title">Huawei India official website</string>
+              <string key="url">https://consumer.huawei.com/in</string>
+            </dict>
+            <dict>
+              <string key="title">TOI News</string>
+              <string key="url">http://m.timesofindia.com/</string>
+            </dict>
+            <dict>
+              <string key="title">Cricbuzz</string>
+              <string key="url">http://m.cricbuzz.com/</string>
+            </dict>
+            <dict>
+              <string key="title">CNN</string>
+              <string key="url">http://www.cnn.com/</string>
+            </dict>
+            <dict>
+              <string key="title">BBC</string>
+              <string key="url">http://www.bbc.co.uk/</string>
+            </dict>
+            <dict>
+              <string key="title">Wikipedia</string>
+              <string key="url">http://www.wikipedia.org/</string>
+            </dict>
+            <dict>
+              <string key="title">Honor India Facebook</string>
+              <string key="url">https://www.facebook.com/HiHonorIndia/</string>
+            </dict>
+            <dict>
+              <string key="title">Honor Community Facebook</string>
+              <string key="url">https://club.hihonor.com/in/index</string>
+            </dict>
+            <dict>
+              <string key="title">Honor India official website</string>
+              <string key="url">http://hihonor.in/</string>
+            </dict>
+            <dict>
+              <string key="title">Honor India Youtube</string>
+              <string key="url">https://www.youtube.com/channel/UCdGHTFBtv-GM81OhS5KSWWA</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

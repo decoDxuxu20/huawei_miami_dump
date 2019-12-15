@@ -1,0 +1,36 @@
+# 2018-10-31 16:50:10.000
+ro.camera.cos_ttpic_supported=false
+# 2018-10-19 11:28:21.000
+ro.config.calendar_cancel=true
+# 2018-11-06 20:21:43.000
+ro.config.hw_nfc_msimce=false
+# 2018-06-01 14:27:12.000
+ro.config.hw_not_show_act=true
+# 2018-05-31 09:54:26.000
+ro.config.hw_opta=578
+# 2018-05-31 09:54:26.000
+ro.config.hw_optb=124
+# 2019-03-21 21:59:23.000
+ro.config.hw_power_voice_key=false
+# 2018-09-13 10:40:13.000
+ro.config.music_region=lowfreq
+# 2018-11-06 20:21:43.000
+ro.config.nfc_hasese=false
+# 2018-07-04 14:40:15.000
+ro.config.sup_lte_high_speed=false
+# 2018-06-28 14:29:51.000
+ro.config.support_ca=false
+# 2018-06-28 17:06:12.000
+ro.config.vm_prioritymode=2
+# 2018-09-13 10:48:42.000
+ro.config.voice_cfg=normal
+# 2018-06-01 16:45:30.000
+ro.product.CustCVersion=C578
+# 2018-11-06 20:21:43.000
+ro.product.cuptsm=
+# 2018-06-29 11:01:06.000
+ro.product.locale=en-CA
+# 2018-11-06 20:21:43.000
+ro.product.wallet.nfc=
+# 2018-09-13 11:21:17.000
+ro.vendor.config.camera.region=bm

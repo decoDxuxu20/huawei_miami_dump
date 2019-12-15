@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9d7e6825f36152bb3c3c57309c01f842">
+  <dict>
+    <!--2018-07-25 10:53:19.000-->
+    <string key="hw_networkname_normal">all,GPRS:G;EDGE:E;UMTS:4G;HSDPA:4G;HSUPA:4G;HSPA:4G;HSPA+:4G;LTE:4G LTE;CA:4G LTE</string>
+    <!--2018-07-27 15:55:37.000-->
+    <int key="num_match">10</int>
+  </dict>
+</config>

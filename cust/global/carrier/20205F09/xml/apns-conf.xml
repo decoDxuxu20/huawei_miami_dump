@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Vf Internet" mcc="202" mnc="05" apn="internet.vodafone.gr" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="0" productScope="phoneOnly"/>
+  <apn carrier="Vf Mobile Broadband" mcc="202" mnc="05" apn="internet" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="0" productScope="tabletOnly"/>
+  <apn carrier="Vf MMS" mcc="202" mnc="05" apn="mms.vodafone.net" user="user" server="" password="pass" proxy="" port="" mmsproxy="213.249.19.49" mmsport="5080" mmsc="http://mms.vodafone.gr" type="mms" authtype="0"/>
+  <apn carrier="XCAP" mcc="202" mnc="05" apn="hos" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV4V6"/>
+</apns>

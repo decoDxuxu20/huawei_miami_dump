@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="1fb608abf367f48d02a710035f9c3793">
+  <dict>
+    <!--2018-05-29 18:22:00.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-06-22 18:39:51.000-->
+    <string key="hide_sepcial_apn_form_list">hos</string>
+    <!--2018-12-03 11:50:55.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-12-03 11:55:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-12-03 11:15:55.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-06-01 17:22:09.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE+</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:26.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 15:22:57.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 16:07:55.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-14 17:50:14.000-->
+    <int key="set_new_apn_port">8080</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-09-25 20:00:31.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Telekom.de</string>
+    <!--2018-07-26 16:40:31.000-->
+    <bool key="vm_edit_not_to_sim_bool">true</bool>
+    <!--2018-07-28 14:45:59.000-->
+    <string key="voicemail_carrier">T-Mobile</string>
+    <!--2018-07-28 14:46:19.000-->
+    <string key="voicemail_number">3311</string>
+    <!--2018-07-28 14:46:08.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

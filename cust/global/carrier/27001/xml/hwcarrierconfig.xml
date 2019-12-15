@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="4105e1c5ee396dc320e3d581d63a440e">
+  <dict>
+    <!--2018-09-21 11:04:25.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-09-21 11:01:27.000-->
+    <string key="EspEncAlg">RCT_ALG_AES256_CBC,RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC</string>
+    <!--2018-09-21 11:00:36.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP2048</string>
+    <!--2018-09-21 11:05:09.000-->
+    <int key="Ikev2DpdInterval">600</int>
+    <!--2018-09-21 10:58:30.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2018-09-21 10:59:54.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-09-21 11:05:41.000-->
+    <int key="Ikev2MaxRetryToSend">5</int>
+    <!--2018-12-17 21:25:13.000-->
+    <int key="Ikev2NatRtcTimerMaxCnt">200</int>
+    <!--2018-12-17 21:25:13.000-->
+    <int key="Ikev2NatRtcTimerSec">20</int>
+    <!--2018-09-21 10:57:00.000-->
+    <int key="Ikev2PcscfIpv4Address">16384</int>
+    <!--2018-09-21 10:57:30.000-->
+    <int key="Ikev2PcscfIpv6Address">16386</int>
+    <!--2018-09-21 10:59:17.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-09-20 17:21:47.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-09-21 11:06:17.000-->
+    <bool key="carrier_default_wfc_ims_enabled_bool">false</bool>
+    <!--2018-09-25 17:35:49.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-12-26 09:56:03.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101010</string>
+    <!--2018-12-26 09:56:03.000-->
+    <string key="carrier_vowifi_title">Wifi Calling</string>
+    <!--2018-09-20 17:18:16.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-09-20 17:23:32.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2018-09-20 17:18:59.000-->
+    <int key="utBearType">2</int>
+    <!--2018-09-20 17:19:31.000-->
+    <int key="utBsfPort">10080</int>
+    <!--2018-09-21 11:12:48.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-09-20 17:22:42.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2018-11-30 16:12:43.000-->
+    <string key="utParamsCfg">0:1</string>
+    <!--2018-11-30 16:12:06.000-->
+    <int key="utUseApn">1</int>
+    <!--2018-10-19 16:55:27.000-->
+    <string key="vowifiHplmnListItem">27001,epdg.epc.mnc001.mcc270.pub.3gppnetwork.org</string>
+    <!--2018-09-21 10:53:18.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-09-21 11:07:31.000-->
+    <string key="vowifiRssiThreshold">-75,-85,-6,-7</string>
+    <!--2018-09-21 10:54:53.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-09-21 10:54:00.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-09-21 11:09:57.000-->
+    <string key="vowifiWifiChip24GConf">-85,-78,3,1</string>
+    <!--2018-09-21 10:51:18.000-->
+    <string key="vowifiWifiChip5GConf">-85,-78,3,1</string>
+    <!--2018-09-21 11:12:15.000-->
+    <string key="vowifi_UT_APN">hos</string>
+    <!--2018-09-21 11:13:16.000-->
+    <int key="vowifi_mmsut_pdn_type">2</int>
+    <!--2018-12-26 11:09:59.000-->
+    <bool key="vowifi_pref_domestic">true</bool>
+    <!--2018-12-26 11:22:36.000-->
+    <bool key="vowifi_pref_roaming">true</bool>
+    <!--2018-09-21 11:11:44.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+    <!--2018-09-21 11:11:16.000-->
+    <string key="wfc_format_wifi_string">%1$s Wi-Fi</string>
+    <!--2018-09-21 11:10:40.000-->
+    <string key="wfc_spn_string">POST</string>
+  </dict>
+</config>

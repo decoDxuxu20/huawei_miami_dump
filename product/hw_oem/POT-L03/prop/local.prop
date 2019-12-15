@@ -1,0 +1,32 @@
+# 2019-04-09 18:00:27.0
+persist.radio.defdualsimltemenu=false
+# 2018-07-06 19:43:06.0
+persist.sys.dualcards=false
+# 2018-06-29 09:05:32.0
+ro.boot.product.hardware.sku=POT-LX3
+# 2019-01-11 14:56:15.0
+ro.build.id=HUAWEIPOT-L03
+# 2019-06-24 16:25:34.0
+ro.config.certbyid=7747:;7779:;7428:;7429:;7430:;7431:
+# 2018-08-30 15:32:25.0
+ro.config.cpu_info_display=Hisilicon Kirin 710
+# 2018-07-06 15:58:41.0
+ro.config.hw_lte_support=true
+# 2018-07-06 19:43:06.0
+ro.config.hw_sim2airplane=false
+# 2018-09-12 18:59:41.0
+ro.config.nfcdisabled=true
+# 2019-06-24 16:25:34.0
+ro.config.safety_certification=FCC
+# 2018-11-20 20:19:32.0
+ro.hwcamera.ai_resolution=3264x2448
+# 2018-06-29 09:05:32.0
+ro.product.board=POT-L03
+# 2018-07-07 17:51:10.0
+ro.product.hardwareversion=HL3POTM
+# 2018-06-29 09:05:32.0
+ro.product.model=POT-LX3
+# 2018-06-29 09:05:32.0
+ro.product.name=POT-LX3
+
+ro.build.description=POT-LX3-user 9 HUAWEIPOT-LX3 314-OVS-LGRP2 release-keys

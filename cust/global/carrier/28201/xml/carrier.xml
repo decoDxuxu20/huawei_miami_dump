@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="625b4f62297ccacd4cd36cf9f72d17ad">
+  <dict>
+    <!--2018-07-27 15:55:33.000-->
+    <int key="num_match">8</int>
+    <!--2018-07-28 14:06:12.000-->
+    <string key="voicemail_carrier">Geocell</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">7020</string>
+    <!--2018-07-28 14:06:37.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

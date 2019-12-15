@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="cbd8c6e16b6b48e3bede979b8c6751f3">
+  <dict>
+    <!--2018-12-17 11:37:46.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-04-08 10:49:52.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-12-17 11:35:29.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-12-17 11:38:49.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2018-12-17 11:36:20.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-12-17 11:38:20.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2018-12-17 11:37:02.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

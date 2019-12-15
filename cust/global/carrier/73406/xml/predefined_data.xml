@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datainitializor >
+  <contact>
+    <name>Tu Saldo</name>
+    <phone>
+      <type>Mobile</type>
+      <detail>*5</detail>
+    </phone>
+  </contact>
+  <contact>
+    <name>At. Cliente</name>
+    <phone>
+      <type>Mobile</type>
+      <detail>*611</detail>
+    </phone>
+  </contact>
+  <contact>
+    <name>Emergencia</name>
+    <phone>
+      <type>Mobile</type>
+      <detail>911</detail>
+    </phone>
+  </contact>
+  <contact>
+    <name>Emergencia</name>
+    <phone>
+      <type>Mobile</type>
+      <detail>*1</detail>
+    </phone>
+  </contact>
+  <contact>
+    <name>Emergencia</name>
+    <phone>
+      <type>Mobile</type>
+      <detail>*171</detail>
+    </phone>
+  </contact>
+  <contact>
+    <name>Rec. Prepago</name>
+    <phone>
+      <type>Mobile</type>
+      <detail>*21</detail>
+    </phone>
+  </contact>
+</datainitializor>

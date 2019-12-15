@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-06-21 15:59:57.000-->
+  <integer hwdefault_CheckIntervalt="15"/>
+  <!--2018-05-30 21:10:45.000-->
+  <string settings.global.hw_nfcpay_screenoff_disable="true"/>
+</resources>

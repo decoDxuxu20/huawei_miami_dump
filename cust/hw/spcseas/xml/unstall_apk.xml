@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>/system/priv-app/HwMediaCenter_cloud.apk;</apk>
+  <restoreapk>/data/hw_init/product/region_comm/oversea/app/HwIntelligent.apk;/product/region_comm/oversea/app/HwBrowser.apk;/product/region_comm/oversea/app/HwIntelligent.apk;/system/priv-app/HwPushService.apk;/system/app/HwPushService.apk;/system/app/HMS.apk;/system/priv-app/HiSpace.apk;/system/app/HwCloudDrive.apk;/system/delapp/HiAppOOBE.apk;/system/app/HiFolder.apk;/system/app/HwUserExperience.apk;/system/priv-app/HwPhoneService.apk;/system/app/HwDetectRepair.apk;/system/priv-app/HwIntelligent.apk;/system/priv-app/HwMediaCenter.apk;</restoreapk>
+</tag>

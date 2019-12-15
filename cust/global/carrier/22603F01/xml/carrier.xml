@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b23ef4793ef17710660e10dd8cb1a81c">
+  <dict>
+    <!--2018-07-26 17:51:22.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:10.000-->
+    <int key="num_match">9</int>
+    <!--2018-06-22 16:18:48.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-14 17:52:20.000-->
+    <int key="set_new_apn_port">8080</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-09-25 20:00:22.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-08-06 15:09:56.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">TELEKOM.RO</string>
+    <!--2018-07-26 16:30:50.000-->
+    <bool key="vm_edit_not_to_sim_bool">true</bool>
+    <!--2018-08-13 16:16:12.000-->
+    <string key="voicemail_carrier">Cosmote</string>
+    <!--2018-07-31 16:46:38.000-->
+    <string key="voicemail_number">+40766177177</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

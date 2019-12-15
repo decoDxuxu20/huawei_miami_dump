@@ -1,0 +1,46 @@
+scene
+{
+node head
+                                {
+                                    url = my_head_up.gpb#Mesh
+                                    material = head_new_with_camera_texture.material#lambert1
+                                    tags {
+                                        __head__
+                                        __dynamic__
+                                    }
+                                }
+
+
+ node root {
+
+ 		node hat
+ 		{
+ 			url = ararehatfinal.gpb#hat
+ 			material = ararehatfinal.material#Mat_1
+            scale = 1.02, 1.02, 1.02
+ 		}
+ 		node wings
+ 		{
+ 			url = ararehatfinal.gpb#wings
+ 			material = ararehatfinal.material#material
+            translate = 0.0, 0.07, 0.02
+			scale = 1.02, 1.02, 1.02
+ 		}
+ 		node glasses
+ 		{
+ 			url = ararehatfinal.gpb#glasses
+ 			material = ararehatfinal.material#Mat_2
+
+ 		}
+
+
+ 		tags {
+
+ 			__dynamic__
+ 		}
+ 	}
+    physics
+    {
+        gravity = 0.0, -9.8, 0.0
+    }
+}

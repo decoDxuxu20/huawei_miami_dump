@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="3c9e89fc027472bf5763e41428d2e7d4">
+  <dict>
+    <!--2018-11-01 20:41:11.000-->
+    <string key="SMSCAddress">+447785016005</string>
+    <!--2018-12-01 16:44:36.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2018-05-29 18:21:04.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-06-09 10:49:08.000-->
+    <bool key="compatible_apn_switch">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:26.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 14:25:26.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 14:51:53.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-22 16:35:38.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2018-09-25 20:00:28.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-28 17:29:58.000-->
+    <string key="ussd_regex">(^#153#1234|#132#(\d+)\*|#45#(\d+)\*$)</string>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+911,+112,+999</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Talkmobile</string>
+    <!--2018-08-13 16:59:17.000-->
+    <string key="voicemail_carrier">Talk Mobile</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_number">121</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

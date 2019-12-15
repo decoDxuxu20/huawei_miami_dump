@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9961102b7738b2cd9356583c40547b17">
+  <dict>
+    <!--2018-10-31 15:55:29.000-->
+    <string key="hw_networkname_normal">all,GPRS:G;EDGE:E;UMTS:3G;HSDPA:3G+;HSUPA:3G+;HSPA:3G+;HSPA+:H+;LTE:4G;CA:4G+</string>
+    <!--2018-11-12 16:02:54.000-->
+    <bool key="hw_stk_blank_dialog_title">true</bool>
+    <!--2018-09-07 15:15:15.000-->
+    <bool key="hw_stk_calling_show_text">true</bool>
+    <!--2018-09-07 14:38:12.000-->
+    <bool key="hw_stk_home_back">true</bool>
+    <!--2018-09-07 10:56:11.000-->
+    <bool key="hw_stk_screen_on_unlock">true</bool>
+    <!--2018-09-07 14:54:03.000-->
+    <bool key="hw_stk_show_cancel_button">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">614400</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+  </dict>
+</config>

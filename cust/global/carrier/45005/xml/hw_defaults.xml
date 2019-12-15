@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-01-25 10:14:37.000-->
+  <string hw_predefined_eap_sim="T wifi zone_secure:EAP_AKA"/>
+  <!--2019-01-28 09:51:07.000-->
+  <string settings.global.preset_wifiByMccmnc="true"/>
+</resources>

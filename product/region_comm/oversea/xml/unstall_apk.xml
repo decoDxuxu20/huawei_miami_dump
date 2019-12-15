@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+    <apk>
+        /system/priv-app/Mms.apk
+        /system/app/HwRcsService.apk;
+        /product/region_comm/oversea/app/HwIntelligent.apk
+        /product/region_comm/oversea/app/HwDtmfAnalyzer.apk
+        /product/region_comm/oversea/app/HwRideMode.apk
+        /product/region_comm/oversea/app/HwWallet.apk
+        /product/app/UPTSMADDON.apk
+        /system/app/HwVAssistant.apk
+        /product/region_comm/oversea/app/HwUserGuide.apk;
+        /product/region_comm/oversea/app/Wnn_Japanese_Ext_Pack-HW.apk;
+    </apk>
+</tag>

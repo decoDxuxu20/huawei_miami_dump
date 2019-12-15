@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="82f0913f0f4798c61a83f183963e2acf">
+  <dict>
+    <!--2018-07-27 15:55:18.000-->
+    <int key="num_match">8</int>
+    <!--2018-09-25 20:00:58.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">GLOBE</string>
+  </dict>
+</config>

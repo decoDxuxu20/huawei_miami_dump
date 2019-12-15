@@ -1,0 +1,38 @@
+{
+  "minAppVersion": 491,
+  "shaderType": 0,
+  "filterId": "cameftLabi",
+  "SegmentRequired": 1,
+  "SegmentFeathering": 0,
+  "SegmentStrokeWidth": 0.0,
+  "SegmentStrokeGap": 0.0,
+  "SegmentStrokeColor": "#00000000",
+  "mvTemplateFile": "mv.dat",
+  "maxFaceCount": 1,
+  "itemList": [
+    {
+      "id": "empty",
+      "frameDuration": 1875.0,
+      "frames": 0,
+      "width": 0,
+      "height": 0,
+      "triggerType": 2,
+      "playCount": 0,
+      "alwaysTriggered": 1,
+      "type": 1,
+      "position": [0, 0]
+    },
+    {
+      "id": "action",
+      "frameDuration": 1875.0,
+      "frames": 0,
+      "width": 0,
+      "height": 0,
+      "triggerType": 10,
+      "playCount": 0,
+      "alwaysTriggered": 1,
+      "type": 1,
+      "position": [0, 0]
+    }
+  ]
+}

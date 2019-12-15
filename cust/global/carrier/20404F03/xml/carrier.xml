@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="66c8f9f393046b8605dc0b87f7ec6882">
+  <dict>
+    <!--2018-11-01 20:41:08.000-->
+    <string key="SMSCAddress">+316540881000</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:21.000-->
+    <int key="num_match">9</int>
+    <!--2018-05-28 14:18:43.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-04-11 13:51:31.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-04-11 13:56:49.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-10-23 19:46:11.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-09-25 20:00:12.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-08-03 15:37:37.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Ziggo</string>
+    <!--2018-08-09 09:56:23.000-->
+    <string key="voicemail_carrier">Ziggo</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_number">31637001233</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="151d79ca7b7446a94295344b9331e02d">
+  <dict>
+    <dict key="portHostKey">
+      <string key="supl_port">7276</string>
+      <string key="supl_host">supl.google.com</string>
+    </dict>
+  </dict>
+</config>

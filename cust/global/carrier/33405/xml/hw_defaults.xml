@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-06-28 15:45:20.000-->
+  <string hw_weatherclock_myloc_show_first="false"/>
+  <!--2018-07-04 16:07:35.000-->
+  <string settings.global.predefined_speednum_editable="false"/>
+  <!--2018-08-08 18:15:33.000-->
+  <string settings.global.speeddial_predefined_numbers="3,*611;"/>
+</resources>

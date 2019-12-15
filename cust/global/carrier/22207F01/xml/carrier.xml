@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="038bccef5e1d5acd4f619fdc0487888f">
+  <dict>
+    <!--2018-11-01 18:04:12.000-->
+    <int key="num_match">7</int>
+    <!--2018-11-01 18:06:21.000-->
+    <string key="virtual_ecclist_withcard">+112,+911</string>
+    <!--2018-11-01 18:07:50.000-->
+    <string key="virtualnet_operatorname">KENA MOBILE</string>
+  </dict>
+</config>

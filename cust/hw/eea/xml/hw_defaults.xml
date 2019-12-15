@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-22 11:28:48.000-->
+  <integer hw_status_bar_operators="1"/>
+  <!--2019-03-22 11:39:18.000-->
+  <string settings.global.hw_auto_hide_operatorname="true"/>
+</resources>

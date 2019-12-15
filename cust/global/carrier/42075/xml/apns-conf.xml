@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Mobily Internet (Prepaid)" mcc="420" mnc="75" apn="web2" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="Mobily Internet (Postpaid)" mcc="420" mnc="75" apn="web1" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="XCAP APN" mcc="420" mnc="75" apn="XCAP" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IP"/>
+</apns>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="63e6e9d1d3b79331967ceeed72519422">
+  <dict>
+    <!--2018-05-29 18:23:20.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-07-25 10:43:24.000-->
+    <string key="hw_networkname_normal">all,GPRS:G;EDGE:E;UMTS:4G;HSDPA:4G;HSUPA:4G;HSPA:4G;HSPA+:4G;LTE:4G LTE;CA:4G LTE</string>
+    <!--2018-12-19 15:58:15.000-->
+    <int key="max_message_size">1048576</int>
+    <!--2018-07-27 15:55:40.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 15:14:20.000-->
+    <int key="plmn_esm_flag">1</int>
+  </dict>
+</config>
