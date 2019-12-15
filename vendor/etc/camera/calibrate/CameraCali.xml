@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CaliConfig>
+    <SURF_PARA>
+    <surf_hessianThreshold>300</surf_hessianThreshold>
+	<surf_matchThreshold>75</surf_matchThreshold>
+	<surf_nOctaveLayers>3</surf_nOctaveLayers>
+	<surf_nOctaves>1</surf_nOctaves>
+	<surf_discriptor_size>64</surf_discriptor_size>
+	<surf_discriptor_upright>1</surf_discriptor_upright>
+	<surf_discriptor_patchSize>20</surf_discriptor_patchSize>
+    </SURF_PARA>
+	<RANSAC_PARA>
+	<ransac_maxIter>1000</ransac_maxIter>
+	<ransac_threshold>20</ransac_threshold>
+	<ransac_confidence>9995</ransac_confidence>
+	</RANSAC_PARA>
+	<CALI_PARA>
+	<homo_distance_thresh>10</homo_distance_thresh>
+	<nb_matchings_thresh>120</nb_matchings_thresh>
+	<R_diff_thresh>5</R_diff_thresh>
+	<t_diff_thresh>40</t_diff_thresh>
+	<test_image_avg_dist_thresh>5</test_image_avg_dist_thresh>
+	<flag_phi>1</flag_phi>
+	<flag_psi>1</flag_psi>
+	<flag_alpha>1</flag_alpha>
+	<flag_beta>1</flag_beta>
+	<flag_gamma>1</flag_gamma>
+	<maxFrame>30</maxFrame>
+	<maxCount>30</maxCount>
+	</CALI_PARA>
+	<LM_PARA>
+	<minLM_threshold>6</minLM_threshold>
+	<maxIters>300</maxIters>
+	</LM_PARA>
+	<final_otp_option>0</final_otp_option>
+	<iter_LM_nb>3</iter_LM_nb>
+	<iter_LM_std_factor>25</iter_LM_std_factor>
+</CaliConfig>

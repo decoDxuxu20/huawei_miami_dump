@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<computingres>
+
+    <GPU computingDev="GPU" compileMode="1" fixPoints="16BIT,8BIT" floatPoints="16BIT,32BIT" suppotSparse="1" />
+    <CPU computingDev="CPU" compileMode="1" fixPoints="16BIT,8BIT" floatPoints="16BIT,32BIT" suppotSparse="1" />
+
+</computingres>

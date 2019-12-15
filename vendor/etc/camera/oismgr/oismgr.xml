@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG_PARA>
+    <!-- bright: EV <= ev1 -->
+    <!-- normal: ev1 < EV <= ev2 -->
+    <!-- dark  : EV > ev2 -->
+    <!-- stable: abs(lens_position - serv_on_position) < deltaLens(um) -->
+    <!-- waitFrmNum : only enable in preview -->
+    <THRESHOLD ev1="1024" ev2="28672" deltaLens="2" waitFrmNum="5">
+    </THRESHOLD>
+    <!-- ois mode options: on/off/... -->
+    <OIS_MODE zoom="on" video="on" videoBokeh="off"
+              previewBright="on" previewNormal="on" previewDark="on"
+              captureBright="on" captureNormal="on" captureDark="on">
+    </OIS_MODE>
+</CONFIG_PARA>
