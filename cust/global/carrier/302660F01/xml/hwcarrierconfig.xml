@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="2f0d8d3c94a81f13377cdcba5bd94489">
+  <dict>
+    <!--2018-08-30 11:49:16.000-->
+    <int key="maxImageHeight">1440</int>
+    <!--2018-08-30 11:52:43.000-->
+    <int key="maxImageWidth">1920</int>
+    <!--2018-07-09 11:48:38.000-->
+    <int key="maxMessageSize">614400</int>
+    <!--2019-03-06 17:38:30.000-->
+    <int key="smsToMmsTextThreshold">10</int>
+    <!--2018-07-04 17:31:45.000-->
+    <bool key="suppport_cnap_bool">true</bool>
+  </dict>
+</config>

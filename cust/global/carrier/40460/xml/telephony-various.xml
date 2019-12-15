@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="a5bcd2fee7733c4a635f6ab4030112c9">
+  <dict>
+    <array key="plmn_spn">
+      <dict>
+        <string key="network_mccmnc">40470</string>
+        <string key="sim_mccmnc">40460</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">Vodafone</string>
+        <string key="plmn">Vodafone</string>
+      </dict>
+    </array>
+    <array key="set_mtu"/>
+    <array key="plmn_abbrev"/>
+    <array key="net_sim_ue_pri"/>
+  </dict>
+</config>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ac6485c15774e98c8490c46bd305215d">
+  <dict>
+    <!--2018-11-01 20:41:10.000-->
+    <string key="SMSCAddress">+447785016005</string>
+    <!--2018-12-01 16:44:36.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2018-05-29 18:21:04.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-06-09 10:49:08.000-->
+    <bool key="compatible_apn_switch">true</bool>
+    <!--2018-09-29 08:47:56.000-->
+    <string key="hw_networkname_normal">all,GSM:G</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:25.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 14:26:25.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-19 10:01:10.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-22 16:52:24.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-06-14 17:23:24.000-->
+    <bool key="remove_apn_MVNO">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2018-09-25 20:00:28.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-28 17:31:11.000-->
+    <string key="ussd_regex">(^#153#1234|#132#(\d+)\*|#45#(\d+)\*$)</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">vodafone UK</string>
+    <!--2018-07-28 14:45:59.000-->
+    <string key="voicemail_carrier">Vodafone</string>
+    <!--2018-07-28 14:46:19.000-->
+    <string key="voicemail_number">121</string>
+    <!--2018-07-28 14:46:07.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

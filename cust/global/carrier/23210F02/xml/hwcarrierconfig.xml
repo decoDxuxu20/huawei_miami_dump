@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c87270d9271fce068d69cfecc6c5c8f0">
+  <dict>
+    <!--2018-06-21 17:14:03.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2018-05-28 17:36:37.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:36:37.000-->
+    <string key="EspEncAlg">RCT_ALG_AES256_CBC</string>
+    <!--2018-05-28 17:36:37.000-->
+    <int key="IPsecSaLifeTime">28800</int>
+    <!--2018-05-28 17:36:36.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024,RCT_ALG_MODP1536,RCT_ALG_MODP2048</string>
+    <!--2018-05-28 17:36:36.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES256_CBC</string>
+    <!--2018-05-28 17:36:36.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:36:37.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">28800</int>
+    <!--2018-05-28 17:36:37.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">28800</int>
+    <!--2018-05-28 17:36:36.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:36:37.000-->
+    <int key="Ikev2SaLifeTime">28800</int>
+    <!--2018-05-28 17:36:35.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-05-28 17:36:36.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-05-28 17:36:36.000-->
+    <int key="carrier_default_wfc_ims_mode_int">3</int>
+    <!--2018-05-30 16:28:07.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-06-19 23:47:41.000-->
+    <bool key="carrier_volte_show_calltrans_bool">true</bool>
+    <!--2018-05-28 17:36:36.000-->
+    <bool key="carrier_wfc_supports_cellular_preferred_bool">true</bool>
+    <!--2018-10-09 15:50:09.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2018-05-21 16:30:10.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-12-19 10:33:22.000-->
+    <string key="ssTypeUseCsOnly">12</string>
+    <!--2018-05-28 17:36:35.000-->
+    <int key="utBsfPort">443</int>
+    <!--2018-05-28 17:36:35.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc010.mcc232.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:36:36.000-->
+    <bool key="utBsfUsehttps">true</bool>
+    <!--2018-12-19 10:34:04.000-->
+    <bool key="utCanUseWifi">false</bool>
+    <!--2018-05-28 17:36:35.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-05-28 17:36:35.000-->
+    <int key="utNafPort">443</int>
+    <!--2018-05-28 17:36:35.000-->
+    <bool key="utNafUseHttps">true</bool>
+    <!--2019-01-25 16:40:09.000-->
+    <string key="utParamsCfg">0:1,12:1</string>
+    <!--2018-05-28 17:36:36.000-->
+    <string key="vowifiHplmnListItem">23210, epdg.epc.mnc010.mcc232.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:36:37.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:36:37.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-05-28 17:36:37.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-05-28 17:36:38.000-->
+    <bool key="vowifi_roaming_switch">true</bool>
+    <!--2018-05-28 17:36:38.000-->
+    <string key="wfc_format_wifi_string">%1$s WLAN Call</string>
+    <!--2018-05-28 17:36:38.000-->
+    <string key="wfc_spn_string">3AT</string>
+  </dict>
+</config>

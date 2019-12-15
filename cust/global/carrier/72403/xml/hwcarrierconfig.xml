@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b559c7e04c0faefca125b76079d3d509">
+  <dict>
+    <!--2018-08-29 19:34:24.000-->
+    <string key="carrier_networkmode_gstyle">true</string>
+    <!--2019-08-01 11:29:35.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-08-01 11:29:35.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc003.mcc724.pub.3gppnetwork.org</string>
+    <!--2019-08-01 11:29:35.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+  </dict>
+</config>

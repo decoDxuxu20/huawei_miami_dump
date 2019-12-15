@@ -1,0 +1,8 @@
+/data/hw_init/system(/.*)?    u:object_r:cust_file:s0
+/data/hw_init/product(/.*)?   u:object_r:cust_file:s0
+/data/hw_init/cust(/.*)?      u:object_r:cust_file:s0
+/data/hw_init/version(/.*)?   u:object_r:cust_file:s0
+/data/hw_init/preload(/.*)?   u:object_r:cust_file:s0
+/data/hw_init/product/etc/aimodel(/.*)?      u:object_r:hwaiengine_data_file:s0
+/data/hw_init/product/region_comm/china/aimodel(/.*)?     u:object_r:hwaiengine_data_file:s0
+/data/hw_init/product/region_comm/oversea/aimodel(/.*)?   u:object_r:hwaiengine_data_file:s0

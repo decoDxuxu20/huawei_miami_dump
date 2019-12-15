@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Vodafone live!" mcc="226" mnc="01" apn="live.vodafone.com" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl,dun" productScope="phoneOnly"/>
+  <apn carrier="Internet" mcc="226" mnc="01" apn="internet.vodafone.ro" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl,dun" productScope="tabletOnly"/>
+  <apn carrier="Vodafone MMS" mcc="226" mnc="01" apn="mms.vodafone.ro" user="mms" server="" password="vodafone" proxy="" port="" mmsproxy="193.230.161.231" mmsport="8080" mmsc="http://multimedia/servlets/mms" type="mms" authtype="1"/>
+</apns>

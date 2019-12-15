@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>
+  /system/app/HiView.apk;
+  </apk>
+  <apk>
+  /system/app/HiViewTunnel.apk;
+  </apk>
+  <restoreapk>/system/priv-app/HiSpace.apk;</restoreapk>
+  <restoreapk>/system/priv-app/HwHiAIDSEngine.apk;</restoreapk>
+  <restoreapk>/system/priv-app/HiAction.apk;</restoreapk>
+  <restoreapk>/system/priv-app/HiVision.apk;</restoreapk>
+  <restoreapk>/system/priv-app/HwHiAiEngine.apk;</restoreapk>
+  <restoreapk>/system/priv-app/HiTouch.apk;</restoreapk>
+</tag>

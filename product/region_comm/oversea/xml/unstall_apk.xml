@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>
+/system/priv-app/Mms.apk;
+/system/app/HwRcsService.apk;
+/system/priv-app/PredefinedEapSim.apk;
+/data/hw_init/product/region_comm/oversea/app/HwWallet.apk;
+/data/hw_init/product/region_comm/oversea/app/HwIntelligent.apk;
+/data/hw_init/product/region_comm/oversea/app/HwDtmfAnalyzer.apk;
+/data/hw_init/product/region_comm/oversea/app/HwRideMode.apk;
+/product/region_comm/oversea/app/HonorClub.apk;
+</apk>
+</tag>

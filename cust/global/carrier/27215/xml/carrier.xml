@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="a2cd33d16ee175d598e68c67929cc807">
+  <dict>
+    <!--2018-08-23 19:18:30.000-->
+    <string key="voicemail_carrier">Virgin Media Ireland</string>
+    <!--2018-08-23 19:18:30.000-->
+    <string key="voicemail_number">+353896191171</string>
+    <!--2018-08-23 19:18:30.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

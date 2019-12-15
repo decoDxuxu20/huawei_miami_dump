@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="4e66b5af670703b939a79fe03a561960">
+  <dict>
+    <!--2018-08-27 15:04:16.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-07-27 15:56:10.000-->
+    <int key="num_match">8</int>
+    <!--2018-08-27 15:04:55.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-06-27 16:00:44.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2018-09-25 20:01:02.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+133,+112,+911</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Virgin</string>
+    <!--2018-08-13 17:50:52.000-->
+    <string key="voicemail_carrier">Virgin SPA</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_number">300</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

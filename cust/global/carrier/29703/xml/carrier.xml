@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="1c5736585a5966913214e81d203b6bd0">
+  <dict>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:07.000-->
+    <int key="num_match">8</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-07-28 14:06:09.000-->
+    <string key="voicemail_carrier">m:tel</string>
+    <!--2018-07-28 14:06:22.000-->
+    <string key="voicemail_number">14777</string>
+    <!--2018-07-28 14:06:34.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

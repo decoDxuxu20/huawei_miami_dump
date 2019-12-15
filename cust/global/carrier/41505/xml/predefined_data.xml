@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datainitializor>
+  <contact>
+    <name>Huawei Customer Service</name>
+    <company>Lebanon</company>
+    <email>
+      <detail>mobile.lb@huawei.com</detail>
+    </email>
+    <phone>
+      <detail>1279</detail>
+    </phone>
+    <care>true</care>
+  </contact>
+</datainitializor>

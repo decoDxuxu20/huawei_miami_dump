@@ -1,0 +1,8 @@
+# 2018-12-28 16:10:28.0
+ro.config.check_battery_error=false
+# 2018-08-01 15:54:01.0
+ro.config.ringtone=Huawei_Tune_Living.ogg
+# 2018-08-01 15:54:01.0
+ro.config.ringtone2=Huawei_Tune_Orchestral.ogg
+# 2018-08-02 20:32:21.0
+ro.cust.cdrom=/data/hw_init/product/region_comm/oversea/cdrom/autorun.iso

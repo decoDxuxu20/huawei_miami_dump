@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="giga" mcc="525" mnc="05" apn="giga" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default"/>
+</apns>

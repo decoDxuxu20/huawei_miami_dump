@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apns  version="8">
+  <apn carrier="Beeline Internet" mcc="250" mnc="99" apn="internet.beeline.ru" user="beeline" server="" password="beeline" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="1"/>
+  <apn carrier="Beeline MMS" mcc="250" mnc="99" apn="mms.beeline.ru" user="beeline" server="" password="beeline" proxy="" port="" mmsproxy="192.168.94.23" mmsport="8080" mmsc="http://mms/" type="mms" authtype="1"/>
+  <apn carrier="Beeline UT" mcc="250" mnc="99" apn="xcap.beeline.ru" user="beeline" server="" password="beeline" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IP"/>
+</apns>

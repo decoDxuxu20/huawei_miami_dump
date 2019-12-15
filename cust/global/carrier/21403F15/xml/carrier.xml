@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ec6c71f66be08e2d6e3751da6bf35d03">
+  <dict>
+    <!--2018-07-27 15:55:29.000-->
+    <int key="num_match">9</int>
+    <!--2018-06-27 16:00:35.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">IOS</string>
+  </dict>
+</config>

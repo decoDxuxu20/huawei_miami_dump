@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-10-08 18:04:06.000-->
+  <string display_brazil_cbs_widget="true"/>
+  <!--2019-08-27 16:11:41.000-->
+  <string settings.global.forbid_clear_noti="true"/>
+  <!--2019-02-18 14:09:19.000-->
+  <integer settings.global.sms_center_editable="0"/>
+  <!--2018-08-08 17:39:24.000-->
+  <string settings.global.speeddial_predefined_numbers=""/>
+</resources>

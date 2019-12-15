@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5547b37a56569aee8f3bfb90d6fe34d3">
+  <dict>
+    <!--2019-07-06 11:58:31.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-07-06 11:58:31.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2019-07-06 11:58:31.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2019-07-06 11:58:31.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2019-07-06 11:58:31.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-07-06 11:58:31.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-03-12 20:28:31.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-03-26 16:26:53.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-09-16 10:28:59.000-->
+    <int key="carrier_default_wfc_ims_mode_int">3</int>
+    <!--2019-04-02 18:55:37.000-->
+    <string key="carrier_volte_hd_icon_flag">00000000</string>
+    <!--2019-04-02 18:55:37.000-->
+    <bool key="carrier_volte_show_switch_bool">false</bool>
+    <!--2019-07-15 09:56:41.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101010</string>
+    <!--2019-09-16 10:28:59.000-->
+    <bool key="carrier_wfc_supports_cellular_preferred_bool">true</bool>
+    <!--2019-03-12 20:28:31.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-07-06 16:56:12.000-->
+    <int key="smsToMmsTextThreshold">10</int>
+    <!--2019-03-12 20:28:31.000-->
+    <int key="utBsfPort">80</int>
+    <!--2019-07-10 14:30:00.000-->
+    <bool key="vilte_data_is_metered_bool">false</bool>
+    <!--2019-07-06 11:58:31.000-->
+    <string key="vowifiHplmnListItem">22601, epdg.epc.mnc001.mcc226.pub.3gppnetwork.org</string>
+    <!--2019-07-06 11:58:31.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2019-07-06 11:58:31.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2019-07-06 11:58:31.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2019-07-06 11:58:31.000-->
+    <string key="vowifi_UT_APN">internet.vodafone.ro</string>
+    <!--2019-07-23 18:08:39.000-->
+    <bool key="vowifi_roaming_switch">false</bool>
+    <!--2019-07-06 11:58:31.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+  </dict>
+</config>

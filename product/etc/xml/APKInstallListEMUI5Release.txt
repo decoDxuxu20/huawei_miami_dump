@@ -1,0 +1,5 @@
+/product/app/HwFidoAsm/HwFidoAsm.apk
+/product/app/HwFidoClient/HwFidoClient.apk
+/product/app/HwNaturalBase/HwNaturalBase.apk,priv
+/product/app/ProjectMenuAct/ProjectMenuAct.apk,priv
+/product/app/SWSHeadphone/SWSHeadphone.apk

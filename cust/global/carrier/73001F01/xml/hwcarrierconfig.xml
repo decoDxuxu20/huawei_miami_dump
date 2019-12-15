@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="90755f7fb2d569fa1cb3c157029e710a">
+  <dict>
+    <!--2019-01-21 21:29:49.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2019-06-27 17:44:48.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-06-27 17:44:48.000-->
+    <string key="EspEncAlg">RCT_ALG_AES256_CBC</string>
+    <!--2019-06-27 17:44:48.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP2048</string>
+    <!--2019-06-27 17:44:48.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES256_CBC</string>
+    <!--2019-06-27 17:44:48.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-06-27 17:44:48.000-->
+    <int key="Ikev2PcscfIpv4Address">16384</int>
+    <!--2019-06-27 17:44:48.000-->
+    <int key="Ikev2PcscfIpv6Address">16386</int>
+    <!--2019-06-27 17:44:48.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-03-28 10:56:39.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-09-27 20:23:20.000-->
+    <int key="carrier_default_wfc_ims_mode_int">2</int>
+    <!--2019-02-18 19:19:02.000-->
+    <string key="carrier_statusbar_volte_type">VOLTE_DL_CENTER</string>
+    <!--2019-02-18 19:19:02.000-->
+    <string key="carrier_statusbar_vowifi_type">VOWIFI_DL_CENTER</string>
+    <!--2019-02-13 15:51:17.000-->
+    <string key="carrier_volte_hd_icon_flag">10100000</string>
+    <!--2019-02-13 17:05:54.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10100000</string>
+    <!--2018-12-26 16:44:22.000-->
+    <string key="carrier_vowifi_title">WIFI Calling</string>
+    <!--2019-03-28 15:44:49.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-01-21 21:28:56.000-->
+    <int key="utBsfPort">10080</int>
+    <!--2019-01-21 21:30:37.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc001.mcc730.pub.3gppnetwork.org</string>
+    <!--2019-03-28 15:44:49.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2019-01-21 21:28:05.000-->
+    <int key="utNafPort">8080</int>
+    <!--2018-09-27 20:17:35.000-->
+    <string key="vowifiHplmnListItem">73001, epdg.epc.mnc001.mcc730.pub.3gppnetwork.org</string>
+    <!--2018-09-27 20:18:05.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-09-27 20:19:46.000-->
+    <string key="vowifiRssiThreshold">-66,-85,-6,-10</string>
+    <!--2018-09-27 20:18:48.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-09-27 20:18:28.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-09-27 20:23:42.000-->
+    <bool key="vowifiSupportFirmwareKA">true</bool>
+    <!--2018-09-27 20:22:01.000-->
+    <string key="vowifiWifiChip24GConf">-85,-75,3,1</string>
+    <!--2018-09-27 20:22:28.000-->
+    <string key="vowifiWifiChip5GConf">-85,-75,3,1</string>
+    <!--2019-02-13 17:07:04.000-->
+    <bool key="vowifi_pref_roaming">true</bool>
+    <!--2018-09-27 20:19:15.000-->
+    <bool key="vowifi_roaming_switch">true</bool>
+  </dict>
+</config>

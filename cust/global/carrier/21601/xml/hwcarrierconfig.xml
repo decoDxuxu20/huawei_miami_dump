@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="a570a1f0cbccc69fc3b6266ac963ae81">
+  <dict>
+    <!--2018-10-19 09:54:54.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2018-05-28 17:35:04.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:35:04.000-->
+    <string key="EspEncAlg">RCT_ALG_AES256_CBC,RCT_ALG_DES3_CBC</string>
+    <!--2018-05-28 17:35:04.000-->
+    <int key="IPsecSaLifeTime">28800</int>
+    <!--2018-05-28 17:35:04.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2018-05-28 17:35:03.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES256_CBC,RCT_ALG_DES3_CBC</string>
+    <!--2018-05-28 17:35:04.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:35:04.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">28800</int>
+    <!--2018-05-28 17:35:04.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1,RCT_ALG_AES_XCBC</string>
+    <!--2018-05-28 17:35:03.000-->
+    <int key="callWaitingMode">3</int>
+    <!--2018-05-28 17:35:03.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-05-28 17:35:03.000-->
+    <int key="carrier_default_wfc_ims_mode_int">1</int>
+    <!--2018-05-30 18:08:25.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-05-21 16:30:07.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-05-28 17:35:03.000-->
+    <int key="utBsfPort">80</int>
+    <!--2018-05-28 17:35:03.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc001.mcc216.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:35:02.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-05-28 17:35:03.000-->
+    <string key="utNafSrvAddr">xcap.ims.mnc001.mcc216.pub.3gppnetwork.org</string>
+    <!--2018-10-19 09:55:26.000-->
+    <int key="utUseApn">3</int>
+    <!--2018-05-28 17:35:03.000-->
+    <string key="vowifiHplmnListItem">21601, epdg.epc.mnc001.mcc216.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:35:05.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:35:04.000-->
+    <string key="vowifiRssiThreshold">-65,-79,-6,-7</string>
+    <!--2018-05-28 17:35:05.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-05-28 17:35:05.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-05-28 17:35:04.000-->
+    <string key="vowifiWifiChip24GConf">-79,-72,3,1</string>
+    <!--2018-05-28 17:35:05.000-->
+    <string key="vowifiWifiChip5GConf">-79,-72,3,1</string>
+    <!--2018-05-28 17:35:05.000-->
+    <string key="vowifi_UT_APN">online</string>
+    <!--2018-05-28 17:35:03.000-->
+    <bool key="vowifi_mms_switch">true</bool>
+    <!--2018-05-28 17:35:05.000-->
+    <bool key="vowifi_roaming_switch">true</bool>
+    <!--2018-05-28 17:35:03.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+  </dict>
+</config>

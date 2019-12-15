@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mms_config>
+  <!--2018-11-10 17:01:15.000-->
+  <bool name="enableSendingBlankSMS">true</bool>
+  <!--2018-10-25 15:06:11.000-->
+  <bool name="enableShortPhoneNumberLink">true</bool>
+  <!--2018-10-26 15:33:01.000-->
+  <bool name="isChangeClassZeroMessageShow">true</bool>
+</mms_config>

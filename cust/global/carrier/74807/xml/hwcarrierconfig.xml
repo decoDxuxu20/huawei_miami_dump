@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6099faaeacda6eaeed9e81886efcda27">
+  <dict>
+    <!--2019-03-12 20:49:35.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-03-12 20:49:35.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2019-03-12 20:49:35.000-->
+    <int key="IPsecSaLifeTime">28800</int>
+    <!--2019-03-12 20:49:35.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2019-03-12 20:49:35.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2019-03-12 20:49:35.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-03-12 20:49:35.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">28800</int>
+    <!--2019-03-12 20:49:35.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">28800</int>
+    <!--2019-03-12 20:49:35.000-->
+    <int key="Ikev2MaxRetryToSend">5</int>
+    <!--2019-03-12 20:49:35.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2019-03-12 20:49:35.000-->
+    <int key="Ikev2SaLifeTime">86400</int>
+    <!--2018-05-28 17:50:56.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-05-28 17:50:56.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-05-15 17:22:26.000-->
+    <string key="carrier_incall_cust_vowifi_type">VOZWIFI_DL</string>
+    <!--2018-11-27 17:01:11.000-->
+    <string key="carrier_statusbar_volte_type">VOLTE_SIG_DL</string>
+    <!--2019-05-16 10:27:09.000-->
+    <string key="carrier_statusbar_vowifi_type">VOZWIFI_DL</string>
+    <!--2018-05-30 18:18:25.000-->
+    <string key="carrier_volte_hd_icon_flag">01100101</string>
+    <!--2019-05-15 17:22:26.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101010</string>
+    <!--2019-03-12 20:49:35.000-->
+    <bool key="carrier_wfc_supports_cellular_preferred_bool">true</bool>
+    <!--2018-07-16 18:42:33.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2018-05-21 16:30:29.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-02-14 11:03:24.000-->
+    <int key="smsToMmsTextThreshold">6</int>
+    <!--2018-07-11 16:29:55.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+    <!--2019-07-01 20:42:34.000-->
+    <string key="ssTypeUseCsOnly">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23</string>
+    <!--2019-03-12 20:49:35.000-->
+    <string key="vowifiHplmnListItem">74807, epdg.epc.mnc007.mcc748.pub.3gppnetwork.org</string>
+    <!--2019-03-12 20:49:35.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2019-03-12 20:49:35.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2019-03-12 20:49:35.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2019-03-20 16:43:04.000-->
+    <bool key="vowifi_roaming_switch">true</bool>
+    <!--2019-03-12 20:49:35.000-->
+    <string key="wfc_format_wifi_string">%1$s</string>
+    <!--2019-10-07 20:22:19.000-->
+    <string key="wfc_spn_string">Movistar</string>
+  </dict>
+</config>

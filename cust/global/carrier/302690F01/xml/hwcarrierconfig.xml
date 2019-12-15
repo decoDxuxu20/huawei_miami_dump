@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="2223a974c7d7e36f77f44642146c9769">
+  <dict>
+    <!--2019-02-15 17:05:15.000-->
+    <bool key="vowifi_support_emergencycall_concurrence">true</bool>
+  </dict>
+</config>

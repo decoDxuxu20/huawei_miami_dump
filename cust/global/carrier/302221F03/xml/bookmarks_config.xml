@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="315effe236a4c48e87a12c8ecf49b3fe">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks">
+        <dict>
+          <string key="title">Self-Serve</string>
+          <string key="url">http://www.pcmobile.ca/selfserve</string>
+        </dict>
+        <dict>
+          <string key="title">Store Locator</string>
+          <string key="url">http://www.pcmobile.ca/storelocator</string>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

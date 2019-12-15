@@ -1,0 +1,74 @@
+# 2018-05-29 21:04:20.000
+drm.service.enabled=true
+# 2018-05-30 21:48:51.000
+ro.camera.cos_ttpic_supported=false
+# 2018-05-29 15:31:48.000
+ro.config.CphsOnsEnabled=true
+# 2018-05-28 17:58:50.000
+ro.config.attach_apn_enabled=true
+# 2018-05-28 10:56:35.000
+ro.config.cbs_del_2B=true
+# 2019-05-22 16:22:49.000
+ro.config.clear_nitz_when_reg=false
+# 2018-05-28 19:05:44.000
+ro.config.delay_updatename=true
+# 2018-05-31 16:46:26.000
+ro.config.delete.preferapn=true
+# 2019-05-10 11:50:01.000
+ro.config.hw.region=la
+# 2018-05-26 10:34:35.000
+ro.config.hw_always_allow_mms=6
+# 2018-07-04 10:40:10.000
+ro.config.hw_cbs_mcc=730
+# 2018-07-02 16:07:04.000
+ro.config.hw_custverdisplay=true
+# 2018-05-28 17:49:37.000
+ro.config.hw_ecc_with_sim_card=true
+# 2018-11-06 19:03:46.000
+ro.config.hw_nfc_msimce=false
+# 2018-07-09 19:57:31.000
+ro.config.hw_not_modify_wifi=WIFI ETB,WIFI ETB2
+# 2018-05-28 11:00:54.000
+ro.config.hw_omacp=1
+# 2018-05-31 09:57:39.000
+ro.config.hw_opta=605
+# 2018-05-31 09:57:39.000
+ro.config.hw_optb=999
+# 2018-08-27 11:29:46.000
+ro.config.hw_show_mmiError=true
+# 2018-07-30 15:57:49.000
+ro.config.hw_support_long_vmNum=true
+# 2018-05-29 14:46:23.000
+ro.config.hw_support_vm_ecc=true
+# 2018-07-09 16:16:33.000
+ro.config.hw_voicemail_sim=true
+# 2018-06-13 09:47:30.000
+ro.config.hw_volte_icon_rule=0
+# 2018-06-20 20:12:26.000
+ro.config.keyguard_unusedata=false
+# 2018-05-29 22:08:11.000
+ro.config.music_region=loudness
+# 2018-11-06 19:03:46.000
+ro.config.nfc_hasese=false
+# 2018-05-26 10:59:48.000
+ro.config.simlang=true
+# 2018-05-26 14:26:30.000
+ro.config.vm_prioritymode=2
+# 2018-05-29 21:04:58.000
+ro.huawei.cust.drm.fl_only=false
+# 2018-05-29 21:04:58.000
+ro.huawei.cust.oma_drm=true
+# 2018-06-05 11:26:04.000
+ro.odm.config.longDtmf=true
+# 2019-06-03 11:42:44.000
+ro.odm.gsm.fastdormancy.mode=1
+# 2018-06-01 16:46:25.000
+ro.product.CustCVersion=C605
+# 2018-11-06 19:03:46.000
+ro.product.cuptsm=
+# 2018-06-14 17:53:59.000
+ro.product.locale=es-AR
+# 2018-11-06 19:03:46.000
+ro.product.wallet.nfc=
+# 2018-09-11 14:52:08.000
+ro.vendor.config.camera.region=lm

@@ -1,0 +1,4 @@
+version=1.10.17.100
+type=NCFG
+subtype=JSN-L21
+compatibleVersion=1

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="20f4aeee81def3c1287147e7ae7c14ab">
+  <dict>
+    <!--2018-08-27 15:04:04.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-07-27 15:56:06.000-->
+    <int key="num_match">7</int>
+    <!--2018-08-27 15:04:46.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-07-28 14:06:16.000-->
+    <string key="voicemail_carrier">CBL</string>
+    <!--2018-07-28 14:06:29.000-->
+    <string key="voicemail_number">500</string>
+    <!--2018-07-28 14:06:40.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

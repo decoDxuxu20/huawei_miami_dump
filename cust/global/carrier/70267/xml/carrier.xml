@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="91d1534221a2fe1e5cde551a68eefd9b">
+  <dict>
+    <!--2018-08-27 15:03:54.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-07-25 11:02:20.000-->
+    <string key="hw_networkname_normal">all,GPRS:G;EDGE:E;UMTS:4G;HSDPA:4G;HSUPA:4G;HSPA:4G;HSPA+:4G;LTE:4G LTE;CA:4G LTE</string>
+    <!--2018-08-27 15:04:37.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+  </dict>
+</config>

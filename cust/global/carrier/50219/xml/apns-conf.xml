@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Celcom Internet" mcc="502" mnc="19" apn="celcom3g" user="" server="" password="" proxy="" port="" mmsproxy="10.128.1.242" mmsport="8080" mmsc="http://mms.celcom.net.my" type="default,supl,mms" authtype="1" protocol="IPV4V6" roaming_protocol="IPV4V6"/>
+</apns>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="066194bd751bf20813a7830ce1c101e1">
+  <array key="apks">
+    <dict>
+      <array key="cardinfo">
+        <string>230</string>
+        <string>216</string>
+        <string>226</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">com.huawei.userguide</string>
+      <string key="apkpath">/product/region_comm/oversea/app/HwUserGuide/HwUserGuide.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>234</string>
+        <string>235</string>
+        <string>90111</string>
+        <string>90114</string>
+        <string>208</string>
+        <string>34001</string>
+        <string>262</string>
+        <string>222</string>
+        <string>90126</string>
+        <string>214</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">com.huawei.honorclub.android</string>
+      <string key="apkpath">/product/region_comm/oversea/app/HonorClub/HonorClub.apk</string>
+    </dict>
+  </array>
+</config>

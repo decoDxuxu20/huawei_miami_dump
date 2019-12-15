@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Telekom MK Internet" mcc="294" mnc="01" apn="internet" user="internet" server="" password="t-mobile" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="1"/>
+  <apn carrier="Telekom MK MMS" mcc="294" mnc="01" apn="mms" user="mms" server="" password="mms" proxy="" port="" mmsproxy="062.162.155.227" mmsport="8080" mmsc="http://mms.t-mobile.com.mk" type="mms" authtype="1"/>
+  <apn carrier="XCAP" mcc="294" mnc="01" apn="HOS" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IP"/>
+</apns>

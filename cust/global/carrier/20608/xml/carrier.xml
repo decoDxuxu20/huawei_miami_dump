@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6bcd19925374220e13a0a35271cb01fc">
+  <dict>
+    <!--2018-12-24 09:42:22.000-->
+    <string key="hw_cust_long_vmNum">+32455005000</string>
+    <!--2018-12-26 15:50:06.000-->
+    <bool key="hw_support_long_vmNum">true</bool>
+    <!--2018-12-17 16:14:11.000-->
+    <string key="voicemail_carrier">Nethys</string>
+    <!--2018-12-19 19:53:41.000-->
+    <string key="voicemail_number">5000</string>
+    <!--2018-12-17 16:14:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

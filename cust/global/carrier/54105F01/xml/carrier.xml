@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="0a1a6109244be6641d150b5bd6b3de17">
+  <dict>
+    <!--2018-12-03 11:52:19.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-12-03 12:10:53.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-11-28 15:25:30.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-07-27 15:55:19.000-->
+    <int key="num_match">7</int>
+    <!--2018-09-25 20:01:00.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-08-06 15:09:57.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+    <!--2018-08-13 17:41:36.000-->
+    <string key="voicemail_carrier">Digicel</string>
+    <!--2018-08-14 10:22:14.000-->
+    <string key="voicemail_number">555</string>
+    <!--2018-08-14 10:22:14.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

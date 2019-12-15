@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>
+/system/app/HwWallet.apk;
+</apk>
+  <apk>
+/system/app/HwUserExperience.apk
+</apk>
+</tag>

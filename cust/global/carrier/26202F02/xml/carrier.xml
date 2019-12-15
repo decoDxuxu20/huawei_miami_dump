@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="304a30b5db3ea4a17a2b04731f36c7da">
+  <dict>
+    <!--2018-11-01 20:41:14.000-->
+    <string key="SMSCAddress">+491722270333</string>
+    <!--2018-07-27 15:55:31.000-->
+    <int key="num_match">10</int>
+    <!--2018-06-22 15:36:32.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-22 17:06:49.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-07-30 14:10:49.000-->
+    <string key="virtualnet_operatorname">1&amp;1</string>
+  </dict>
+</config>

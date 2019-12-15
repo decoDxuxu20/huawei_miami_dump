@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="927c0670635ba2b20527c4b32d76a197">
+  <dict>
+    <!--2018-06-04 23:40:43.000-->
+    <string key="carrier_volte_hd_icon_flag">00000000</string>
+    <!--2018-07-30 19:44:09.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-05-28 17:35:38.000-->
+    <string key="utParamsCfg">19:1</string>
+    <!--2018-12-04 21:09:17.000-->
+    <int key="utPreferOption">1</int>
+  </dict>
+</config>

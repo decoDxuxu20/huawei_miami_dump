@@ -1,0 +1,36 @@
+# 2018-08-02 20:08:06.0
+ro.boot.product.hardware.sku=JSN-L23
+# 2018-08-02 20:08:05.0
+ro.build.id=HONORJSN-L23
+# 2018-08-29 14:12:04.0
+ro.camera.cos_ttpic_supported=false
+# 2019-06-21 10:03:25.0
+ro.config.certbyid=HL1JSNMG:ce
+# 2018-08-02 20:08:05.0
+ro.config.cpu_info_display=Hisilicon Kirin 710
+# 2018-08-02 20:08:05.0
+ro.config.hw_srlte=true
+# 2018-08-02 20:08:05.0
+ro.config.hw_triple_finger=true
+# 2018-08-02 20:08:06.0
+ro.config.hw_vowifi_mmsut=true
+# 2018-12-11 14:30:30.0
+ro.config.marketing_name=Honor 8X
+# 2019-06-20 11:45:05.0
+ro.config.safety_certification=CE,FCC
+# 2018-08-02 20:08:05.0
+ro.dual.sim.phone=true
+# 2018-08-02 20:08:06.0
+ro.frp.pst=/dev/block/bootdevice/by-name/frp
+# 2018-08-02 20:08:05.0
+ro.product.board=JSN-L23
+# 2018-08-02 20:08:05.0
+ro.product.hardwareversion=HL3JSNM
+# 2018-08-02 20:08:05.0
+ro.product.model=JSN-L23
+# 2018-08-02 20:08:05.0
+ro.product.name=JSN-L23
+# 2018-08-22 17:23:37.0
+ro.vendor.config.hw_vowifi=true
+
+ro.build.description=JSN-L23-user 9.1.0 HONORJSN-L23 269-OVS-LGRP2 release-keys

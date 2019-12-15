@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<OperatorName>
+    <!-- AR000CR433 ywx458358 20190802 begin -->
+    <search sim_mcc_mnc="65502" gid="" mcc_mnc_name="65505" network_state="2G" display_name="Telkom SA-R 2G"></search>
+    <search sim_mcc_mnc="65502" gid="" mcc_mnc_name="65505" network_state="3G" display_name="Telkom SA-R 3G"></search>
+    <search sim_mcc_mnc="65502" gid="" mcc_mnc_name="65505" network_state="4G" display_name="Telkom SA-R 4G"></search>
+    <!-- AR000CR433 ywx458358 20190802 end -->
+</OperatorName>

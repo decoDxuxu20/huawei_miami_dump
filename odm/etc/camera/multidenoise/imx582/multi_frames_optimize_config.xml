@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Config>
+    <Global>
+        <EnableFramesOptimize>1</EnableFramesOptimize>
+        <!-- between ISO1 and ISO2, set multidenoise frame count 2 -->
+        <ISO1>400</ISO1>
+        <!-- between ISO2 and ISO3, set multidenoise frame count 4 -->
+        <ISO2>400</ISO2>
+        <!-- larger than ISO3, set multidenoise frame count 6 -->
+        <ISO3>5000</ISO3>
+    </Global>
+</Config>

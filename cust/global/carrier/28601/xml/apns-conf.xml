@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="Turkcell Internet"
+    mcc="286"
+    mnc="01"
+    apn="internet"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+  />
+  <apn carrier="Turkcell MMS"
+    mcc="286"
+    mnc="01"
+    apn="mms"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy="212.252.169.217"
+    mmsport="8080"
+    mmsc="http://mms.turkcell.com.tr/servlets/mms"
+    type="mms"
+  />
+</apns>

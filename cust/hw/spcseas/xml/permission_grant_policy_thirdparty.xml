@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultPermissionPolicy >
+  <Package name="com.LogiaGroup.LogiaDeck">
+    <PermissionGroup name="android.permission-group.PHONE" grant="true" systemFixed="false"/>
+  </Package>
+</DefaultPermissionPolicy>

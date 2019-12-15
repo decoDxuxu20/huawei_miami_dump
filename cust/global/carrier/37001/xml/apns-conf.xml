@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apns  version="8">
+  <apn carrier="Altice" mcc="370" mnc="01" apn="Altice" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" protocol="IPV4V6" roaming_protocol="IPV4V6"/>
+</apns>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="bcd0b1aadc0078a6975da3ebc9afeac4">
+  <dict>
+    <!--2018-11-01 20:41:10.000-->
+    <string key="SMSCAddress">+41794999000</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:24.000-->
+    <int key="num_match">7</int>
+    <!--2018-05-28 14:10:41.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 15:30:05.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-22 16:52:24.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">Swisscom</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">+41794997979</string>
+    <!--2018-07-28 14:06:37.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

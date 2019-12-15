@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="55e7c93cf07b0ff1d34b698a7faa3686">
+  <dict>
+    <!--2018-05-30 11:11:00.000-->
+    <bool key="carrier_hide_lte_high_speed_bool">true</bool>
+    <!--2018-05-29 19:12:11.000-->
+    <string key="carrier_wb_hd_icon_flag">000101</string>
+    <!--2018-07-02 17:49:38.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+  </dict>
+</config>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="Mobile Daten"
+    mcc="295"
+    mnc="05"
+    apn="mobilkom.li"
+    user="gprs@a1plus.at"
+    server=""
+    password="mobilkom"
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+    authtype="3"
+  />
+  <apn carrier="MMS"
+    mcc="295"
+    mnc="05"
+    apn="free.fl1.net"
+    user="ppp@a1plus.at"
+    server=""
+    password="ppp"
+    proxy=""
+    port=""
+    mmsproxy="194.48.124.71"
+    mmsport="8001"
+    mmsc="http://mmsc.a1.net"
+    type="mms"
+    authtype="3"
+  />
+</apns>

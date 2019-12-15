@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG_PARA>
+        <REMOSAIC_CAPSTRATEGY_CHANGE_ENABLE value="1"/>
+        <REMOSAIC_EVLUAM_THRESHOLD value="1000"/>
+        <REMOSAIC_EVLUAM_CHANGE_DOMAIN value="3"/>
+</CONFIG_PARA>

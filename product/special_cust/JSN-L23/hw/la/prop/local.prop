@@ -1,0 +1,12 @@
+# 2019-01-11 19:21:13.0
+ro.com.google.clientidbase.ms=android-huawei-rev1
+# 2019-01-11 19:22:10.0
+ro.config.empty.package=true
+# 2019-01-10 21:50:25.0
+ro.config.ride_mode=true
+# 2019-02-04 18:19:20.0
+ro.config.safety_certification=fcc
+
+ro.product.CustDVersion=D1
+
+ro.build.version.base_os=HONOR/JSN-L23/HWJSN-H:9/HONORJSN-L23/9.1.0.248C605:user/release-keys

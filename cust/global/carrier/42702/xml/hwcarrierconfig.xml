@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="14181bbecfc718ff7989305624995589">
+  <dict>
+    <!--2018-09-27 19:46:32.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA2_256,RCT_ALG_HMAC_SHA2_384,RCT_ALG_HMAC_SHA2_512</string>
+    <!--2018-09-27 19:46:09.000-->
+    <string key="EspEncAlg">RCT_ALG_DES3_CBC,RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2018-09-27 19:47:22.000-->
+    <int key="IPsecSaLifeTime">86400</int>
+    <!--2018-09-27 19:45:46.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP2048,RCT_ALG_MODP3072,RCT_ALG_MODP4096,RCT_ALG_MODP6144,RCT_ALG_MODP8192</string>
+    <!--2018-09-27 19:44:23.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2018-09-27 19:45:22.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA2_256,RCT_ALG_HMAC_SHA2_384,RCT_ALG_HMAC_SHA2_512</string>
+    <!--2018-09-27 19:47:59.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">3600</int>
+    <!--2018-09-27 19:47:38.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">3600</int>
+    <!--2018-09-27 19:44:56.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_SHA2_256,RCT_ALG_AES_XCBC,RCT_ALG_HMAC_MD5</string>
+    <!--2018-09-27 19:46:54.000-->
+    <int key="Ikev2SaLifeTime">86400</int>
+    <!--2018-09-27 19:27:30.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-08-24 18:10:38.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-09-27 19:29:17.000-->
+    <int key="carrier_default_wfc_ims_mode_int">1</int>
+    <!--2018-08-31 19:39:14.000-->
+    <string key="carrier_volte_hd_icon_flag">00101010</string>
+    <!--2018-09-27 19:26:00.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-09-20 11:43:00.000-->
+    <int key="utBsfPort">80</int>
+    <!--2018-09-27 19:28:27.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc002.mcc427.pub.3gppnetwork.org</string>
+    <!--2018-09-27 21:16:18.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2019-09-20 11:43:00.000-->
+    <string key="utParamsCfg">6:1,15:1,21:1</string>
+    <!--2018-09-27 19:27:00.000-->
+    <int key="utUseApn">1</int>
+    <!--2019-09-20 11:43:00.000-->
+    <string key="utXcapRootUri">MyService</string>
+    <!--2018-09-27 19:29:42.000-->
+    <string key="vowifiHplmnListItem">42702, epdg.epc.mnc002.mcc427.pub.3gppnetwork.org</string>
+    <!--2018-09-27 19:49:00.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-09-27 19:49:30.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-09-27 19:49:14.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-09-27 19:49:47.000-->
+    <bool key="vowifiSupportFirmwareKA">true</bool>
+    <!--2018-09-27 19:48:44.000-->
+    <string key="vowifi_UT_APN">ut</string>
+    <!--2018-09-27 19:48:25.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+  </dict>
+</config>

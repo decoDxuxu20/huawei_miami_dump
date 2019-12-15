@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b8f3b97b32e975c1f280f88d4c42ae42">
+  <dict>
+    <!--2018-06-11 22:02:59.000-->
+    <bool key="clir_config_enable">true</bool>
+    <!--2018-08-27 15:03:43.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-07-25 14:49:37.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2018-11-28 15:46:19.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-11-28 15:42:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-11-28 15:50:46.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-07-18 15:47:36.000-->
+    <string key="hw_cust_long_vmNum">+50377019995</string>
+    <!--2018-07-23 14:27:05.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE+;MiMo:LTE+;CAMiMo:LTE+</string>
+    <!--2018-06-11 22:50:13.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2018-06-11 23:00:54.000-->
+    <bool key="hw_ussd_message_vibrator">true</bool>
+    <!--2018-06-11 22:55:49.000-->
+    <bool key="hw_ussd_message_wakescreen">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:53.000-->
+    <int key="num_match">8</int>
+    <!--2018-06-15 17:51:51.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-15 17:51:51.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-08-27 15:04:22.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-06-27 16:00:37.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-07-28 14:06:14.000-->
+    <string key="voicemail_carrier">movistar</string>
+    <!--2018-07-28 14:06:27.000-->
+    <string key="voicemail_number">*86</string>
+    <!--2018-07-28 14:06:38.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

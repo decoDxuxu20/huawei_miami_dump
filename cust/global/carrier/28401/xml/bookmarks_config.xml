@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="970fdf84d630d0a5404849c1c8f188c2">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <string key="bookmarks_language">default</string>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Mtel zona</string>
+              <string key="url">https://mtelzona.bg</string>
+            </dict>
+            <dict>
+              <string key="title">News</string>
+              <string key="url">https://mtelzona.bg/news</string>
+            </dict>
+            <dict>
+              <string key="title">Astro zona</string>
+              <string key="url">https://mtelzona.bg/astro</string>
+            </dict>
+            <dict>
+              <string key="title">My profile</string>
+              <string key="url">https://mtelzona.bg/myMtel</string>
+            </dict>
+          </array>
+        </dict>
+        <dict>
+          <string key="bookmarks_language">bg_BG</string>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Мтел зона</string>
+              <string key="url">https://mtelzona.bg</string>
+            </dict>
+            <dict>
+              <string key="title">Новини</string>
+              <string key="url">https://mtelzona.bg/news</string>
+            </dict>
+            <dict>
+              <string key="title">Астро зона</string>
+              <string key="url">https://mtelzona.bg/astro</string>
+            </dict>
+            <dict>
+              <string key="title">Моят профил</string>
+              <string key="url">https://mtelzona.bg/myMtel</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

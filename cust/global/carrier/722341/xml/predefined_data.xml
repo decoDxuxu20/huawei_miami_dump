@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datainitializor >
+  <contact>
+    <name>Play Video</name>
+    <phone>
+      <detail>843</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Club Personal</name>
+    <phone>
+      <detail>3372</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Personal</name>
+    <phone>
+      <detail>813</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Play Música</name>
+    <phone>
+      <detail>444</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Play Backtones</name>
+    <phone>
+      <detail>833</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>At. al cliente</name>
+    <phone>
+      <detail>*111</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Buzón de Voz</name>
+    <phone>
+      <detail>*555</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Emergencias</name>
+    <phone>
+      <detail>112</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Play Revistas</name>
+    <phone>
+      <detail>773</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Play Educa</name>
+    <phone>
+      <detail>3832</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Play Deportes</name>
+    <phone>
+      <detail>965</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Play Mujeres</name>
+    <phone>
+      <detail>336</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+</datainitializor>

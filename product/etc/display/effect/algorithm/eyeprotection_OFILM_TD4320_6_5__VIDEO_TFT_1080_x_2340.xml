@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EyeProtectionConfig>
+    <feature name="EYEPROTECTION_ALGORITHM">
+        <mode name="PARAMETERS">
+            <param name="AmbientLuxThreshold">-1300</param>
+            <param name="AmbientLuxThreshold">-1000</param>
+            <param name="AmbientLuxThreshold">-800</param>
+            <param name="AmbientLuxThreshold">-500</param>
+            <param name="AmbientLuxThreshold">-300</param>
+            <param name="AmbientLuxThreshold">-200</param>
+            <param name="AmbientLuxThreshold">-100</param>
+            <param name="AmbientLuxThreshold">0</param>
+            <param name="AmbientLuxThreshold">100</param>
+            <param name="AmbientLuxThreshold">300</param>
+            <param name="AmbientLuxThreshold">500</param>
+            <param name="AmbientLuxThreshold">1000</param>
+            <param name="AmbientLuxThreshold">5000</param>
+            <param name="AmbientLuxThreshold">10000</param>
+            <param name="AmbientLuxThreshold">30000</param>
+
+            <param name="RgbGammaLut">1.0,0.93,0.56</param>
+            <param name="RgbGammaLut">1.0,0.94,0.57</param>
+            <param name="RgbGammaLut">1.0,0.94,0.58</param>
+            <param name="RgbGammaLut">1.0,0.95,0.59</param>
+            <param name="RgbGammaLut">1.0,0.95,0.60</param>
+            <param name="RgbGammaLut">1.0,0.96,0.61</param>
+            <param name="RgbGammaLut">1.0,0.96,0.62</param>
+            <param name="RgbGammaLut">1.0,0.97,0.63</param>
+            <param name="RgbGammaLut">1.0,0.98,0.64</param>
+            <param name="RgbGammaLut">1.0,0.98,0.65</param>
+            <param name="RgbGammaLut">1.0,0.98,0.66</param>
+            <param name="RgbGammaLut">1.0,0.98,0.67</param>
+            <param name="RgbGammaLut">1.0,0.99,0.68</param>
+            <param name="RgbGammaLut">1.0,0.99,0.75</param>
+            <param name="RgbGammaLut">1.0,1.0,0.88</param>
+        </mode>
+    </feature>
+</EyeProtectionConfig>

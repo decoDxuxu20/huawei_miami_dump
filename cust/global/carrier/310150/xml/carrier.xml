@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="09a7d168f2a21df47062cb91991a75b3">
+  <dict>
+    <!--2018-05-29 18:22:58.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-07-27 15:55:49.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 15:13:55.000-->
+    <int key="plmn_esm_flag">1</int>
+  </dict>
+</config>

@@ -1,0 +1,12 @@
+<DisplayEngineConfig>
+    <id>1</id>
+    <updated>2017-06-23</updated>
+    <feature name="RGLED">
+        <mode name="FILTER">
+            <param name="DE_SCENE_ACTION_RGLED_CHANGE">MODE_RGLED</param>
+        </mode>
+        <mode name="CTRL">
+            <param name="Enable">1</param>
+        </mode>
+    </feature>
+</DisplayEngineConfig>

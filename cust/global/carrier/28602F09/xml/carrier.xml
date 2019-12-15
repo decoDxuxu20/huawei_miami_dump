@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="fa968ede1ff838586a91fb11a01e5a22">
+  <dict>
+    <!--2018-08-22 11:09:30.000-->
+    <string key="hide_sepcial_apn_form_list">tapn</string>
+    <!--2018-11-28 16:23:50.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:4.5G</string>
+    <!--2018-11-28 16:21:28.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:4.5G</string>
+    <!--2018-11-28 16:23:09.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:4.5G</string>
+    <!--2018-05-29 16:32:10.000-->
+    <bool key="hw_hide_lte">false</bool>
+    <!--2018-06-01 17:12:59.000-->
+    <string key="hw_networkname_normal">all,LTE:4.5G;CA:4.5G</string>
+    <!--2018-06-04 19:49:49.000-->
+    <bool key="hw_show_4_5G_for_mcc">true</bool>
+    <!--2018-08-09 17:01:42.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:33.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 14:03:55.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-14 17:28:29.000-->
+    <bool key="remove_apn_MVNO">true</bool>
+    <!--2018-06-27 17:24:30.000-->
+    <int key="sms_coding_national">1</int>
+    <!--2018-07-27 17:25:46.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2018-09-25 20:00:35.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">VODAFONE TR</string>
+    <!--2018-07-28 14:45:59.000-->
+    <string key="voicemail_carrier">Vodafone</string>
+    <!--2018-07-28 14:46:19.000-->
+    <string key="voicemail_number">+905427542000</string>
+    <!--2018-07-28 14:46:08.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

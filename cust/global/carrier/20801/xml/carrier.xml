@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e30414df2c1aa7b231ada2243888fdfa">
+  <dict>
+    <!--2018-11-08 15:30:07.000-->
+    <string key="hide_sepcial_apn_form_list">vowifiorange</string>
+    <!--2018-07-06 12:16:37.000-->
+    <string key="hw_networkname_normal">all,GPRS:G;EDGE:E;UMTS:3G;HSDPA:3G+;HSUPA:3G+;HSPA:3G+;HSPA+:H+;LTE:4G;CA:4G+</string>
+    <!--2018-11-12 16:02:17.000-->
+    <bool key="hw_stk_blank_dialog_title">true</bool>
+    <!--2018-09-07 15:14:52.000-->
+    <bool key="hw_stk_calling_show_text">true</bool>
+    <!--2018-09-10 09:49:06.000-->
+    <bool key="hw_stk_home_back">true</bool>
+    <!--2018-09-07 10:50:18.000-->
+    <bool key="hw_stk_screen_on_unlock">true</bool>
+    <!--2018-09-07 14:53:30.000-->
+    <bool key="hw_stk_show_cancel_button">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">614400</int>
+    <!--2018-07-27 15:55:22.000-->
+    <int key="num_match">9</int>
+    <!--2018-06-06 11:14:15.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-06 11:13:46.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-09-25 20:00:14.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Orange F</string>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">Orange</string>
+    <!--2018-07-28 14:06:24.000-->
+    <string key="voicemail_number">888</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

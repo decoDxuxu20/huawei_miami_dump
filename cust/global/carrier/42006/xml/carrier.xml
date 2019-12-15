@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="3a607d967b8a250474885c92f7840112">
+  <dict>
+    <!--2019-07-29 14:45:51.000-->
+    <int key="num_match">10</int>
+    <!--2019-07-29 14:45:51.000-->
+    <int key="num_match_short">9</int>
+    <!--2019-07-29 14:45:51.000-->
+    <string key="voicemail_carrier">Lebara</string>
+    <!--2019-07-29 14:45:51.000-->
+    <string key="voicemail_number">1400</string>
+    <!--2019-07-29 14:45:51.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="79426b4e84dcf804a11e566d34655b89">
+  <dict>
+    <!--2018-05-28 16:50:23.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2018-06-13 22:14:35.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:06.000-->
+    <int key="num_match">8</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-09-25 20:00:35.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">A1 SI</string>
+  </dict>
+</config>

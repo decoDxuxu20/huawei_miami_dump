@@ -1,0 +1,3 @@
+/product/app/HwFMRadio/HwFMRadio.apk
+/product/app/HwGameAssistant/HwGameAssistant.apk
+/product/app/PartyMode/PartyMode.apk

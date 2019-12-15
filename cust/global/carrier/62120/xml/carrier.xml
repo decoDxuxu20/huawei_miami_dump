@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9ac1a9ede41713dbbd40b60090e73f7b">
+  <dict>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">Airtel</string>
+    <!--2018-07-28 14:06:24.000-->
+    <string key="voicemail_number">132</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="901d2c303de6b0b06c141803782552ae">
+  <dict>
+    <array key="plmn_spn">
+      <dict>
+        <string key="network_mccmnc">45413</string>
+        <string key="sim_mccmnc">45412</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">CMHK</string>
+        <string key="plmn">CMHK</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">45412</string>
+        <string key="sim_mccmnc">45412</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">CMHK</string>
+        <string key="plmn">CMHK</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">46000</string>
+        <string key="sim_mccmnc">45412</string>
+        <string key="network_type"></string>
+        <int key="rule">3</int>
+        <string key="spn">CMHK</string>
+        <string key="plmn">CMCC</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">46002</string>
+        <string key="sim_mccmnc">45412</string>
+        <string key="network_type"></string>
+        <int key="rule">3</int>
+        <string key="spn">####</string>
+        <string key="plmn">CMCC</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">46007</string>
+        <string key="sim_mccmnc">45412</string>
+        <string key="network_type"></string>
+        <int key="rule">3</int>
+        <string key="spn">####</string>
+        <string key="plmn">CMCC</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">46008</string>
+        <string key="sim_mccmnc">45412</string>
+        <string key="network_type"></string>
+        <int key="rule">3</int>
+        <string key="spn">####</string>
+        <string key="plmn">CMCC</string>
+      </dict>
+    </array>
+    <array key="set_mtu"/>
+    <array key="plmn_abbrev"/>
+    <array key="net_sim_ue_pri"/>
+  </dict>
+</config>

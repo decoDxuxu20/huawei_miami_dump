@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-05-31 19:19:53.000-->
+  <integer alert_duration="300000"/>
+  <!--2018-09-04 18:26:56.000-->
+  <string always_show_test_item="true"/>
+  <!--2018-05-31 19:19:53.000-->
+  <string always_vibrate="true"/>
+  <!--2018-09-04 16:09:49.000-->
+  <string display_channel_click_disabled="919,921"/>
+  <!--2018-05-31 19:19:53.000-->
+  <string hide_cmas_optout_dialog="true"/>
+  <!--2018-10-08 19:27:16.000-->
+  <string hide_full_volume_menu="true"/>
+  <!--2018-06-28 15:45:24.000-->
+  <string hw_weatherclock_myloc_show_first="false"/>
+  <!--2019-02-18 12:03:31.000-->
+  <integer settings.global.sms_center_editable="0"/>
+  <!--2018-08-08 11:37:12.000-->
+  <string settings.global.speeddial_predefined_numbers=""/>
+  <!--2018-08-28 23:36:50.000-->
+  <string show_channel_settings="true"/>
+  <!--2018-05-31 19:19:53.000-->
+  <string show_date_time_title="true"/>
+  <!--2018-05-31 19:19:53.000-->
+  <string use_full_volume="true"/>
+</resources>

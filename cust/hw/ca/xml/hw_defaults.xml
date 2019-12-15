@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-06-28 11:24:18.000-->
+  <string auto_scan_hidden_ssid="BELL_WIFI;5099251212"/>
+  <!--2019-04-25 19:28:29.000-->
+  <string bip_ota_plmn_matched="302610"/>
+  <!--2018-07-03 16:10:42.000-->
+  <string default_input_method="com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME"/>
+  <!--2018-06-29 16:45:07.000-->
+  <integer eas_default_check_interval="-2"/>
+  <!--2018-07-31 15:51:52.000-->
+  <string hw_launcher_share_layout_config="true"/>
+  <!--2018-11-01 14:16:50.000-->
+  <string hw_set_mtu_by_mccmnc="302610,1500;302630,1500;302640,1500;302660,1500;302370,1500;302780,1500;302220,1440;302221,1440"/>
+  <!--2018-06-29 09:33:28.000-->
+  <string hw_show_lte_tile="false"/>
+  <!--2018-06-29 10:59:12.000-->
+  <integer hw_status_bar_operators="1"/>
+  <!--2018-06-28 14:46:47.000-->
+  <integer power_saving_on="0"/>
+  <!--2019-07-23 10:46:08.000-->
+  <string reg_plmn_roam_custom="4:302500|302510|302520,302,00000" reset="true"/>
+  <!--2018-07-02 20:02:52.000-->
+  <integer settings.global.data_roaming="0"/>
+  <!--2018-07-02 20:02:52.000-->
+  <integer settings.global.data_roaming_sim2="0"/>
+  <!--2018-07-02 20:08:30.000-->
+  <string settings.global.forbid_clear_noti="true"/>
+  <!--2018-06-28 10:11:24.000-->
+  <string settings.global.hotspot_power_mode_on="true"/>
+  <!--2018-10-11 19:34:13.000-->
+  <string settings.global.nfc_ce_transevt="false"/>
+  <!--2019-02-13 14:35:50.000-->
+  <integer settings.global.sms_center_editable="0"/>
+  <!--2018-07-02 20:10:05.000-->
+  <string settings.global.tty_enable_popup="true"/>
+  <!--2018-07-04 12:03:31.000-->
+  <string settings.global.volte_tty_supported="false"/>
+  <!--2018-06-28 10:12:49.000-->
+  <integer settings.secure.hotspot_power_mode="1"/>
+  <!--2018-08-28 10:46:55.000-->
+  <string theme_no_online="true"/>
+  <!--2018-07-02 20:07:30.000-->
+  <integer tty_enabled="1"/>
+  <!--2018-07-02 20:01:11.000-->
+  <integer voicemailNumber_disabled="1"/>
+  <!--2019-01-08 19:49:51.000-->
+  <string wifi_notdel_notedit="BELL_WIFI;5099251212;SaskTel Select Wi-Fi 1"/>
+</resources>

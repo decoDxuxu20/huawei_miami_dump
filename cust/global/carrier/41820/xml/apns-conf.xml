@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="Zain Internet"
+    mcc="418"
+    mnc="20"
+    apn="Internet"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default"
+    protocol="IP"
+    roaming_protocol="IP"
+  />
+  <apn carrier="Zain MMS"
+    mcc="418"
+    mnc="20"
+    apn="MMS"
+    user="mms"
+    server=""
+    password="mms"
+    proxy=""
+    port=""
+    mmsproxy="172.29.11.12"
+    mmsport="8080"
+    mmsc="http://mms:8002/mms"
+    type="mms"
+    authtype="1"
+    protocol="IP"
+    roaming_protocol="IP"
+  />
+</apns>

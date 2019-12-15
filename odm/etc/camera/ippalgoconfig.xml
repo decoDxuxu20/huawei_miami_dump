@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="GB2312"?>
+<IppConfig>
+	<IppAlgo name="ColorReverser" switcher="0" ></IppAlgo>
+	<IppAlgo name="FaceDetection" switcher="1" ></IppAlgo>
+	<IppAlgo name="SceneDetection" switcher="1" ></IppAlgo>
+	<IppAlgo name="VideoStabilization" switcher="0" ></IppAlgo>
+	<IppAlgo name="TargetTracking" switcher="0" ></IppAlgo>
+	<IppAlgo name="MirrorDenoise" switcher="1" ></IppAlgo>
+	<IppAlgo name="LaserMgr" switcher="0" ></IppAlgo>
+	<IppAlgo name="SmartAE" switcher="1" ></IppAlgo>
+	<IppAlgo name="FaceSmooth" switcher="0" ></IppAlgo>
+	<IppAlgo name="ColorEffect" switcher="1" ></IppAlgo>
+	<IppAlgo name="BigApertureAlgo" switcher="0" ></IppAlgo>
+	<IppAlgo name="hwa_af" switcher="0" ></IppAlgo>
+	<IppAlgo name="FakeTransform" switcher="0" ></IppAlgo>
+	<IppAlgo name="DebugAeAwb" switcher="0" ></IppAlgo>
+	<IppAlgo name="Misc" switcher="1" ></IppAlgo>
+	<IppAlgo name="Mono" switcher="0" ></IppAlgo>
+	<IppAlgo name="BShutterTryAE" switcher="1"></IppAlgo>
+	<IppAlgo name="HwaAe" switcher="0"></IppAlgo>
+	<!-- Need open niceFoodAlgo for EMUI5 -->
+	<IppAlgo name="NiceFoodIppAlgo" switcher="1"></IppAlgo>
+	<IppAlgo name="HwaFlash" switcher="0"></IppAlgo>
+	<IppAlgo name="AssistAF" switcher="1"></IppAlgo>
+	<IppAlgo name="AfStatCalculate" switcher="0"></IppAlgo>
+	<IppAlgo name="ContrastCalculate" switcher="0"></IppAlgo>
+	<IppAlgo name="ContrastCalculateGyro" switcher="0"></IppAlgo>
+	<IppAlgo name="HwBeautyIpp" switcher="1"></IppAlgo>
+	<IppAlgo name="IspEnhncAlgo" switcher="1"></IppAlgo>
+	<IppAlgo name="MotionDetectionAlgo" switcher="1"></IppAlgo>
+	<IppAlgo name="VideoBokehAlgo" switcher="0"></IppAlgo>
+	<IppAlgo name="VideoBokehDspAlgo" switcher="1"></IppAlgo>
+	<IppAlgo name="ARkitFeatureTrackingDspAlgo" switcher="1"></IppAlgo>
+	<IppAlgo name="SdkDepthIppAlgo" switcher="0"></IppAlgo>
+	<IppAlgo name="DmapSdkDepthIppAlgo" switcher="0"></IppAlgo>
+	<IppAlgo name="HwaDMapIpp" switcher="0"></IppAlgo>
+	<IppAlgo name="IppAlgoDM" switcher="0"></IppAlgo>
+	<IppAlgo name="FrontBokehAlgo" switcher="1"></IppAlgo>
+	<IppAlgo name="OisMgr" switcher="0"></IppAlgo>
+	<IppAlgo name="VideoStabMph" switcher="0"></IppAlgo>
+	<IppAlgo name="VidHance" switcher="0" ></IppAlgo>
+	<IppAlgo name="FNFaceDetect" switcher="0"></IppAlgo>
+	<IppAlgo name="MultiScale" switcher="0"></IppAlgo>
+	<IppAlgo name="SenseMgr" switcher="0" ></IppAlgo>
+	<IppAlgo name="ModeRecommendation" switcher="1" ></IppAlgo>
+	<IppAlgo name="Frontgesture" switcher="1" ></IppAlgo>
+	<IppAlgo name="AgeGender" switcher="1"></IppAlgo>
+	<IppAlgo name="HwFaceAttr" switcher="1"></IppAlgo>
+	<IppAlgo name="VideoAutoZoom" switcher="0" ></IppAlgo>
+	<IppAlgo name="SmartBeautyIpp" switcher="1" ></IppAlgo>
+	<IppAlgo name="FairLightIpp" switcher="1"></IppAlgo>
+	<IppAlgo name="ObjectDetection" switcher="0" ></IppAlgo>
+	<IppAlgo name="ObjectDetectionDraw" switcher="0" ></IppAlgo>
+	<IppAlgo name="CIEProxy" switcher="1" ></IppAlgo>
+	<IppAlgo name="SuperVideo" switcher="1" ></IppAlgo>
+	<IppAlgo name="NightHAWKIppAlgo" switcher="1" ></IppAlgo>
+</IppConfig>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="VIP Internet" mcc="294" mnc="03" apn="vipoperator" user="vipoperator" server="" password="vipoperator" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="2"/>
+  <apn carrier="VIP MMS" mcc="294" mnc="03" apn="vipoperator.mms" user="vipoperator" server="" password="vipoperator" proxy="" port="" mmsproxy="78.40.0.1" mmsport="8080" mmsc="http://mmsc.vipoperator.com.mk" type="mms" authtype="2"/>
+  <apn carrier="HOS" mcc="294" mnc="03" apn="HOS" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV4V6"/>
+</apns>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="8c6f4c0a3f31cece006e1b9538979094">
+  <dict>
+    <dict key="portHostKey">
+      <string key="supl_port">7275</string>
+      <string key="supl_host">supl.bd-caict.com</string>
+    </dict>
+  </dict>
+</config>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="GB2312"?>
+<PPSr>
+    <PPSrAlgo name="hdr" faceing="0" ispwidth = "5732" ispheight = "4224" width="4608" height="3456"></PPSrAlgo>
+    <PPSrAlgo name="multidenoise" faceing="0" ispwidth = "5732" ispheight = "4224" width="4608" height="3456"></PPSrAlgo>
+</PPSr>

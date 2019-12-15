@@ -1,0 +1,10 @@
+# 2018-06-05 16:14:46.000
+ro.config.empty.package=true
+# 2018-07-16 12:01:45.000
+ro.config.hw_opta=900
+# 2018-07-16 12:01:45.000
+ro.config.hw_optb=999
+# 2019-04-28 15:34:21.000
+ro.odm.rp_ack_tpdu_plmn=20820,20801
+# 2018-07-16 12:02:05.000
+ro.product.CustCVersion=C900

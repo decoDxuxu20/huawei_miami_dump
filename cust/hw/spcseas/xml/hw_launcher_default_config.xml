@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launcher_config>
+<!--AR0004J041 liuchengfang/wx336716 20160903 begin -->
+    <!--云文件夹开关-->
+    <bool name="config_CloudFolderEnabled">true</bool>
+    <string name="config_CloudFolderHost">https://asiafolder.hicloud.com:443/</string>
+<!--AR0004J041 liuchengfang/wx336716 20160903 end -->
+</launcher_config>

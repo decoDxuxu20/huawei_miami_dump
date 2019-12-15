@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="9a373ca9990614c656be761f8876ca07">
+  <dict>
+    <array key="net_sim_ue_pri">
+      <dict>
+        <string key="network_mccmnc">73010</string>
+        <bool key="network_highest">true</bool>
+      </dict>
+    </array>
+    <array key="plmn_spn">
+      <dict>
+        <string key="network_mccmnc">73010</string>
+        <string key="sim_mccmnc">73010</string>
+        <string key="network_type"></string>
+        <int key="rule">2</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+    </array>
+  </dict>
+</config>

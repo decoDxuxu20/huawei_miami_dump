@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="41f003789d5b4e993d04dcec168805ac">
+  <dict>
+    <!--2018-11-21 15:12:17.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2018-07-27 15:56:24.000-->
+    <int key="num_match">9</int>
+    <!--2018-07-28 14:06:10.000-->
+    <string key="voicemail_carrier">rain</string>
+    <!--2018-07-28 14:06:23.000-->
+    <string key="voicemail_number">132</string>
+    <!--2018-07-28 14:06:35.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

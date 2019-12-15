@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-04-04 18:31:39.000-->
+  <integer default_cbs_state="1"/>
+  <!--2019-04-04 18:31:39.000-->
+  <string display_channel_default_off="919,920"/>
+  <!--2018-06-21 15:41:10.000-->
+  <integer hwdefault_CheckIntervalt="-1"/>
+  <!--2019-04-04 18:31:39.000-->
+  <string show_channel_settings="true"/>
+  <!--2018-08-07 14:14:22.000-->
+  <string show_master_toggle="true"/>
+</resources>

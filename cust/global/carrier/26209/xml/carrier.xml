@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="37ad5aaf3bf02fe44013e61e59a6eec8">
+  <dict>
+    <!--2018-09-29 08:46:42.000-->
+    <string key="hw_networkname_normal">all,GSM:G</string>
+    <!--2018-06-14 17:23:24.000-->
+    <bool key="remove_apn_MVNO">true</bool>
+  </dict>
+</config>

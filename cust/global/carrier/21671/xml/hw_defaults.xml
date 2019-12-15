@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-06-13 10:13:05.000-->
+  <string hw_predefined_eap_sim="UPC Wi-Free:EAP_AKA"/>
+  <!--2018-06-21 15:59:49.000-->
+  <integer hwdefault_CheckIntervalt="15"/>
+</resources>

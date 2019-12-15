@@ -1,0 +1,6 @@
+/data/hw_init/product/region_comm/oversea/app/GlobalHonorStore/GlobalHonorStore.apk
+/product/region_comm/oversea/app/HonorClub/HonorClub.apk
+/data/hw_init/product/region_comm/oversea/app/HwHealthPlatform_OVE/HwHealthPlatform_OVE.apk
+/data/hw_init/product/region_comm/oversea/app/HwMirror/HwMirror.apk
+/data/hw_init/product/region_comm/oversea/app/HwSmartSuggestion/HwSmartSuggestion.apk
+/data/hw_init/product/region_comm/oversea/app/HwWallet/HwWallet.apk

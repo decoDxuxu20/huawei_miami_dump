@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="1881241c2a5eb96d16a93688ae726665">
+  <dict>
+    <!--2018-08-30 11:48:46.000-->
+    <int key="maxImageHeight">1440</int>
+    <!--2018-08-30 11:52:16.000-->
+    <int key="maxImageWidth">1920</int>
+    <!--2018-07-04 17:31:45.000-->
+    <bool key="suppport_cnap_bool">true</bool>
+  </dict>
+</config>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>/product/region_comm/oversea/app/HwFMRadio.apk;/product/app/HwFMRadio.apk;/product/region_comm/oversea/app/SwiftKey.apk;/system/app/SwiftKey.apk;/product/region_comm/oversea/app/SwiftKeyFactorySettings.apk;/system/app/SwiftKeyFactorySettings.apk;/preas/app/Messages.apk;/preas/app/CarrierService.apk;/system/app/Messages.apk;/system/priv-app/CarrierService.apk;</apk>
+  <restoreapk>/system/app/HwUserExperience.apk;/system/priv-app/HiSpace.apk;/system/app/HMS.apk;/system/app/HwCloudDrive_Local.apk;/system/priv-app/Mms.apk;/system/app/HwRcsService.apk;product/region_comm/oversea/app/HwRcsService.apk;/system/app/HwDetectRepair.apk;/system/priv-app/HwPhoneService.apk;/preas/app/LatinImeGoogle.apk;/system/priv-app/HwPushService.apk;/system/app/HwPushService.apk;</restoreapk>
+</tag>

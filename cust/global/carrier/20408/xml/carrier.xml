@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="173249a29e4da22dbb9e8c4af59d51fd">
+  <dict>
+    <!--2018-06-13 22:13:39.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2018-08-09 17:01:42.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:20.000-->
+    <int key="num_match">9</int>
+    <!--2018-07-27 17:25:46.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-09-25 20:00:12.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">KPN</string>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">KPN/Hi</string>
+    <!--2018-07-28 14:06:24.000-->
+    <string key="voicemail_number">1233</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

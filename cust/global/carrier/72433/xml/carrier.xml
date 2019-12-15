@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e51194650bce24fd94661ca34ad016d8">
+  <dict>
+    <!--2018-12-07 10:50:18.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2018-08-27 15:04:07.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-06-04 15:34:40.000-->
+    <string key="hw_networkname_normal">all,LTE:4G;CA:4.5G;MiMo:4.5G;CAMiMo:4.5G</string>
+    <!--2018-08-08 20:28:50.000-->
+    <int key="num_match">8</int>
+    <!--2018-08-27 15:04:48.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-08-08 20:28:51.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2018-08-08 20:28:48.000-->
+    <string key="voicemail_carrier">Algar Telecom</string>
+    <!--2018-08-08 20:28:44.000-->
+    <string key="voicemail_number">*100</string>
+    <!--2018-08-08 20:28:46.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

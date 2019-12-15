@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tag version="1.0">
+         <ringtones>Wind_Dance</ringtones>
+         <ringtones>Suite</ringtones>
+         <ringtones>Sailing</ringtones>
+         <ringtones>Ripple</ringtones>
+         <ringtones>Polonaise</ringtones>
+         <ringtones>Menuet</ringtones>
+         <ringtones>Impromptu</ringtones>
+         <ringtones>Huawei_Tune_Clean</ringtones>
+         <ringtones>Harp</ringtones>
+         <ringtones>Free</ringtones>
+         <ringtones>Flipped</ringtones>
+         <ringtones>Dream_It_Possible</ringtones>
+         <ringtones>Dream</ringtones>
+         <ringtones>Digital_Ringtone</ringtones>
+         <ringtones>Day_lily</ringtones>
+         <ringtones>Bounce</ringtones>
+         
+         
+         <alarms>Star</alarms>
+         <alarms>Sakura_Drop</alarms>
+         <alarms>Ripple</alarms>
+         <alarms>Meet</alarms>
+         <alarms>Hawaii</alarms>
+         <alarms>Bule_Harbour</alarms>
+         <alarms>Fresh_Air</alarms>
+         <alarms>Cuckoo</alarms>
+         <alarms>Forest_Melody</alarms>
+         <alarms>Ocean_Whisper</alarms>
+         
+         
+         <notifications>Zen</notifications>
+         <notifications>Waterflow</notifications>
+         <notifications>Twinkle</notifications>
+         <notifications>Step</notifications>
+         <notifications>Pixies</notifications>
+         <notifications>PingPong</notifications>
+         <notifications>Peking_Opera_Drum</notifications>
+         <notifications>Little_Wish</notifications>
+         <notifications>Lit</notifications>
+         <notifications>Letter</notifications>
+         <notifications>Leaf</notifications>
+         <notifications>Jump</notifications>
+         <notifications>Huawei_Cascade</notifications>
+         <notifications>Fountain</notifications>
+         <notifications>Echo</notifications>
+         <notifications>Drip</notifications>
+         <notifications>Doorbell</notifications>
+         <notifications>Cuckoo</notifications>
+         <notifications>Chess</notifications>
+         <notifications>Cave</notifications>
+         <notifications>Bell_Tree</notifications>
+         <notifications>Microwave_Oven</notifications>
+         <notifications>Crystal_Drop</notifications>
+         
+         
+         <ui>WirelessChargingStarted</ui>
+         <ui>VideoStop</ui>
+         <ui>Undock</ui>
+         <ui>Trusted</ui>
+         <ui>KeypressInvalid</ui>
+         <ui>Dock</ui>
+         <ui>camera_focus</ui>
+</Tag>

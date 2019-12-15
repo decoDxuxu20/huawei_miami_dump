@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="09e57b20b510fd00c1c7ef259437de82">
+  <dict>
+    <!--2018-05-28 17:35:17.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2018-05-28 17:35:19.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_MD5</string>
+    <!--2018-06-13 14:44:02.000-->
+    <string key="EspEncAlg">RCT_ALG_AES256_CBC,RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC</string>
+    <!--2019-04-29 10:01:58.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024,RCT_ALG_MODP1536,RCT_ALG_MODP2048</string>
+    <!--2018-09-21 14:26:39.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES256_CBC,RCT_ALG_AES128_CBC</string>
+    <!--2018-09-21 14:26:39.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-09-21 14:26:39.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-05-28 17:35:18.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-05-28 17:35:18.000-->
+    <bool key="carrier_build_version_bool">true</bool>
+    <!--2018-05-28 17:35:18.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-05-28 17:35:18.000-->
+    <int key="carrier_default_wfc_ims_mode_int">2</int>
+    <!--2018-05-28 17:35:19.000-->
+    <int key="carrier_default_wfc_ims_roaming_mode_int">3</int>
+    <!--2018-05-30 17:32:11.000-->
+    <string key="carrier_volte_hd_icon_flag">00100000</string>
+    <!--2018-06-02 17:46:58.000-->
+    <string key="carrier_vowifi_title">WiFi poziv</string>
+    <!--2018-05-28 17:35:18.000-->
+    <bool key="carrier_wfc_supports_cellular_preferred_bool">true</bool>
+    <!--2018-05-21 16:30:07.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-05-28 17:35:17.000-->
+    <int key="setDefaultNoReplyTimer">-1</int>
+    <!--2018-05-28 17:35:18.000-->
+    <bool key="use_403_for_local_cw">true</bool>
+    <!--2018-05-28 17:35:17.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-05-28 17:35:18.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2019-04-11 19:07:00.000-->
+    <string key="utParamsCfg">0:1,17:1,19:1</string>
+    <!--2018-12-04 21:09:17.000-->
+    <int key="utPreferOption">1</int>
+    <!--2018-05-28 17:35:17.000-->
+    <int key="utUseApn">1</int>
+    <!--2018-05-28 17:35:18.000-->
+    <bool key="utUseMultiCF">true</bool>
+    <!--2018-05-28 17:35:19.000-->
+    <string key="vowifiHplmnListItem">21901, epdg.epc.mnc001.mcc219.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:35:20.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:35:20.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-05-28 17:35:20.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-05-28 17:35:19.000-->
+    <string key="vowifi_UT_APN">hos</string>
+    <!--2018-07-31 11:34:55.000-->
+    <bool key="vowifi_mms_switch">true</bool>
+    <!--2018-07-23 20:34:57.000-->
+    <int key="vowifi_mmsut_pdn_type">3</int>
+    <!--2018-05-31 20:31:05.000-->
+    <bool key="vowifi_pref_wifi_cell">true</bool>
+    <!--2018-05-28 17:35:19.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+    <!--2018-05-28 17:35:20.000-->
+    <string key="wfc_format_wifi_string">%1$s WiFi calling</string>
+    <!--2018-09-29 19:53:52.000-->
+    <string key="wfc_spn_string">bonbon</string>
+  </dict>
+</config>

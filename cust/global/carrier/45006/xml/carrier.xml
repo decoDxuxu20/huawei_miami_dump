@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="15ea0f4ed2d54a9c1532bbc02015818c">
+  <dict>
+    <!--2019-01-28 16:43:27.000-->
+    <bool key="hw_add_4g_only">true</bool>
+    <!--2019-02-13 14:47:25.000-->
+    <int key="plmn_esm_flag">0</int>
+  </dict>
+</config>

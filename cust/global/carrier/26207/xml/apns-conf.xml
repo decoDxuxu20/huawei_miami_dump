@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="ims"
+    mcc="262"
+    mnc="07"
+    apn="ims"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="ims"
+    protocol="IPV4V6"
+    roaming_protocol="IPV4V6"
+  />
+  <apn carrier="o2 Internet"
+    mcc="262"
+    mnc="07"
+    apn="internet"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy="82.113.100.5"
+    mmsport="8080"
+    mmsc="http://10.81.0.7:8002"
+    type="default,supl,mms,ia,xcap"
+    authtype="0"
+  />
+  <apn carrier="o2 Internet Prepaid"
+    mcc="262"
+    mnc="07"
+    apn="pinternet.interkom.de"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy="82.113.100.6"
+    mmsport="8080"
+    mmsc="http://10.81.0.7:8002"
+    type="default,supl,mms,ia,xcap"
+    authtype="0"
+  />
+</apns>

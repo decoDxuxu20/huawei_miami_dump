@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * itouch common Config
+ * all game states definitions at here.
+ -->
+<Config>
+    <Params name="ui_first_features">
+        <Param name="launcher_smartslider_optimization_enable" value="0"/>
+        <Param name="listview_smartslider_optimization_enable" value="1"/>
+        <Param name="systemui_fastview_fast_response_enable" value="1"/>
+        <Param name="settings_fastview_fast_response_enable" value="1"/>
+    </Params>
+
+    <Params name="hw_perf_features">
+        <Param name="hw_emui_hwperf_all_prop" value="1"/>
+        <Param name="hw_emui_hwperf_speedloader_prop" value="1"/>
+        <Param name="hw_emui_hwperf_image_fade_prop" value="0"/>
+        <Param name="hw_emui_hwperf_thumbnail_manager_prop" value="1"/>
+        <Param name="hw_emui_hwperf_poolsize_manager_prop" value="0"/>
+        <Param name="hw_emui_hwperf_speedloader_value_prop" value="3000:30000:12000"/>
+        <Param name="hw_emui_hwperf_poolsize_value_prop" value="-1"/>
+    </Params>
+</Config>

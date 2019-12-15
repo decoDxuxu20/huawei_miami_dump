@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="3af8b171a7be8bb892c7d117d8f4ea03">
+  <dict>
+    <!--2018-08-29 21:43:10.000-->
+    <bool key="carrier_hide_clir_bool">true</bool>
+    <!--2018-06-20 14:07:53.000-->
+    <string key="carrier_wb_hd_icon_flag">010001</string>
+  </dict>
+</config>

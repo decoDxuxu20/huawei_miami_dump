@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="3b3ea8d1e3efca1156c64a52721f5154">
+  <dict>
+    <!--2018-07-27 15:55:16.000-->
+    <int key="num_match">8</int>
+    <!--2018-09-25 20:00:59.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-08-06 15:09:57.000-->
+    <string key="virtual_ecclist_withcard">+112,+911,+999</string>
+  </dict>
+</config>

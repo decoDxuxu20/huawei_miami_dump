@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="Si.mobil"
+    mcc="293"
+    mnc="40"
+    apn="internet.simobil.si"
+    user="simobil"
+    server=""
+    password="internet"
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+  />
+  <apn carrier="mms"
+    mcc="293"
+    mnc="40"
+    apn="mms.simobil.si"
+    user="simobil"
+    server=""
+    password="internet"
+    proxy="80.95.224.46"
+    port="9201"
+    mmsproxy="80.95.224.46"
+    mmsport="9201"
+    mmsc="http://mmc"
+    type="mms"
+  />
+</apns>

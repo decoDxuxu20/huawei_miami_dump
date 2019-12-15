@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ac69a986abed4ed5ab4a69c250df39ae">
+  <dict>
+    <!--2018-11-01 20:41:11.000-->
+    <string key="SMSCAddress">+491722270333</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:27.000-->
+    <int key="num_match">10</int>
+    <!--2018-06-22 15:36:32.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-22 16:56:06.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-06-27 16:00:35.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-09-25 20:00:32.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-08-06 15:09:57.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Otelo</string>
+    <!--2018-08-13 17:29:37.000-->
+    <string key="voicemail_carrier">otelo</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_number">5500</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

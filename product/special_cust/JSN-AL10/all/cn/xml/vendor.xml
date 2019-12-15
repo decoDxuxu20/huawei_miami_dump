@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<carrier_config_list>
+    <!--open volte for AL00C 46003 46011-->
+    <carrier_config mcc="460" mnc="03">
+        <boolean name="carrier_volte_available_bool" value="true" />
+        <boolean name="preferToUseUT" value="true" />
+        <string name="utParamsCfg">1:1,4:1</string>
+        <boolean name="utForbiddenWhenVolteSwitchOff" value="false" />
+        <int name="callWaitingMode" value="11" />
+        <string name="ssTypeUseCsOnly">1,3,12</string>
+        <string name="ssTypeForbidFallbackCS">5,7,8,9,10,11</string>
+        <boolean name="CFNRcChangeWithCFNL" value="false" />
+        <string name="utRetryInterval">5000,5000</string>
+        <boolean name="telecom_hd_icon" value="true" />
+        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true" />
+        <boolean name="carrier_vt_available_bool" value="true" />
+    </carrier_config>
+    <carrier_config mcc="460" mnc="11">
+        <boolean name="carrier_volte_available_bool" value="true" />
+        <boolean name="preferToUseUT" value="true" />
+        <string name="utParamsCfg">1:1,4:1</string>
+        <boolean name="utForbiddenWhenVolteSwitchOff" value="false" />
+        <int name="callWaitingMode" value="11" />
+        <string name="ssTypeUseCsOnly">1,3,12</string>
+        <string name="ssTypeForbidFallbackCS">5,7,8,9,10,11</string>
+        <boolean name="CFNRcChangeWithCFNL" value="false" />
+        <string name="utRetryInterval">5000,5000</string>
+        <boolean name="telecom_hd_icon" value="true" />
+        <boolean name="ignore_data_enabled_changed_for_video_calls" value="true" />
+        <boolean name="carrier_vt_available_bool" value="true" />
+    </carrier_config>
+    <!--open volte for AL00C end-->
+    <!--Begin Add for DTS2018061502219-->
+    <carrier_config mcc="460" mnc="70">
+        <boolean name="carrier_vt_available_bool" value="true" />
+    </carrier_config>
+    <!--End Add for DTS2018061502219-->
+    <carrier_config mcc="460" mnc="01">
+        <string name="carrier_wb_hd_icon_flag">010001</string>
+    </carrier_config>
+
+    <carrier_config mcc="460" mnc="06">
+        <string name="carrier_wb_hd_icon_flag">010001</string>
+    </carrier_config>
+
+    <carrier_config mcc="460" mnc="09">
+        <string name="carrier_wb_hd_icon_flag">010001</string>
+    </carrier_config>
+</carrier_config_list>

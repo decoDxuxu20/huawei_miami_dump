@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Vivo Internet" mcc="724" mnc="10" apn="zap.vivo.com.br" user="vivo" server="" password="vivo" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default" authtype="1" protocol="IPV4V6" roaming_protocol="IP"/>
+  <apn carrier="Vivo MMS" mcc="724" mnc="10" apn="mms.vivo.com.br" user="vivo" server="" password="vivo" proxy="" port="" mmsproxy="200.142.130.104" mmsport="80" mmsc="http://termnat.vivomms.com.br:8088/mms" type="mms" authtype="1" protocol="IPV4V6" roaming_protocol="IP"/>
+  <apn carrier="xcap.ims" mcc="724" mnc="10" apn="xcap.ims" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IP" roaming_protocol="IP"/>
+</apns>

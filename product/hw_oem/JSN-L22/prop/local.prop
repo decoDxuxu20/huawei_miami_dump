@@ -1,0 +1,32 @@
+# 2018-08-01 15:08:48.0
+ro.boot.product.hardware.sku=JSN-L22
+# 2018-08-01 15:08:48.0
+ro.build.id=HONORJSN-L22
+# 2018-08-29 14:12:04.0
+ro.camera.cos_ttpic_supported=false
+# 2018-08-01 15:08:48.0
+ro.config.cpu_info_display=Hisilicon Kirin 710
+# 2018-08-01 15:08:48.0
+ro.config.hw_triple_finger=true
+# 2018-08-01 15:08:48.0
+ro.config.hw_vowifi_mmsut=true
+# 2018-12-11 14:30:31.0
+ro.config.marketing_name=Honor 8X
+# 2018-09-26 15:33:49.0
+ro.config.safety_certification=CE
+# 2018-08-01 15:08:48.0
+ro.dual.sim.phone=true
+# 2018-08-01 15:08:48.0
+ro.frp.pst=/dev/block/bootdevice/by-name/frp
+# 2018-08-01 15:08:48.0
+ro.product.board=JSN-L22
+# 2018-08-01 15:08:48.0
+ro.product.hardwareversion=HL1JSNM
+# 2018-08-01 15:08:48.0
+ro.product.model=JSN-L22
+# 2018-08-01 15:08:48.0
+ro.product.name=JSN-L22
+# 2018-08-22 17:23:37.0
+ro.vendor.config.hw_vowifi=true
+
+ro.build.description=JSN-L22-user 9.1.0 HONORJSN-L22 269-OVS-LGRP2 release-keys

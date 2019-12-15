@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Planet 3" mcc="232" mnc="05" apn="drei.at" user="" server="" password="" proxy="" port="" mmsproxy="213.94.78.133" mmsport="8799" mmsc="http://mmsc" type="default,supl,xcap,mms,ia" authtype="0"/>
+</apns>

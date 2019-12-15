@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="69104a2c745847661e657f72b6b4c505">
+  <dict>
+    <!--2019-05-28 14:19:14.000-->
+    <string key="carrier_volte_hd_icon_flag">00101010</string>
+    <!--2019-05-27 09:52:06.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101010</string>
+    <!--2019-05-27 09:52:06.000-->
+    <string key="carrier_vowifi_title">lifecell</string>
+  </dict>
+</config>

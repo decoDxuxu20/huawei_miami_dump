@@ -1,0 +1,95 @@
+on early-init
+
+on init
+
+on early-fs
+
+on fs
+
+on post-fs
+
+on post-fs-data
+    mkdir /data/nfc
+    chown nfc nfc /data/nfc
+
+on early-boot
+
+on boot
+# add for multi scale
+    setprop debug.enable.rawnfds.flag 1
+    setprop debug.enable.yuvnfds.flag 1
+    setprop debug.enable.yuvnfds.offline.flag 1
+
+# add for fingerprint
+    chown system system /dev/fpc1020
+    chmod 0660 /dev/fpc1020
+    chown system system /sys/devices/platform/fingerprint/diag/result
+    chown system system /sys/devices/platform/fingerprint/diag/navigation_enable
+    chown system system /sys/devices/platform/fingerprint/diag/wakeup_enable
+    chown system system /sys/devices/platform/fingerprint/diag/chip_id
+    chown system system /sys/devices/platform/fingerprint/diag/selftest
+    chown system system /sys/devices/platform/fingerprint/diag/fingerdetect
+    chown system system /sys/devices/platform/fingerprint/setup/adc_gain
+    chown system system /sys/devices/platform/fingerprint/setup/adc_shift
+    chown system system /sys/devices/platform/fingerprint/setup/capture_mode
+    chown system system /sys/devices/platform/fingerprint/setup/capture_count
+    chown system system /sys/devices/platform/fingerprint/setup/capture_col_groups
+    chown system system /sys/devices/platform/fingerprint/setup/capture_col_start
+    chown system system /sys/devices/platform/fingerprint/setup/capture_row_count
+    chown system system /sys/devices/platform/fingerprint/setup/capture_row_start
+    chown system system /sys/devices/platform/fingerprint/setup/capture_settings_mux
+    chown system system /sys/devices/platform/fingerprint/setup/pxl_ctrl
+    chown system system /sys/devices/platform/fingerprint/fingerprint_chip_info
+
+#camera
+    chown system system /sys/class/camerafs/node/rear_frequency_node
+    chmod 0660 /sys/class/camerafs/node/rear_frequency_node
+    chown system system /sys/class/camerafs/node/fore_frequency_node
+    chmod 0660 /sys/class/camerafs/node/fore_frequency_node
+#nfc
+    chown nfc nfc /sys/nfc/nfc_fwupdate
+    chmod 0664 /sys/nfc/nfc_fwupdate
+    chown nfc nfc /sys/nfc/nxp_config_name
+    chmod 0664 /sys/nfc/nxp_config_name
+    chown nfc nfc /sys/nfc/nfc_brcm_conf_name
+    chmod 0664 /sys/nfc/nfc_brcm_conf_name
+    chown nfc nfc /sys/nfc/nfc_sim_switch
+    chmod 0664 /sys/nfc/nfc_sim_switch
+    chown nfc nfc /sys/nfc/nfc_sim_status
+    chmod 0444 /sys/nfc/nfc_sim_status
+    chown nfc nfc /sys/nfc/rd_nfc_sim_status
+    chmod 0444 /sys/nfc/rd_nfc_sim_status
+    chown nfc nfc /sys/nfc/nfc_enable_status
+    chmod 0664 /sys/nfc/nfc_enable_status
+    chown nfc nfc /sys/nfc/nfc_card_num
+    chmod 0444 /sys/nfc/nfc_card_num
+    chown nfc nfc /sys/nfc/nfc_chip_type
+    chmod 0444 /sys/nfc/nfc_chip_type
+    chown nfc nfc /sys/nfc/nfc_fw_version
+    chmod 0444 /sys/nfc/nfc_fw_version
+    chown nfc nfc /sys/nfc/nfcservice_lock
+    chmod 0664 /sys/nfc/nfcservice_lock
+    chown nfc nfc /sys/nfc/nfc_svdd_sw
+    chmod 0664 /sys/nfc/nfc_svdd_sw
+    chown nfc nfc /sys/nfc/nfc_close_type
+    chmod 0664 /sys/nfc/nfc_close_type
+    chown nfc nfc /sys/nfc/nfc_single_channel
+    chmod 0444 /sys/nfc/nfc_single_channel
+
+#Added for FNFD
+    chmod 0660 /dev/hisi-fd
+    chown system system /dev/hisi-fd
+#irda
+    chown system system /sys/class/irda/irda_maxim/power_cfg
+    write /sys/class/irda/irda_maxim/power_cfg 1
+    chown system system /sys/class/irda/irda_chip/ir_chip_type
+
+# Service add below.
+
+service CameraDaemon /vendor/bin/CameraDaemon kirin710 JSN
+    class main
+    user media
+    group audio camera inet net_bt net_bt_admin net_bw_acct drmrpc mediadrm system dsm
+    ioprio rt 4
+    capabilities SYS_NICE
+    writepid /dev/cpuset/top-app/tasks /dev/stune/top-app/tasks

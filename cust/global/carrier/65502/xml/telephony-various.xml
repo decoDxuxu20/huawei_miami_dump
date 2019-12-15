@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="af354994a0410bf9f4416a3f94124489">
+  <dict>
+    <array key="plmn_spn">
+      <dict>
+        <string key="network_mccmnc">65505</string>
+        <string key="sim_mccmnc">65502</string>
+        <string key="network_type"></string>
+        <int key="rule">2</int>
+        <string key="spn">Telkom SA-R</string>
+        <string key="plmn">Telkom SA-R</string>
+      </dict>
+    </array>
+    <array key="plmn_abbrev"/>
+    <array key="net_sim_ue_pri"/>
+    <array key="set_mtu"/>
+  </dict>
+</config>

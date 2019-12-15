@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="2f3ab5c21e136f75c227943f174918bf">
+  <dict>
+    <!--2018-06-14 09:50:06.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:24.000-->
+    <int key="num_match">7</int>
+    <!--2018-05-28 14:37:47.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-09-25 20:00:21.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-28 17:35:51.000-->
+    <string key="ussd_regex">(^\#9|\*228$)</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">I TIM</string>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">TIM</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">41901</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

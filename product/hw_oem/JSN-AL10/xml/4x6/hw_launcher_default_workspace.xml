@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!--Party模式-->
+    <favorite
+        launcher:packageName="com.android.imedia.syncplay"
+        launcher:className="com.android.mediacenter.PageActivity"
+        launcher:container="@string/cust_folder_name_hwapp"
+        launcher:op="add"/>
+    <!-- 荣耀亲选 -->
+    <favorite
+        launcher:packageName="cn.honor.qinxuan"
+        launcher:className="cn.honor.qinxuan.MainActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="1"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+</favorites>

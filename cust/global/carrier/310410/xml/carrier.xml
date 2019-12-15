@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="eb125663f1731314c411d39f0200e78d">
+  <dict>
+    <!--2018-05-29 18:25:57.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-07-25 10:32:06.000-->
+    <string key="hw_networkname_normal">all,GPRS:G;EDGE:E;UMTS:4G;HSDPA:4G;HSUPA:4G;HSPA:4G;HSPA+:4G;LTE:4G LTE;CA:4G LTE</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">1048576</int>
+    <!--2018-07-27 15:55:36.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 15:12:12.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">6</int>
+    <!--2018-09-25 20:00:43.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-07-30 14:14:54.000-->
+    <string key="virtualnet_operatorname">AT&amp;T</string>
+  </dict>
+</config>

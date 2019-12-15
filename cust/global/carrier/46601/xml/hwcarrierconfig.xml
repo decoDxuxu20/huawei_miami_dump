@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="60b5ecf462201c4425ede38b76e0a1d8">
+  <dict>
+    <!--2018-05-28 17:48:28.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:48:28.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:48:28.000-->
+    <int key="IPsecSaLifeTime">3000</int>
+    <!--2018-05-28 17:48:28.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2018-05-28 17:48:29.000-->
+    <int key="Ikev2DpdInterval">120</int>
+    <!--2018-05-28 17:48:28.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:48:28.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:48:29.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">1500</int>
+    <!--2018-05-28 17:48:29.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">3000</int>
+    <!--2018-05-28 17:48:28.000-->
+    <int key="Ikev2IntervalToSend">6</int>
+    <!--2018-05-28 17:48:28.000-->
+    <int key="Ikev2MaxRetryToSend">3</int>
+    <!--2018-05-28 17:48:29.000-->
+    <int key="Ikev2PcscfIpv4Address">20</int>
+    <!--2018-05-28 17:48:30.000-->
+    <int key="Ikev2PcscfIpv6Address">21</int>
+    <!--2018-05-28 17:48:29.000-->
+    <int key="Ikev2PeerIdType">64</int>
+    <!--2018-05-28 17:48:28.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:48:28.000-->
+    <int key="Ikev2SaLifeTime">3000</int>
+    <!--2018-05-28 17:48:29.000-->
+    <int key="Ikev2SelfIdType">63</int>
+    <!--2018-05-28 17:48:27.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-06-11 20:43:26.000-->
+    <bool key="carrier_default_wfc_ims_enabled_bool">false</bool>
+    <!--2018-05-28 17:48:27.000-->
+    <int key="carrier_default_wfc_ims_mode_int">1</int>
+    <!--2018-05-28 17:48:27.000-->
+    <int key="carrier_default_wfc_ims_roaming_mode_int">2</int>
+    <!--2018-06-06 19:49:22.000-->
+    <bool key="carrier_hide_lte_high_speed_bool">true</bool>
+    <!--2018-05-30 17:08:36.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-06-02 18:14:31.000-->
+    <string key="carrier_vowifi_title">VoWiFi</string>
+    <!--2018-09-28 12:03:55.000-->
+    <int key="maxImageHeight">1440</int>
+    <!--2018-09-28 12:08:43.000-->
+    <int key="maxImageWidth">1920</int>
+    <!--2018-05-21 16:30:26.000-->
+    <bool key="preferToUseUT">false</bool>
+    <!--2018-07-02 14:36:13.000-->
+    <bool key="useCustomUserAgent">true</bool>
+    <!--2018-05-28 17:48:27.000-->
+    <string key="vowifiHplmnListItem">46601, epdg.epc.mnc001.mcc466.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:48:30.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:48:29.000-->
+    <string key="vowifiRssiThreshold">-66,-79,-6,-7</string>
+    <!--2018-05-28 17:48:29.000-->
+    <string key="vowifiWifiChip24GConf">-79,-72,3,1</string>
+    <!--2018-05-28 17:48:29.000-->
+    <string key="vowifiWifiChip5GConf">-79,-72,3,1</string>
+    <!--2018-08-20 21:37:36.000-->
+    <bool key="vowifi_roaming_switch">true</bool>
+    <!--2019-08-26 14:59:28.000-->
+    <string key="wfc_format_wifi_string">%1$s</string>
+  </dict>
+</config>

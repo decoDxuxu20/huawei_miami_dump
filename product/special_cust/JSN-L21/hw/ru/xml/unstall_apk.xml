@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>
+  /product/region_comm/oversea/app/HwHiAIDSEngine.apk;
+  </apk>
+  <apk>
+  /system/app/HiView.apk;
+  </apk>
+  <apk>
+  /system/app/HiViewTunnel.apk;
+  </apk>
+  <apk>
+/data/hw_init/product/region_comm/oversea/app/HiAction.apk;
+</apk>
+  <apk>
+/data/hw_init/product/region_comm/oversea/app/HiTouch.apk;
+</apk>
+  <apk>
+/data/hw_init/product/region_comm/oversea/app/HiVision.apk;
+</apk>
+  <apk>
+/data/hw_init/product/region_comm/oversea/app/HwHiAiEngine.apk;
+</apk>
+  <restoreapk>   /system/priv-app/HiSpace.apk;  </restoreapk>
+</tag>

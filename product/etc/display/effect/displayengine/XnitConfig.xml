@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MinimumLuminanceUpto2nit>
+	<NeedAdjustMinLum>true</NeedAdjustMinLum>
+	<ActualMaxLuminance>350</ActualMaxLuminance>
+	<ActualMinLuminance>4</ActualMinLuminance>
+	<ExpectedMinLuminance>2</ExpectedMinLuminance>
+	<AddedPointsForExpectedMinLum>3</AddedPointsForExpectedMinLum>
+	<XccCoefForExpectedMinLum>
+		<XccCoef>0.7200,0.7200,0.7200</XccCoef>
+		<XccCoef>0.8200,0.8200,0.8200</XccCoef>
+		<XccCoef>0.9100,0.9100,0.9100</XccCoef>
+	</XccCoefForExpectedMinLum>
+</MinimumLuminanceUpto2nit>
