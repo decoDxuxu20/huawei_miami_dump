@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tag version="1.0">
+         <ringtones>Wind_Dance</ringtones>
+         <ringtones>Sailing</ringtones>
+         <ringtones>Ripple</ringtones>
+         <ringtones>Polonaise</ringtones>
+         <ringtones>Huawei_Tune_Living</ringtones>
+         <ringtones>Huawei_Tune_Clean</ringtones>
+         <ringtones>Harp</ringtones>
+         <ringtones>Flow</ringtones>
+         <ringtones>Flipped</ringtones>
+         <ringtones>Dream</ringtones>
+         <ringtones>Digital_Ringtone</ringtones>
+         <ringtones>Day_lily</ringtones>
+         <ringtones>Bounce</ringtones>
+         
+         
+         <alarms>Wind_Rises</alarms>
+         <alarms>Star</alarms>
+         <alarms>Sakura_Drop</alarms>
+         <alarms>Ripple</alarms>
+         <alarms>Morning_Light</alarms>
+         <alarms>Hawaii</alarms>
+         <alarms>Fresh_Air</alarms>
+         <alarms>Cuckoo</alarms>
+         
+         
+         <notifications>Waterflow</notifications>
+         <notifications>Summer</notifications>
+         <notifications>Step</notifications>
+         <notifications>PingPong</notifications>
+         <notifications>Peking_Opera_Drum</notifications>
+         <notifications>Little_Wish</notifications>
+         <notifications>Lit</notifications>
+         <notifications>Letter</notifications>
+         <notifications>Hand_Drum</notifications>
+         <notifications>Fountain</notifications>
+         <notifications>Echo</notifications>
+         <notifications>Drip</notifications>
+         <notifications>Doorbell</notifications>
+         <notifications>Crystal_Drop</notifications>
+         <notifications>Chess</notifications>
+         <notifications>Cave</notifications>
+         
+         
+         <ui>WirelessChargingStarted</ui>
+         <ui>VideoStop</ui>
+         <ui>Undock</ui>
+         <ui>Trusted</ui>
+         <ui>KeypressInvalid</ui>
+         <ui>Dock</ui>
+         <ui>camera_focus</ui>
+</Tag>

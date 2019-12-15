@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6daab868c65faa527ee669d5a3ff84da">
+  <dict>
+    <!--2018-12-03 11:52:19.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-12-03 12:10:53.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-11-28 15:25:30.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-11-14 16:26:09.000-->
+    <string key="hw_networkname_normal">all,GPRS:E;EDGE:E;UMTS:H;LTE:LTE;CA:LTE;MiMo:LTE;CAMiMo:LTE</string>
+  </dict>
+</config>

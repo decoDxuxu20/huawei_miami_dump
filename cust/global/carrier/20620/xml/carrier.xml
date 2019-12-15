@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d213603ef36e12ac0b672b89744d8473">
+  <dict>
+    <!--2018-06-13 22:15:29.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:21.000-->
+    <int key="num_match">7</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">Base Belgium</string>
+    <!--2018-07-28 14:06:24.000-->
+    <string key="voicemail_number">1955</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

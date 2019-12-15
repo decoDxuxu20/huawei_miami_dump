@@ -1,0 +1,2 @@
+/cust/app/AutoInStallAPKFromMcc/AutoInStallAPKFromMcc.apk
+/cust/app/TMECustomize/TMECustomize.apk

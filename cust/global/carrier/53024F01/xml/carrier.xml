@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ec6c778335a891df93de7783da6b819d">
+  <dict>
+    <!--2018-08-23 17:36:51.000-->
+    <bool key="hw_data_roam_option">true</bool>
+    <!--2018-07-27 15:56:27.000-->
+    <int key="num_match">10</int>
+    <!--2018-07-27 15:56:26.000-->
+    <int key="num_match_short">8</int>
+    <!--2018-09-25 20:00:59.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-08-06 15:09:57.000-->
+    <string key="virtual_ecclist_withcard">+111</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Warehouse</string>
+    <!--2018-08-13 17:43:21.000-->
+    <string key="voicemail_carrier">Warehouse</string>
+    <!--2018-07-31 16:26:22.000-->
+    <string key="voicemail_number">+64284808808</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

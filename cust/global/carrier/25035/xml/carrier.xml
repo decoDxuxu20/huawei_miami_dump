@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="7ef31345205d2fa54775e949298f89e2">
+  <dict>
+    <!--2018-06-04 19:19:43.000-->
+    <bool key="hw_add_4g_only">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-04-24 11:58:20.000-->
+    <int key="num_match">10</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2019-04-24 11:58:20.000-->
+    <string key="voicemail_carrier">MOTIV</string>
+    <!--2019-04-24 11:58:20.000-->
+    <string key="voicemail_number">+79028710280</string>
+    <!--2019-04-24 11:58:20.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

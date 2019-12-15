@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="4f31973b9d203b45fb87055f1e2349eb">
+  <dict>
+    <!--2018-12-01 16:44:37.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2018-06-04 19:18:55.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2018-07-27 15:55:28.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 14:24:18.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 14:51:53.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-22 16:43:19.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-09-25 20:00:28.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+911,+112,+999</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">iD</string>
+    <!--2018-08-13 17:03:08.000-->
+    <string key="voicemail_carrier">iD</string>
+    <!--2018-07-30 16:52:56.000-->
+    <string key="voicemail_number">+447782333123</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

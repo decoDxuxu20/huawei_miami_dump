@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EyeProtectionConfig>
+    <feature name="RGLED_ALGORITHM">
+        <mode name="PARAMETERS">
+            <param name="ParameterK_R">0</param>
+            <param name="ParameterConst_R">32768</param>
+            <param name="ParameterK_G">0</param>
+            <param name="ParameterConst_G">32768</param>
+            <param name="ParameterK_B">0</param>
+            <param name="ParameterConst_B">32768</param>
+        </mode>
+    </feature>
+</EyeProtectionConfig>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="4c574b65604c34af7938ec44ce2142a3">
+  <dict>
+    <!--2018-08-27 15:04:16.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-06-22 16:30:57.000-->
+    <string key="hide_sepcial_apn_form_list">location.attmex.mx</string>
+    <!--2018-11-28 15:46:19.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-11-28 15:42:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-11-28 15:50:46.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-06-13 11:00:47.000-->
+    <bool key="hw_data_roam_option">true</bool>
+    <!--2018-07-07 14:16:10.000-->
+    <string key="hw_networkname_normal">all,HSDPA:3G;HSUPA:3G;HSPA:3G;HSPA+:4G;LTE:4G LTE;CA:4G LTE;MiMo:4G LTE;CAMiMo:4G LTE</string>
+    <!--2018-06-26 16:25:54.000-->
+    <string key="hw_nwmode_pref_bymccmnc">9,3,2</string>
+    <!--2018-06-12 13:03:07.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2018-06-26 16:25:54.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2018-06-26 16:25:55.000-->
+    <bool key="hw_ussd_message_vibrator">true</bool>
+    <!--2018-06-26 16:25:55.000-->
+    <bool key="hw_ussd_message_wakescreen">true</bool>
+    <!--2018-06-26 16:25:55.000-->
+    <int key="max_message_size">614400</int>
+    <!--2018-07-27 15:56:23.000-->
+    <int key="num_match">7</int>
+    <!--2018-06-15 10:48:31.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-15 10:58:47.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-08-27 15:04:55.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-06-26 16:25:55.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2018-09-25 20:00:48.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-06-26 16:25:55.000-->
+    <string key="ussd_regex">(^\#9|\*228$)</string>
+    <!--2018-08-06 10:12:10.000-->
+    <string key="virtual_ecclist_withcard">+112,+911</string>
+    <!--2018-06-19 09:59:53.000-->
+    <string key="virtualnet_operatorname">AT&amp;T</string>
+    <!--2018-06-26 16:25:55.000-->
+    <string key="voicemail_carrier">Nextel</string>
+    <!--2018-06-26 16:25:56.000-->
+    <string key="voicemail_number">*86</string>
+    <!--2018-06-26 16:25:56.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

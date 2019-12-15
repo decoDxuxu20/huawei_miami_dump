@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="cd573e4c9193a8506f345a7e566d7305">
+  <dict>
+    <!--2018-09-08 18:00:40.000-->
+    <int key="maxImageHeight">1440</int>
+    <!--2018-09-08 18:01:01.000-->
+    <int key="maxImageWidth">1920</int>
+  </dict>
+</config>

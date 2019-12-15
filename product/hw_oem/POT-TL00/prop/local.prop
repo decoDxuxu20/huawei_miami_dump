@@ -1,0 +1,52 @@
+# 2018-10-23 18:43:31.0
+hw.wifi.disable_auto_disc=false
+# 2018-06-29 09:05:32.0
+persist.sys.dualcards=true
+# 2018-11-19 15:47:17.0
+ro.boot.product.hardware.sku=POT-TL00a
+# 2018-11-19 15:47:17.0
+ro.build.id=HUAWEIPOT-TL00a
+# 2018-07-06 15:58:41.0
+ro.check.modem_network=false
+# 2018-07-06 15:55:35.0
+ro.config.attach_apn_enabled=true
+# 2019-04-03 21:49:59.0
+ro.config.audio_para_opt=true
+# 2019-01-23 14:54:35.0
+ro.config.cpu_info_display=Hisilicon Kirin 710F
+# 2018-06-29 09:05:32.0
+ro.config.hw_sim2airplane=true
+# 2018-07-06 17:02:43.0
+ro.config.hw_srlte=true
+# 2018-10-18 20:53:51.0
+ro.config.hw_vtlte_on=true
+# 2018-10-23 14:34:31.0
+ro.config.marketing_name=POT-TL00
+# 2018-07-06 15:50:48.0
+ro.config.networkmode_hide_dyn=true
+# 2018-09-12 18:59:41.0
+ro.config.nfcdisabled=true
+# 2018-07-06 15:58:49.0
+ro.config.support_ca=true
+# 2018-06-29 09:05:32.0
+ro.dual.sim.phone=true
+# 2018-12-12 11:59:07.0
+ro.hwcamera.ai_resolution=3968x2976
+# 2018-11-12 21:31:23.0
+ro.hwcamera.slowmotion=true
+# 2018-07-06 19:43:06.0
+ro.hwpp.dualsim_swap_solution=cmcc
+# 2018-07-06 15:55:35.0
+ro.hwpp_ds_fail=111,32,30
+# 2018-06-29 09:05:32.0
+ro.product.board=POT-TL00
+# 2018-11-19 15:47:17.0
+ro.product.brand=HUAWEI
+# 2018-11-30 18:07:30.0
+ro.product.device=HWPOT-HF
+# 2018-11-20 15:25:58.0
+ro.product.hardwareversion=HL1POTM
+# 2018-11-20 15:25:58.0
+ro.product.model=POT-TL00a
+# 2018-11-19 15:47:17.0
+ro.product.name=POT-TL00a

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="0f2cd1ae40179496df72ae7a6f3caff7">
+  <dict>
+    <!--2018-05-28 17:48:31.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:48:31.000-->
+    <string key="EspEncAlg">RCT_ALG_DES3_CBC</string>
+    <!--2018-05-28 17:48:31.000-->
+    <int key="IPsecSaLifeTime">86400</int>
+    <!--2018-05-28 17:48:31.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2018-05-28 17:48:32.000-->
+    <int key="Ikev2DpdInterval">120</int>
+    <!--2018-05-28 17:48:31.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_DES3_CBC</string>
+    <!--2018-05-28 17:48:31.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:48:32.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">86400</int>
+    <!--2018-05-28 17:48:32.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">86400</int>
+    <!--2018-05-28 17:48:31.000-->
+    <int key="Ikev2MaxRetryToSend">3</int>
+    <!--2018-05-28 17:48:32.000-->
+    <int key="Ikev2PcscfIpv4Address">16384</int>
+    <!--2018-05-28 17:48:32.000-->
+    <int key="Ikev2PcscfIpv6Address">16390</int>
+    <!--2018-05-28 17:48:31.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:48:31.000-->
+    <int key="Ikev2SaLifeTime">86400</int>
+    <!--2018-05-28 17:48:30.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-05-28 17:48:30.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-06-06 20:41:33.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-09-28 12:03:55.000-->
+    <int key="maxImageHeight">1440</int>
+    <!--2018-09-28 12:08:43.000-->
+    <int key="maxImageWidth">1920</int>
+    <!--2018-05-21 16:30:26.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-07-02 14:35:49.000-->
+    <bool key="useCustomUserAgent">true</bool>
+    <!--2018-09-08 16:50:45.000-->
+    <bool key="utBsfAuthBeUsed">false</bool>
+    <!--2018-05-28 17:48:30.000-->
+    <string key="utNafSrvAddr">xcap.volte.aptg.com.tw</string>
+    <!--2018-05-28 17:48:30.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2018-06-01 17:45:13.000-->
+    <string key="utParamsCfg">0:1</string>
+    <!--2018-06-01 17:45:49.000-->
+    <int key="utUseApn">1</int>
+    <!--2018-06-21 17:14:08.000-->
+    <string key="vowifiHplmnListItem">46605,epdg.epc.aptg.com.tw;52505,epdg.epc.aptg.com.tw</string>
+    <!--2018-05-28 17:48:32.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:48:32.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-05-28 17:48:32.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-05-28 17:48:32.000-->
+    <bool key="vowifi_roaming_switch">true</bool>
+    <!--2019-02-28 20:01:16.000-->
+    <string key="wfc_format_wifi_string">%1$s WiFi</string>
+    <!--2019-02-28 20:01:16.000-->
+    <string key="wfc_spn_string">GT</string>
+  </dict>
+</config>

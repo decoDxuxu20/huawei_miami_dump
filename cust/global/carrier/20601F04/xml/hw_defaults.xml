@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-08-06 09:27:16.000-->
+  <string hw_predefined_eap_sim="VodafoneWiFi"/>
+  <!--2018-06-21 16:00:14.000-->
+  <integer hwdefault_CheckIntervalt="15"/>
+  <!--2018-08-10 14:05:53.000-->
+  <string settings.global.hw_nfcpay_screenoff_disable="true"/>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="f1a59417cc727272f85787e5b2215838">
+  <dict>
+    <!--2018-07-05 15:50:49.000-->
+    <int key="callWaitingMode">7</int>
+    <!--2018-05-28 17:39:20.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-05-30 18:24:43.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-07-05 15:47:13.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-07-05 15:52:35.000-->
+    <string key="ssTypeUseCsOnly">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23</string>
+  </dict>
+</config>

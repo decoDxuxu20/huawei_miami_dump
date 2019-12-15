@@ -1,0 +1,12 @@
+# 2018-09-05 16:45:59.0
+ro.com.google.clientidbase.ms=android-huawei-rev1
+# 2018-10-15 22:11:52.0
+ro.config.hw_cota=true
+# 2018-10-18 16:39:20.0
+ro.config.ride_mode=true
+# 2018-10-18 16:39:21.0
+ro.config.ridemode_mute_mic=true
+
+ro.build.version.base_os=HUAWEI/POT-LX3/HWPOT-H:9/HUAWEIPOT-L23/262C605:user/release-keys
+
+ro.product.CustDVersion=D1

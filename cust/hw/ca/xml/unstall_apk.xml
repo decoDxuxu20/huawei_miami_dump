@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>/system/priv-app/HwPushService.apk;/system/priv-app/HiVision.apk;/product/region_comm/oversea/app/HiVision.apk;/system/priv-app/HiAction.apk;/product/region_comm/oversea/app/HiAction.apk;/system/priv-app/HwHiAIDSEngine.apk;/product/region_comm/oversea/app/HwHiAIDSEngine.apk;/product/region_comm/oversea/app/HwHiAiEngine.apk;/system/app/HiTouch.apk;/product/region_comm/oversea/app/HiTouch.apk;</apk>
+  <restoreapk>/system/app/HwCloudDrive_Local.apk;/system/priv-app/HwPushService.apk;/system/app/HwPushService.apk;/preas/app/LatinImeGoogle.apk;</restoreapk>
+</tag>

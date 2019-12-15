@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="bf857a516d7e59b0605eb9700d6b4346">
+  <dict>
+    <!--2018-07-26 17:52:01.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:03.000-->
+    <int key="num_match">9</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+  </dict>
+</config>

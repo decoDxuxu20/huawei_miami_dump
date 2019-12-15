@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher" version="1">
+    <favorite
+        launcher:packageName="com.android.stk"
+        launcher:className="com.android.stk.StkLauncherActivity"
+        launcher:op="delete"/>
+    <favorite
+        launcher:packageName="com.android.stk"
+        launcher:className="com.android.stk.StkLauncherActivity2"
+        launcher:op="delete"/>
+    <favorite
+        launcher:packageName="com.huawei.ussd"
+        launcher:className="com.huawei.ussd.USSDActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1" 
+        launcher:op="insertinto"/>
+    <favorite
+        launcher:packageName="com.android.stk"
+        launcher:className="com.android.stk.StkLauncherActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1" 
+        launcher:op="insertinto"/>
+</favorites>

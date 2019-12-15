@@ -1,0 +1,8 @@
+/product/app/HiCard/HiCard.apk,priv
+/product/app/HwFidoAsm/HwFidoAsm.apk
+/product/app/HwFidoClient/HwFidoClient.apk
+/product/app/HwFloatTasks/HwFloatTasks.apk
+/product/app/HwKaraoke/HwKaraoke.apk
+/product/app/HwMagazine/HwMagazine.apk
+/product/app/ProjectMenuAct/ProjectMenuAct.apk,priv
+/product/app/SWSHeadphone/SWSHeadphone.apk

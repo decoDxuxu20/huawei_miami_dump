@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="57cf94c7ffcb0a391825cd2e621033c5">
+  <dict>
+    <!--2018-07-05 14:34:15.000-->
+    <int key="max_message_size">3145728</int>
+    <!--2018-12-18 14:47:53.000-->
+    <int key="num_match">10</int>
+    <!--2018-09-18 20:01:44.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-09-25 20:00:29.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Tele2</string>
+  </dict>
+</config>

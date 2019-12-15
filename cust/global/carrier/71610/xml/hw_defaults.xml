@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-05-31 16:33:08.000-->
+  <integer alert_duration="180000"/>
+  <!--2018-09-08 17:55:17.000-->
+  <string always_hide_language_speech="true"/>
+  <!--2018-05-31 16:32:47.000-->
+  <string always_vibrate="true"/>
+  <!--2018-09-08 17:55:17.000-->
+  <integer default_language_speech_state="2"/>
+  <!--2018-06-01 15:33:28.000-->
+  <string disable_extreme_settings="true"/>
+  <!--2018-05-31 16:32:47.000-->
+  <string hide_cmas_optout_dialog="true"/>
+  <!--2018-10-08 19:36:19.000-->
+  <string hide_full_volume_menu="true"/>
+  <!--2018-06-28 15:45:22.000-->
+  <string hw_weatherclock_myloc_show_first="false"/>
+  <!--2019-02-18 12:02:57.000-->
+  <integer settings.global.sms_center_editable="0"/>
+  <!--2018-08-08 11:35:45.000-->
+  <string settings.global.speeddial_predefined_numbers=""/>
+  <!--2019-02-13 15:27:24.000-->
+  <string show_add_channel="false"/>
+  <!--2019-02-13 15:27:24.000-->
+  <string show_channel_settings="true"/>
+  <!--2018-07-05 15:59:52.000-->
+  <string show_date_time_title="true"/>
+  <!--2018-05-31 16:32:47.000-->
+  <string use_full_volume="true"/>
+</resources>

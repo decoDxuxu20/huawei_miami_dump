@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="206d66710667219232922ba0434af6ab">
+  <dict>
+    <!--2018-07-27 15:56:11.000-->
+    <int key="num_match">11</int>
+    <!--2018-11-01 11:22:07.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-08-24 11:07:54.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-08-24 11:18:01.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-09-28 15:53:30.000-->
+    <string key="signal_strength">5,false,-120,-118,-114,-110,-105</string>
+  </dict>
+</config>

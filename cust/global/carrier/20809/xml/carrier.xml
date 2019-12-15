@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="aa40555711a8cc89c4ea0dfc5814f8d8">
+  <dict>
+    <!--2018-06-01 17:25:16.000-->
+    <string key="hw_networkname_normal">all,GSM:2G;HSDPA:3G+;HSUPA:3G+;HSPA:3G+;HSPA+:3G+</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">614400</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+  </dict>
+</config>

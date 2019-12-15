@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GB2312"?>
+<PPSr>
+    <PPSrAlgo name="edof" faceing="0" ispwidth = "3264" ispheight = "2448" width="2816" height="2112"></PPSrAlgo>
+    <PPSrAlgo name="self_portrait" faceing="0" ispwidth = "3264" ispheight = "2448" width="2816" height="2112"></PPSrAlgo>
+    <PPSrAlgo name="fairlight_self_portrait" faceing="0" ispwidth = "3264" ispheight = "2448" width="2816" height="2112"></PPSrAlgo>
+    <PPSrAlgo name="bshutter" faceing="0" ispwidth = "3264" ispheight = "2448" width="2816" height="2112"></PPSrAlgo>
+    <PPSrAlgo name="hdr" faceing="0" ispwidth = "5632" ispheight = "4224" width="5120" height="3840"></PPSrAlgo>
+</PPSr>

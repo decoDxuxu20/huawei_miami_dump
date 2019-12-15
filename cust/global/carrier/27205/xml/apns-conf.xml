@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="3"
+    mcc="272"
+    mnc="05"
+    apn="3ireland.ie"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy="mms.3ireland.ie"
+    mmsport="8799"
+    mmsc="http://mms.um.3ireland.ie:10021/mmsc"
+    type="default,supl,mms,ia"
+    authtype="0"
+  />
+</apns>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher" version="3">
+<!--zhoubenxiong zwx613198 2019/02/02 -->
+    <!--左起第 1 屏-->
+    <favorite
+        launcher:packageName="com.huawei.health"
+        launcher:className="com.huawei.health.MainActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto" />
+    <favorite
+        launcher:packageName="com.android.gallery3d"
+        launcher:className="com.huawei.gallery.app.GalleryMain"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="1"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto" />
+    <!--左起第 0 屏-->
+    <favorite
+        launcher:packageName="ie.three.threeplus"
+        launcher:className="ie.three.threeplus.OffersActivity"
+        launcher:container="-100"
+        launcher:screen="0"
+        launcher:x="4"
+        launcher:y="4"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto" />
+    <folder
+        launcher:title="Three"
+        launcher:container="-100"
+        launcher:screen="0"
+        launcher:x="1"
+        launcher:y="5"
+        launcher:op="insertinto" >
+        <favorite
+            launcher:packageName="ie.three.my3account"
+            launcher:className="ie.three.my3app.view.ActivityMainLauncher" />
+        <favorite
+            launcher:packageName="com.spectreit.three"
+            launcher:className="md5489bb46283cd2fd35924f8a9e4cdcc99.SplashActivity" />
+        <favorite
+            launcher:packageName="com.amazon.mShop.android.shopping"
+            launcher:className="com.amazon.mShop.home.HomeActivity"/>
+        <favorite
+            launcher:packageName="com.amazon.avod.thirdpartyclient"
+            launcher:className="com.amazon.avod.thirdpartyclient.LauncherActivity" />
+    </folder>
+    <favorite
+        launcher:packageName="com.android.settings"
+        launcher:className="com.android.settings.HWSettings"
+        launcher:container="-100"
+        launcher:screen="0"
+        launcher:x="2"
+        launcher:y="5"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto" />
+</favorites>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="8ddfc1fffac55264ebfb75bcbe2cb381">
+  <dict>
+    <!--2018-10-16 19:34:36.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-10-16 19:33:56.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-10-16 19:33:14.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP2048</string>
+    <!--2018-10-16 19:28:25.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-10-16 19:32:34.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-05-28 17:46:19.000-->
+    <int key="Ikev2PcscfIpv6Address">16386</int>
+    <!--2018-10-16 19:31:55.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-05-28 17:46:18.000-->
+    <int key="callWaitingMode">3</int>
+    <!--2018-11-13 12:09:16.000-->
+    <bool key="carrier_default_volte_switch_on_bool">false</bool>
+    <!--2018-11-13 12:09:47.000-->
+    <bool key="carrier_default_wfc_ims_enabled_bool">false</bool>
+    <!--2018-05-30 17:38:26.000-->
+    <string key="carrier_volte_hd_icon_flag">10101000</string>
+    <!--2018-05-28 21:41:52.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101000</string>
+    <!--2018-05-21 16:30:24.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-10-16 17:41:21.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2018-10-09 10:35:15.000-->
+    <int key="smsToMmsTextThreshold">5</int>
+    <!--2018-05-28 17:46:18.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-05-28 17:46:18.000-->
+    <int key="utNafPort">8090</int>
+    <!--2018-10-16 17:42:00.000-->
+    <int key="utUseApn">1</int>
+    <!--2018-05-28 17:46:18.000-->
+    <string key="vowifiHplmnListItem">42507, epdg.epc.mnc007.mcc425.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:46:19.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-10-17 15:02:22.000-->
+    <string key="vowifiRssiThreshold">-66,-80,-6,-4</string>
+    <!--2018-10-16 19:38:50.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-10-16 19:38:29.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-10-16 19:37:31.000-->
+    <string key="vowifiWifiChip24GConf">-80,-76,3,1</string>
+    <!--2018-10-16 19:38:05.000-->
+    <string key="vowifiWifiChip5GConf">-80,-76,3,1</string>
+    <!--2018-05-28 17:46:19.000-->
+    <string key="vowifi_UT_APN">XCAP</string>
+    <!--2018-10-16 19:36:03.000-->
+    <bool key="vowifi_mms_switch">true</bool>
+    <!--2018-05-28 17:46:18.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+  </dict>
+</config>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ac003d79f7e0b643fe19799eab6f64e0">
+  <dict>
+    <!--2018-08-27 15:03:41.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-11-28 15:46:19.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-11-28 15:42:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-11-28 15:50:46.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-06-04 15:02:19.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE;MiMo:LTE;CAMiMo:LTE</string>
+    <!--2018-07-17 17:46:17.000-->
+    <bool key="hw_stk_name_read_from_custom_first">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:51.000-->
+    <int key="num_match">10</int>
+    <!--2018-08-27 15:04:20.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-06-27 16:00:36.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-07-28 14:06:13.000-->
+    <string key="voicemail_carrier">Digitel</string>
+    <!--2018-07-28 14:06:26.000-->
+    <string key="voicemail_number">124</string>
+    <!--2018-07-28 14:06:38.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

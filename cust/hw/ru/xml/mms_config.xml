@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mms_config>
+  <!--2018-11-10 17:32:50.000-->
+  <string name="MCCMNCListForBlankSMS">25001,25002,25003,25005,25007,25011,25012,25015,25016,25017,25019,25020,25035,25037,25038,25039,25099,25701,25702,25704</string>
+  <!--2018-11-10 17:31:59.000-->
+  <bool name="enableSendingBlankSMS">false</bool>
+  <!--2018-11-14 10:32:25.000-->
+  <bool name="enableSlideDuration">false</bool>
+  <!--2018-11-15 15:48:58.000-->
+  <bool name="showMMSReadReports">true</bool>
+  <!--2018-11-12 16:20:25.000-->
+  <int name="smsToMmsTextThreshold">5</int>
+</mms_config>

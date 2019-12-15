@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6176ebdadc0fe46f6a20a071c8a4e30b">
+  <dict>
+    <!--2018-11-01 20:41:05.000-->
+    <string key="SMSCAddress">+48601000310</string>
+    <!--2018-12-03 11:52:19.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-12-03 11:55:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-12-03 11:17:12.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-06-02 16:38:41.000-->
+    <bool key="hw_callforward_networkname">true</bool>
+    <!--2018-05-30 15:06:29.000-->
+    <bool key="hw_data_roam_option">true</bool>
+    <!--2018-06-01 17:15:05.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE+</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:54:58.000-->
+    <int key="num_match">9</int>
+    <!--2018-05-28 14:12:50.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-07-28 14:06:07.000-->
+    <string key="voicemail_carrier">Plus</string>
+    <!--2018-07-28 14:06:21.000-->
+    <string key="voicemail_number">+48601222222</string>
+    <!--2018-07-28 14:06:33.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

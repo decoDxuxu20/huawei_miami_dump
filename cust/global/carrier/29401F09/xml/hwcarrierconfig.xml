@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c78d91e7da48d5fbf1d651a2b882f131">
+  <dict>
+    <!--2018-07-02 17:37:41.000-->
+    <int key="smsToMmsTextThreshold">2</int>
+    <!--2018-07-30 19:44:09.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-05-28 17:41:34.000-->
+    <string key="utParamsCfg">19:1</string>
+    <!--2018-12-04 21:09:17.000-->
+    <int key="utPreferOption">1</int>
+  </dict>
+</config>

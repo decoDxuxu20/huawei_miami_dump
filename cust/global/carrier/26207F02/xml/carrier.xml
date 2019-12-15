@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="4ac825811e11bac98186627c1bbf12c0">
+  <dict>
+    <!--2018-07-27 15:55:31.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 14:44:16.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-07-30 14:12:51.000-->
+    <string key="virtualnet_operatorname">1&amp;1</string>
+  </dict>
+</config>

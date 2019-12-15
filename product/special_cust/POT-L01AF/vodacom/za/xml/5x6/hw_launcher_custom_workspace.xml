@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher" version="3">
+    
+    <!--左起第 0 屏-->
+    <favorite
+        launcher:packageName="com.huawei.health"
+        launcher:className="com.huawei.health.MainActivity"
+        launcher:op="delete" />
+    <favorite
+        launcher:packageName="za.co.vodacom.android.app"
+        launcher:className="za.co.vodacom.android.app.MainActivity"
+        launcher:container="-100"
+        launcher:screen="0"
+        launcher:x="4"
+        launcher:y="4"
+        launcher:spanX="1"
+        launcher:spanY="1" 
+	launcher:op="insertinto"/>
+
+    <folder
+        launcher:title="Vodacom Apps"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="1"
+	launcher:op="add">
+        <favorite
+            launcher:packageName="deezer.android.app"
+	    launcher:className="com.deezer.android.ui.activity.LauncherActivity" />
+        <favorite
+            launcher:packageName="com.dstvmobile.android"
+            launcher:className="com.dstvmobile.android.MainActivity" />
+        <favorite
+            launcher:packageName="com.supersport.android.phone"
+            launcher:className="com.supersport.android.phone.MainActivity" />
+        <favorite
+            launcher:packageName="com.showmax.app"
+            launcher:className="com.showmax.android.preinstall.MainActivity" />
+	<favorite
+            launcher:packageName="com.avs.vodacom"
+	    launcher:className="com.avs.vanilla.MainActivity" />
+    </folder>
+	<favorite
+        launcher:packageName="com.huawei.health"
+        launcher:className="com.huawei.health.MainActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1" 
+	launcher:op="insertinto"/>
+</favorites>

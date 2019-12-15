@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Virgin Mobile Data" mcc="424" mnc="03" apn="internet1" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+</apns>

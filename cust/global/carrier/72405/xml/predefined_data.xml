@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datainitializor >
+  <contact>
+    <name>Ambulancia</name>
+    <phone>
+      <detail>192</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Bombeiros</name>
+    <phone>
+      <detail>193</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+</datainitializor>

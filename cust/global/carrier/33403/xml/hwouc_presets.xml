@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hwouc_presets>
+  <!--2019-06-21 14:54:23.000-->
+  <int key="download_limit_size_carrier">100</int>
+  <!--2019-06-21 14:54:23.000-->
+  <string key="is_forced_wifi_for_carrier">true</string>
+  <!--2019-06-21 14:54:23.000-->
+  <string key="is_remind_limit_carrier">true</string>
+</hwouc_presets>

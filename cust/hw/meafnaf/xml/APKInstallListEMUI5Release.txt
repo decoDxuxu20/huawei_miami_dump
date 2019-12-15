@@ -1,0 +1,3 @@
+/cust/app/AutoInStallAPKFromMcc/AutoInStallAPKFromMcc.apk
+/cust/app/FirstBootGetCityInfo/FirstBootGetCityInfo.apk
+/cust/app/TMECustomize/TMECustomize.apk

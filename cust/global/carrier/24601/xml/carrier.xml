@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e2c3187b3593c43a7c2d394a4eb2b5e9">
+  <dict>
+    <!--2018-05-29 16:40:30.000-->
+    <bool key="clir_config_enable">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:02.000-->
+    <int key="num_match">7</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-07-28 14:06:08.000-->
+    <string key="voicemail_carrier">Omnitel</string>
+    <!--2018-07-28 14:06:21.000-->
+    <string key="voicemail_number">+37069890001</string>
+    <!--2018-07-28 14:06:33.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

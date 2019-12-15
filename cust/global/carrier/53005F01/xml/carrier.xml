@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="87b4f92dfc3c684ad5585eb284cd5d31">
+  <dict>
+    <!--2018-07-27 15:56:27.000-->
+    <int key="num_match">10</int>
+    <!--2018-07-27 15:56:25.000-->
+    <int key="num_match_short">8</int>
+    <!--2018-09-25 20:00:59.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-08-06 15:09:57.000-->
+    <string key="virtual_ecclist_withcard">+111</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Skinny</string>
+    <!--2018-08-13 17:41:36.000-->
+    <string key="voicemail_carrier">Skinny Mobile</string>
+    <!--2018-07-31 16:31:07.000-->
+    <string key="voicemail_number">0064204864236</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

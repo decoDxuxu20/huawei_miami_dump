@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5f625ec9364697ac5ed8a467479cf9b6">
+  <dict>
+    <!--2018-05-28 17:49:52.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-05-28 17:49:52.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-05-30 17:41:30.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-05-21 16:30:28.000-->
+    <bool key="preferToUseUT">true</bool>
+  </dict>
+</config>

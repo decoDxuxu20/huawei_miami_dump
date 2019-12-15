@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6696362010fbdf2e52fb94e4c54d7002">
+  <dict>
+    <!--2019-03-11 14:21:38.000-->
+    <bool key="carrier_close_vowifi_airplane_bool">true</bool>
+    <!--2018-05-30 16:37:23.000-->
+    <bool key="carrier_hide_ca_bool">true</bool>
+    <!--2018-08-29 19:33:05.000-->
+    <string key="carrier_networkmode_gstyle">true</string>
+  </dict>
+</config>

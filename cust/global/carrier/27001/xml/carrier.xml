@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="44e9f5c9e10139c1d2e8e8286a273f5e">
+  <dict>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:27.000-->
+    <int key="num_match">7</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-07-28 14:06:12.000-->
+    <string key="voicemail_carrier">Lux GSM</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">621</string>
+    <!--2018-07-28 14:06:37.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

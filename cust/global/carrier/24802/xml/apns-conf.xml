@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apns  version="8">
+  <apn carrier="Elisa Internet" mcc="248" mnc="02" apn="internet" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="1"/>
+  <apn carrier="Elisa MMS" mcc="248" mnc="02" apn="mms" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="http://194.150.66.35" type="mms"/>
+  <apn carrier="xcap" mcc="248" mnc="02" apn="xcap" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV4V6"/>
+</apns>

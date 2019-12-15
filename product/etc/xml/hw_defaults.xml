@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-09-11 09:42:42.0-->
+  <integer fingersense_smartshot_enabled="0" reset="true"/>
+  <!--2018-09-12 15:56:54.0-->
+  <string hw_camera2_nightmode_enable="true"/>
+  <!--2018-10-10 14:43:25.0-->
+  <integer settings.secure.game_deep_nodisturb_mode="2" reset="true"/>
+  <!--2018-07-05 14:17:02.0-->
+  <integer settings.secure.game_dnd_mode="2"/>
+  <!--2018-07-05 14:17:02.0-->
+  <integer settings.secure.game_power_save_mode="1"/>
+  <!--2018-07-27 16:32:17.0-->
+  <integer settings.system.sws_mode="3"/>
+</resources>

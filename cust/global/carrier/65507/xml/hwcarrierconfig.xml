@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6d8efc8c64e9b7906154eedded071489">
+  <dict>
+    <!--2018-05-28 17:50:07.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:50:07.000-->
+    <string key="EspEncAlg">RCT_ALG_DES3_CBC,RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2018-05-28 17:50:08.000-->
+    <int key="IPsecSaLifeTime">7200</int>
+    <!--2018-05-28 17:50:07.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2018-05-28 17:50:07.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:50:07.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:50:08.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">7200</int>
+    <!--2018-05-28 17:50:08.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">7200</int>
+    <!--2018-05-28 17:50:07.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:50:07.000-->
+    <int key="Ikev2SaLifeTime">7200</int>
+    <!--2018-06-06 09:54:27.000-->
+    <bool key="carrier_mmicode_unescapehtml_bool">true</bool>
+    <!--2019-04-23 11:06:45.000-->
+    <bool key="carrier_show_vowifi_rssi_tips">true</bool>
+    <!--2018-05-28 21:49:51.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101001</string>
+    <!--2018-05-21 16:30:28.000-->
+    <bool key="preferToUseUT">false</bool>
+    <!--2018-05-28 17:50:06.000-->
+    <string key="vowifiHplmnListItem">65507, epdg.epc.mnc007.mcc655.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:50:08.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:50:08.000-->
+    <string key="vowifiRssiThreshold">-60,-78,-6,-7</string>
+    <!--2018-05-28 17:50:08.000-->
+    <string key="vowifiWifiChip24GConf">-78,-71,3,1</string>
+    <!--2018-05-28 17:50:08.000-->
+    <string key="vowifiWifiChip5GConf">-78,-71,3,1</string>
+    <!--2018-05-28 17:50:09.000-->
+    <string key="wfc_format_wifi_string">%1$s Wi-Fi</string>
+    <!--2018-05-28 17:50:08.000-->
+    <string key="wfc_spn_string">Cell C</string>
+  </dict>
+</config>

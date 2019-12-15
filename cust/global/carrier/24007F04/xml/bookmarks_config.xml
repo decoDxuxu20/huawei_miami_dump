@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="1e610e1241c88f25fe57a399586c4814">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Huawei Device</string>
+              <string key="url">http://shop.huawei.ru/?utm_campaign=vendor_preinstall&amp;utm_source=android_browser&amp;utm_medium=redirect&amp;utm_content=link</string>
+            </dict>
+            <dict>
+              <string key="title">Яндекс</string>
+              <string key="url">http://www.yandex.ru/?clid=1875763</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

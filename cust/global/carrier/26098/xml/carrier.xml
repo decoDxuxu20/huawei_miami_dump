@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b1b29e237ab934a39789673b6fdc1e53">
+  <dict>
+    <!--2018-11-12 10:24:36.000-->
+    <string key="SMSCAddress">+48790998250</string>
+    <!--2018-11-08 11:08:37.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2018-12-03 11:50:55.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-12-03 12:10:53.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-12-03 11:17:12.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-06-02 16:38:41.000-->
+    <bool key="hw_callforward_networkname">true</bool>
+    <!--2018-11-15 16:16:26.000-->
+    <bool key="hw_data_roam_option">true</bool>
+    <!--2018-06-01 17:17:56.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE+</string>
+  </dict>
+</config>

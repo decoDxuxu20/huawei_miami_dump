@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5f08c75a5b5caef4fb97a5dd79c69a29">
+  <dict>
+    <!--2018-09-28 09:56:37.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-09-28 09:56:37.000-->
+    <string key="EspEncAlg">RCT_ALG_AES256_CBC</string>
+    <!--2018-09-28 09:56:37.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1536</string>
+    <!--2018-09-28 09:56:37.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES256_CBC</string>
+    <!--2018-09-28 09:56:37.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-12-07 15:26:36.000-->
+    <int key="Ikev2NatKeepAliveTime">60</int>
+    <!--2019-03-01 11:16:34.000-->
+    <int key="Ikev2NatRtcTimerMaxCnt">200</int>
+    <!--2018-09-28 09:56:37.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-06-21 17:14:06.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-06-21 17:14:06.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-08-29 21:43:10.000-->
+    <bool key="carrier_hide_clir_bool">true</bool>
+    <!--2018-09-11 11:09:50.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-06-20 14:07:53.000-->
+    <string key="carrier_wb_hd_icon_flag">010001</string>
+    <!--2018-07-06 17:02:08.000-->
+    <int key="maxMessageSize">614400</int>
+    <!--2018-06-21 17:14:06.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-07-11 16:36:03.000-->
+    <int key="smsToMmsTextThreshold">10</int>
+    <!--2018-06-21 17:14:06.000-->
+    <bool key="support_hold_tone_bool">true</bool>
+    <!--2018-07-02 14:53:23.000-->
+    <bool key="useCustomUserAgent">true</bool>
+    <!--2018-06-21 17:14:06.000-->
+    <string key="utBsfSrvAddr">bsf.ims.attmex.mx</string>
+    <!--2018-12-07 15:26:51.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-06-21 17:14:06.000-->
+    <string key="utParamsCfg">0:1,15:1</string>
+    <!--2018-06-21 17:14:06.000-->
+    <string key="utRetryInterval">500,500</string>
+    <!--2018-06-21 17:14:06.000-->
+    <int key="utUseApn">1</int>
+    <!--2018-07-05 20:25:53.000-->
+    <string key="vowifiHplmnListItem">334050, epdg.ims.attmex.mx</string>
+    <!--2018-06-21 17:14:06.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-06-21 17:14:06.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-06-21 17:14:07.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2019-03-01 11:16:34.000-->
+    <bool key="vowifiSupportFirmwareKA">true</bool>
+    <!--2018-12-07 15:26:20.000-->
+    <string key="vowifi_UT_APN">xcap.ims.attmex.mx</string>
+    <!--2018-09-28 09:57:39.000-->
+    <bool key="vowifi_mmsut_roaming_switch">true</bool>
+    <!--2018-09-28 09:57:23.000-->
+    <bool key="vowifi_roaming_switch">true</bool>
+    <!--2018-12-07 15:25:54.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+  </dict>
+</config>

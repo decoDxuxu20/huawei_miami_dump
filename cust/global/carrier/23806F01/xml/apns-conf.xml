@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Oister DK" mcc="238" mnc="06" apn="data.tre.dk" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="Oister MMS" mcc="238" mnc="06" apn="data.tre.dk" user="" server="" password="" proxy="" port="" mmsproxy="172.16.53.12" mmsport="8799" mmsc="http://mms.3.dk" type="default,mms,supl"/>
+  <apn carrier="Oister UT" mcc="238" mnc="06" apn="services" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap"/>
+</apns>

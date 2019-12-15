@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="13866dab7dcaf79f10bf706b2c3d425a">
+  <dict>
+    <!--2018-05-28 17:37:42.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2018-05-28 17:37:43.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:37:43.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:37:43.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP2048</string>
+    <!--2018-05-28 17:37:44.000-->
+    <int key="Ikev2DpdInterval">120</int>
+    <!--2018-05-28 17:37:43.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:37:43.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA2_512</string>
+    <!--2018-05-28 17:37:44.000-->
+    <int key="Ikev2PcscfIpv6Address">16386</int>
+    <!--2018-05-28 17:37:44.000-->
+    <int key="Ikev2PeerIdType">64</int>
+    <!--2018-05-28 17:37:43.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:37:44.000-->
+    <int key="Ikev2SelfIdType">63</int>
+    <!--2018-05-28 17:37:42.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-05-28 17:37:43.000-->
+    <int key="carrier_default_wfc_ims_mode_int">3</int>
+    <!--2018-06-06 09:50:36.000-->
+    <bool key="carrier_disable_supplement_bool">true</bool>
+    <!--2018-05-30 16:31:37.000-->
+    <string key="carrier_volte_hd_icon_flag">00000000</string>
+    <!--2018-05-31 17:14:28.000-->
+    <bool key="carrier_volte_show_switch_bool">false</bool>
+    <!--2018-06-05 10:07:29.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10000010</string>
+    <!--2018-05-28 17:37:43.000-->
+    <bool key="carrier_wfc_supports_cellular_preferred_bool">true</bool>
+    <!--2018-09-06 15:08:37.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2018-06-02 18:23:27.000-->
+    <bool key="hw_hide_pop_for_mcc">true</bool>
+    <!--2018-08-29 17:38:52.000-->
+    <bool key="mvnoTypeDataEnable">false</bool>
+    <!--2018-12-25 16:32:12.000-->
+    <string key="mvnoTypeIndex">3:4</string>
+    <!--2018-05-28 15:36:52.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-10-30 15:36:09.000-->
+    <int key="smsToMmsTextThreshold">10</int>
+    <!--2018-05-28 17:37:42.000-->
+    <int key="utBsfPort">80</int>
+    <!--2019-01-24 13:46:53.000-->
+    <bool key="utCanUseWifi">false</bool>
+    <!--2018-05-28 17:37:42.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2018-05-28 17:37:42.000-->
+    <string key="utParamsCfg">0:1,1:1,2:1,3:1,4:1</string>
+    <!--2018-05-28 17:37:43.000-->
+    <string key="vowifiHplmnListItem">23420, epdg.epc.mnc020.mcc234.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:37:44.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:37:44.000-->
+    <string key="vowifiRssiThreshold">-66,-85,-6,-14</string>
+    <!--2018-05-28 17:37:44.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-05-28 17:37:44.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-06-02 16:44:31.000-->
+    <bool key="vowifi_pref_domestic">true</bool>
+    <!--2018-06-04 10:01:14.000-->
+    <bool key="vowifi_pref_roaming">true</bool>
+    <!--2018-05-28 17:37:44.000-->
+    <string key="wfc_format_wifi_string">%1$s Wi-Fi Calling</string>
+    <!--2018-05-28 17:37:44.000-->
+    <string key="wfc_spn_string">3</string>
+  </dict>
+</config>

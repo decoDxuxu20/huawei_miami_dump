@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312"?>
+<CONFIG_PARA>
+        <ENVLUMA_HIGHLIGHT_THRESHOLD value="100"/>
+        <ENVLUMA_CHANGE_THRESHOLD value="3"/>
+        <FAIRLIGHT_OFFLINEREMOSAIC_BYPASS value="1"/>
+</CONFIG_PARA>

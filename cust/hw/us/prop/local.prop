@@ -1,0 +1,56 @@
+# 2018-07-24 23:52:57.000
+gsm.sigcust.gsm=5,false,-109,-105,-98,-91,-85
+# 2018-07-24 16:02:34.000
+gsm.sigcust.lte=5,false,-124,-117,-109,-104,-94
+# 2018-07-24 16:02:34.000
+gsm.sigcust.umts=5,false,-120,-108,-102,-96,-88
+# 2018-07-16 19:55:02.000
+hw.net.tcp.buffersize.hspa=460800,460800,734003,16777,100663,301990
+# 2018-07-16 19:55:02.000
+hw.net.tcp.buffersize.lte=2560000,4194304,8388608,262144,524288,1048576
+# 2018-07-26 11:30:44.000
+ro.camera.cos_ttpic_supported=false
+# 2018-07-27 15:29:40.000
+ro.config.att.tone=true
+# 2018-09-27 21:59:58.000
+ro.config.csp_enable=true
+# 2018-11-09 10:37:08.000
+ro.config.delay_setapn=true
+# 2018-09-04 11:45:01.000
+ro.config.hw_mmi_code=0,00,*0,*1,*2,*3,*4,*5,*6,*7,*8,*9,#0,#1,#2,#3,#4,#5,#6,#7,#8,#9
+# 2018-11-09 16:03:27.000
+ro.config.hw_mmi_ignore_list=*272#911
+# 2018-11-06 20:24:29.000
+ro.config.hw_nfc_msimce=false
+# 2018-06-21 10:48:11.000
+ro.config.hw_opta=567
+# 2018-06-21 10:48:11.000
+ro.config.hw_optb=840
+# 2019-03-21 21:59:23.000
+ro.config.hw_power_voice_key=false
+# 2018-11-09 10:05:17.000
+ro.config.hw_sim_activation=true
+# 2018-06-22 10:08:22.000
+ro.config.keyguard_unusedata=true
+# 2018-09-21 11:07:58.000
+ro.config.music_region=lowfreq
+# 2018-11-06 20:24:29.000
+ro.config.nfc_hasese=false
+# 2018-08-02 10:13:33.000
+ro.config.vm_prioritymode=2
+# 2018-09-21 11:08:36.000
+ro.config.voice_cfg=normal
+# 2018-11-09 10:03:07.000
+ro.odm.gsm.fastdormancy.mode=3
+# 2018-11-09 15:11:11.000
+ro.odm.gsm.fd.screen=2
+# 2018-11-09 15:10:47.000
+ro.odm.gsm.fd.time_scroff=3000
+# 2018-06-21 10:49:15.000
+ro.product.CustCVersion=C567
+# 2018-11-06 20:24:29.000
+ro.product.cuptsm=
+# 2018-11-06 20:24:29.000
+ro.product.wallet.nfc=
+# 2018-09-21 11:06:58.000
+ro.vendor.config.camera.region=bm

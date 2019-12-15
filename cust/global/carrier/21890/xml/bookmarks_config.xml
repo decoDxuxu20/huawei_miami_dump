@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="cf98ebe905f8855aa5beab10b1bb7a34">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks">
+        <dict>
+          <string key="title">BH Mobile</string>
+          <string key="url">https://bhmobile.bhtelecom.ba</string>
+        </dict>
+        <dict>
+          <string key="title">BH Telecom</string>
+          <string key="url">http://www.bhtelecom.ba</string>
+        </dict>
+        <dict>
+          <string key="title">HIT Zona</string>
+          <string key="url">https://bhmobile.bhtelecom.ba/hitzona</string>
+        </dict>
+        <dict>
+          <string key="title">Kupovina Ultra dopune</string>
+          <string key="url">https://bhmobile.bhtelecom.ba/topup/ccok</string>
+        </dict>
+        <dict>
+          <string key="title">mCommerce</string>
+          <string key="url">https://bhmobile.bhtelecom.ba/mcommerce</string>
+        </dict>
+        <dict>
+          <string key="title">mTusam</string>
+          <string key="url">https://bhmobile.bhtelecom.ba/mape</string>
+        </dict>
+        <dict>
+          <string key="title">mLiveSport</string>
+          <string key="url">https://bhmobile.bhtelecom.ba/hitzona/sport/nogomet</string>
+        </dict>
+        <dict>
+          <string key="title">Poruke</string>
+          <string key="url">https://bhmobile.bhtelecom.ba/posalji-poruku</string>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

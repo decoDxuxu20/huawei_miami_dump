@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apns  version="8">
+  <apn carrier="MTS Internet" mcc="250" mnc="01" apn="internet.mts.ru" user="mts" server="" password="mts" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="1" protocol="IPV4V6"/>
+  <apn carrier="MTS MMS" mcc="250" mnc="01" apn="mms.mts.ru" user="mts" server="" password="mts" proxy="" port="" mmsproxy="192.168.192.192" mmsport="8080" mmsc="http://mmsc" type="mms" authtype="1" protocol="IPV4V6"/>
+</apns>

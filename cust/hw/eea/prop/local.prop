@@ -1,0 +1,14 @@
+# 2018-11-12 10:34:08.000
+ro.config.hw_opta=431
+# 2018-11-12 10:34:08.000
+ro.config.hw_optb=999
+# 2019-01-16 09:47:37.000
+ro.hwcamera.def_beauty_level=0
+# 2018-11-13 16:12:33.000
+ro.odm.gsm.fastdormancy.mode=1
+# 2018-11-13 16:12:33.000
+ro.odm.gsm.fd.screen=3
+# 2018-11-12 10:34:32.000
+ro.product.CustCVersion=C431
+# 2019-02-02 14:49:32.000
+ro.vendor.config.camera.region=oz

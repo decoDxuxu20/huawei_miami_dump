@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <whiteapp
+        name="Sing Karaoke"
+        package="vn.astudio.app.vietkaraoke" />
+    <whiteapp
+        name="wesing"
+        package="com.tencent.wesing" />
+    <whiteapp
+        name="Tango"
+        package="com.sgiggle.production" />
+    <whiteapp
+        name="Bigo"
+        package="sg.bigo.live" />
+    <whiteapp
+        name="天籁K歌海外版"
+        package="com.audiocn.bion" />
+</resources>

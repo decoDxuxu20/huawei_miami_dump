@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d8a032ab94fd0e3b70fbeda111ab1aae">
+  <dict>
+    <!--2018-05-28 17:39:39.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:39:39.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:39:39.000-->
+    <int key="IPsecSaLifeTime">28800</int>
+    <!--2018-05-28 17:39:38.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2018-05-28 17:39:38.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:39:38.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:39:39.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">28800</int>
+    <!--2018-05-28 17:39:39.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">28800</int>
+    <!--2018-05-28 17:39:39.000-->
+    <int key="Ikev2PcscfIpv4Address">20</int>
+    <!--2018-05-28 17:39:40.000-->
+    <int key="Ikev2PcscfIpv6Address">21</int>
+    <!--2018-05-28 17:39:39.000-->
+    <int key="Ikev2PeerIdType">65</int>
+    <!--2018-05-28 17:39:38.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:39:39.000-->
+    <int key="Ikev2SaLifeTime">28800</int>
+    <!--2018-05-28 17:39:39.000-->
+    <int key="Ikev2SelfIdType">63</int>
+    <!--2019-03-19 16:18:01.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-06-06 09:48:49.000-->
+    <bool key="carrier_close_vowifi_airplane_bool">true</bool>
+    <!--2019-03-19 16:18:01.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-06-06 20:23:18.000-->
+    <string key="carrier_volte_hd_icon_flag">00000000</string>
+    <!--2018-05-28 21:48:47.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101010</string>
+    <!--2019-03-19 16:18:01.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-03-19 16:18:01.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc001.mcc257.pub.3gppnetwork.org</string>
+    <!--2019-03-19 16:18:01.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2019-03-19 16:18:01.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2019-03-19 16:18:01.000-->
+    <int key="utUseApn">1</int>
+    <!--2018-05-28 17:39:38.000-->
+    <string key="vowifiHplmnListItem">25701,epdg.epc.mnc001.mcc257.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:39:40.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:39:40.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-05-28 17:39:40.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+  </dict>
+</config>

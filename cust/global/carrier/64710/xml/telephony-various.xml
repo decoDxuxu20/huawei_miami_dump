@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="e2376571535d6c2c46503aeed0fae814">
+  <dict>
+    <array key="plmn_spn">
+      <dict>
+        <string key="network_mccmnc">20811</string>
+        <string key="sim_mccmnc">64710</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">SFR Reunion</string>
+        <string key="plmn">SFR Reunion</string>
+      </dict>
+    </array>
+    <array key="set_mtu"/>
+    <array key="plmn_abbrev"/>
+    <array key="net_sim_ue_pri"/>
+  </dict>
+</config>

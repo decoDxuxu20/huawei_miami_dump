@@ -1,0 +1,32 @@
+# 2019-04-09 18:00:27.0
+persist.radio.defdualsimltemenu=false
+# 2018-07-06 19:43:05.0
+persist.sys.dualcards=false
+# 2018-06-29 09:05:32.0
+ro.boot.product.hardware.sku=POT-L62J
+# 2018-07-04 16:10:05.0
+ro.build.id=HUAWEIPOT-L62J
+# 2018-08-30 15:32:25.0
+ro.config.cpu_info_display=Hisilicon Kirin 710
+# 2018-07-06 15:58:41.0
+ro.config.hw_lte_support=true
+# 2018-07-06 19:43:06.0
+ro.config.hw_sim2airplane=false
+# 2018-09-12 18:59:41.0
+ro.config.nfcdisabled=true
+# 2018-07-06 15:58:41.0
+ro.config.support_ca=true
+# 2018-06-29 09:05:32.0
+ro.dual.sim.phone=true
+# 2018-11-20 20:19:32.0
+ro.hwcamera.ai_resolution=3264x2448
+# 2018-06-29 09:05:32.0
+ro.product.board=POT-L62J
+# 2018-07-07 17:51:10.0
+ro.product.hardwareversion=HL3POTM
+# 2018-06-29 09:05:32.0
+ro.product.model=POT-L62J
+# 2018-06-29 09:05:32.0
+ro.product.name=POT-L62J
+
+ro.build.description=POT-L62J-user 9 HUAWEIPOT-L62J 313-OVS-LGRP2 release-keys

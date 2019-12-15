@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="01f6423ffd0ea10ff9b3b690af12509e">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks">
+        <dict>
+          <string key="title">Swisscom</string>
+          <string key="url">http://www.swisscom.ch?campID=PRECONF_MOBDEV_BOOKM_SC</string>
+        </dict>
+        <dict>
+          <string key="title">Swisscom Cockpit</string>
+          <string key="url">http://cockpit.swisscom.ch</string>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

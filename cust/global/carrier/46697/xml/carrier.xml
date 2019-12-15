@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="81659eb329a52c4cc1220d26da9f3f37">
+  <dict>
+    <!--2018-07-27 15:55:14.000-->
+    <int key="num_match">8</int>
+    <!--2018-07-28 14:06:10.000-->
+    <string key="voicemail_carrier">台灣大哥大</string>
+    <!--2018-07-28 14:06:23.000-->
+    <string key="voicemail_number">123</string>
+    <!--2018-07-28 14:06:35.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,3 @@
+/cust/app/SkinStdDark/SkinStdDark.apk
+/cust/app/SkinStdLight/SkinStdLight.apk
+/cust/app/TrendMicro_jp/TrendMicro_jp.apk,nosys

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-01-25 10:15:42.000-->
+  <string hw_predefined_eap_sim="U+zone:EAP_AKA;U+zone_5G:EAP_AKA;5G_U+zone:EAP_AKA"/>
+  <!--2019-01-28 09:51:51.000-->
+  <string settings.global.preset_wifiByMccmnc="true"/>
+</resources>

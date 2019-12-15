@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="0f888f8e96174fdcead06d0df2c56f42">
+  <dict>
+    <!--2019-01-02 10:48:02.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2018-06-09 15:47:41.000-->
+    <string key="hw_replace_country_code">+61</string>
+    <!--2018-08-22 16:28:09.000-->
+    <int key="hw_simactive_time">60</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:18.000-->
+    <int key="num_match">8</int>
+    <!--2018-05-28 10:42:07.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-05-30 18:47:22.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-05-30 18:57:16.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">4</int>
+    <!--2018-07-28 14:06:10.000-->
+    <string key="voicemail_carrier">VHA</string>
+    <!--2018-07-28 14:06:23.000-->
+    <string key="voicemail_number">121</string>
+    <!--2018-07-28 14:06:35.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

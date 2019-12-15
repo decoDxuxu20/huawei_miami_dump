@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ae3c607710b9980ddc6b4dd4b7a2fc80">
+  <dict>
+    <!--2018-07-27 15:54:52.000-->
+    <int key="num_match">8</int>
+    <!--2018-07-28 14:06:06.000-->
+    <string key="voicemail_carrier">Orascom Telecom Algérie</string>
+    <!--2018-07-28 14:06:20.000-->
+    <string key="voicemail_number">555</string>
+    <!--2018-07-28 14:06:32.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

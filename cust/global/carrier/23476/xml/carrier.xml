@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="73df42a786178cd8065cea2e209969dc">
+  <dict>
+    <!--2018-12-01 16:44:37.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2018-07-27 15:55:29.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 14:41:42.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 14:56:59.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-22 17:06:49.000-->
+    <bool key="pre_apn_unable">true</bool>
+  </dict>
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-09-06 22:33:20.000-->
+  <string display_channel_default_off="50"/>
+  <!--2018-09-06 22:12:08.000-->
+  <string show_add_channel="false"/>
+  <!--2018-09-06 22:12:08.000-->
+  <string show_channel_settings="true"/>
+</resources>

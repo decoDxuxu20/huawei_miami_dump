@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="8fbf4ff01f4d9fc1ef9e772ae6e80f83">
+  <dict>
+    <!--2018-05-28 17:46:21.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-05-28 17:46:22.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-06-09 19:13:56.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-05-21 16:30:24.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-05-28 17:46:21.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2018-05-28 17:46:21.000-->
+    <int key="utBsfPort">80</int>
+    <!--2018-05-28 17:46:21.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc001.mcc426.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:46:21.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-08-09 10:11:17.000-->
+    <string key="utParamsCfg">0:1,8:1</string>
+    <!--2018-05-28 17:46:21.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

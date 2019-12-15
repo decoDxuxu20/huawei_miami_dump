@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SRControl>
+    <PGEnable>false</PGEnable>
+    <NeedPkgNameFromPG>true</NeedPkgNameFromPG>
+    <MinimumTrainingIntervalMinutes>960</MinimumTrainingIntervalMinutes>
+    <ChargeLevelThreshold>50</ChargeLevelThreshold>
+</SRControl>

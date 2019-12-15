@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b0dd3bc5141bf86c975ac327707a87c3">
+  <dict>
+    <!--2018-08-09 17:01:42.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-12-18 14:48:11.000-->
+    <int key="num_match">10</int>
+    <!--2018-07-27 17:25:46.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-09-25 20:00:30.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-08-06 15:09:57.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+    <!--2018-10-22 17:51:15.000-->
+    <string key="virtualnet_operatorname">Tele2 NL</string>
+    <!--2018-08-14 10:19:26.000-->
+    <string key="voicemail_carrier">Tele2 NL</string>
+    <!--2018-08-14 10:19:26.000-->
+    <string key="voicemail_number">+31640192940</string>
+    <!--2018-08-14 10:19:26.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

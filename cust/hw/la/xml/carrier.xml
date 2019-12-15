@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="69f6b3451a888921f76735b1ab2e04ae">
+  <dict>
+    <!--2018-07-11 20:02:13.000-->
+    <bool key="hw_confirm_waiting">true</bool>
+    <!--2018-07-31 22:45:16.000-->
+    <bool key="hw_hide_lte">false</bool>
+    <!--2018-07-11 20:00:36.000-->
+    <bool key="stk_use_lasttitle">true</bool>
+  </dict>
+</config>

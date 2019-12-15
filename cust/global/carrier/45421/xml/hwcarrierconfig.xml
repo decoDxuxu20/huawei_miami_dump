@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="de15d43232dc8cf0ecf6a46e86c6c53d">
+  <dict>
+    <!--2018-10-31 14:42:55.000-->
+    <bool key="carrier_hide_ca_bool">true</bool>
+    <!--2018-12-21 18:03:07.000-->
+    <string key="carrier_networkmode_gstyle">true</string>
+  </dict>
+</config>

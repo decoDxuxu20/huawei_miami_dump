@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="f7d72c6cda0537a1489d7f49db39ae88">
+  <dict>
+    <!--2018-11-12 16:07:40.000-->
+    <bool key="hw_stk_blank_dialog_title">true</bool>
+    <!--2018-09-07 15:21:22.000-->
+    <bool key="hw_stk_calling_show_text">true</bool>
+    <!--2018-09-07 14:46:53.000-->
+    <bool key="hw_stk_home_back">true</bool>
+    <!--2018-09-07 14:25:31.000-->
+    <bool key="hw_stk_screen_on_unlock">true</bool>
+    <!--2018-09-07 15:01:22.000-->
+    <bool key="hw_stk_show_cancel_button">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:28.000-->
+    <int key="num_match">7</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-07-28 14:06:12.000-->
+    <string key="voicemail_carrier">SALT FL</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">+4237801000</string>
+    <!--2018-07-28 14:06:37.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

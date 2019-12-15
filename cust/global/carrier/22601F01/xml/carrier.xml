@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="af6140a4fbe41366d21070b058188ee6">
+  <dict>
+    <!--2018-11-01 20:41:07.000-->
+    <string key="SMSCAddress">+40722004000</string>
+    <!--2018-07-26 17:49:43.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2018-09-29 08:52:20.000-->
+    <string key="hw_networkname_normal">all,GSM:G</string>
+    <!--2018-07-27 15:55:11.000-->
+    <int key="num_match">9</int>
+    <!--2018-06-14 17:25:48.000-->
+    <bool key="remove_apn_MVNO">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Vodafone RO</string>
+    <!--2018-08-13 16:16:12.000-->
+    <string key="voicemail_carrier">Vodafone</string>
+    <!--2018-07-31 16:47:02.000-->
+    <string key="voicemail_number">+40722033334</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="3db372e8a3bc20e49239f50a7ecdb92c">
+  <dict>
+    <!--2019-03-26 09:36:02.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2018-08-17 14:18:50.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-08-17 11:47:18.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-12-26 16:33:20.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2019-01-25 15:36:04.000-->
+    <bool key="carrier_volte_show_switch_bool">false</bool>
+    <!--2018-08-17 14:19:14.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-07-02 17:05:48.000-->
+    <int key="smsToMmsTextThreshold">10</int>
+    <!--2018-08-17 14:20:38.000-->
+    <int key="utBsfPort">80</int>
+    <!--2018-08-21 20:11:18.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-08-17 14:21:24.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2018-08-17 14:21:54.000-->
+    <string key="utXcapRootUri">Service</string>
+  </dict>
+</config>

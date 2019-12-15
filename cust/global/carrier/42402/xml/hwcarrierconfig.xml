@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="38bf85d3da4394a88944707fac9436ab">
+  <dict>
+    <!--2018-05-28 17:46:08.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_SHA2_256,RCT_ALG_HMAC_SHA2_384</string>
+    <!--2018-05-28 17:46:08.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC,RCT_ALG_AES256_CBC,RCT_ALG_DES3_CBC</string>
+    <!--2018-05-28 17:46:09.000-->
+    <int key="IPsecSaLifeTime">3600</int>
+    <!--2018-05-28 17:46:08.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP2048,RCT_ALG_MODP3072,RCT_ALG_MODP4096,RCT_ALG_MODP6144,RCT_ALG_MODP8192</string>
+    <!--2018-05-28 17:46:08.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES256_CBC,RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:46:08.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_SHA2_256,RCT_ALG_HMAC_SHA2_384</string>
+    <!--2018-05-28 17:46:09.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">3600</int>
+    <!--2018-05-28 17:46:09.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">3600</int>
+    <!--2018-05-28 17:46:08.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_MD5,RCT_ALG_HMAC_SHA2_256,RCT_ALG_AES_XCBC</string>
+    <!--2018-05-28 17:46:09.000-->
+    <int key="Ikev2SaLifeTime">3600</int>
+    <!--2018-05-28 17:46:07.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-05-28 17:46:07.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-05-28 17:46:08.000-->
+    <int key="carrier_default_wfc_ims_mode_int">1</int>
+    <!--2018-06-09 20:05:14.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-05-21 16:30:24.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-07-09 15:21:18.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2018-05-28 17:46:07.000-->
+    <int key="utBsfPort">8088</int>
+    <!--2018-05-28 17:46:07.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc002.mcc424.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:46:07.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-05-28 17:46:07.000-->
+    <int key="utNafPort">8080</int>
+    <!--2018-05-28 17:46:07.000-->
+    <string key="utNafSrvAddr">xcap.ims.mnc002.mcc424.pub.3gppnetwork.org</string>
+    <!--2018-07-09 15:19:55.000-->
+    <string key="utParamsCfg">1:1</string>
+    <!--2018-07-09 15:19:27.000-->
+    <int key="utUseApn">1</int>
+    <!--2018-05-28 17:46:08.000-->
+    <string key="vowifiHplmnListItem">42402,epdg.epc.mnc002.mcc424.etisalat.ae</string>
+    <!--2018-05-28 17:46:09.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:46:09.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-05-28 17:46:09.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-05-28 17:46:09.000-->
+    <string key="vowifi_UT_APN">ut</string>
+    <!--2018-05-28 17:46:08.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+    <!--2018-08-07 19:14:57.000-->
+    <string key="wfc_format_wifi_string">%1$s</string>
+  </dict>
+</config>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="520734008c5a736c9e45da01c0991428">
+  <dict>
+    <!--2018-08-27 15:03:52.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-12-03 11:50:55.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-12-03 11:55:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-12-03 11:15:55.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-06-04 15:57:11.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE;MiMo:LTE;CAMiMo:LTE</string>
+    <!--2018-07-27 15:55:59.000-->
+    <int key="num_match">7</int>
+    <!--2018-08-27 15:04:35.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-06-27 16:00:39.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2018-09-25 20:00:53.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">FLOW</string>
+    <!--2018-07-28 14:06:15.000-->
+    <string key="voicemail_carrier">C&amp;amp;W</string>
+    <!--2018-07-28 14:06:28.000-->
+    <string key="voicemail_number">123</string>
+    <!--2018-07-28 14:06:40.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

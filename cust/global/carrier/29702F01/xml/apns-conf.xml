@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Telekom Internet" mcc="297" mnc="02" apn="tmcg-4g" user="38267" server="" password="38267" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default" authtype="1" protocol="IPV4V6" roaming_protocol="IP"/>
+  <apn carrier="Telekom MMS" mcc="297" mnc="02" apn="mms" user="38267" server="" password="38267" proxy="" port="" mmsproxy="010.000.005.019" mmsport="8080" mmsc="http://192.168.180.100/servlets/mms" type="mms" authtype="1"/>
+</apns>

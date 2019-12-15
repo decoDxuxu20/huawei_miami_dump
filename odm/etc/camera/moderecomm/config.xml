@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GB2312"?>
+<CONFIG_PARAM>
+        <V1Switch value="0">
+        </V1Switch>
+        <V2Switch value="1">
+            <appearTime beach="0.5" sunset="0.5" bluesky="0.5" food="0.5" flower="0.3" greenplant="0.5" snow="0.5" night="0.5" text="0.5" stage="0.5" portrait="0.5" cat="0.5" dog="0.5" movingobject="0.5" macro="1.5" oversaturation="1" horizon="0.5" fireworks="0.5" fallen="0.5" groupphoto="0.5" doc="0.5" waterfalls="0.5" fewperson="0.5" overcast="0.5" oldbuildings="0.5" panda="0.5" car="0.5" bicycle="0.5" macrohint="0.5" room="0.5"/>
+            <disappearTime beach="0.5" sunset="0.5" bluesky="0.5" food="0.5" flower="0.5" greenplant="0.5" snow="0.5" night="0.5" text="0.5" stage="0.5" portrait="3" cat="0.5" dog="0.5" movingobject="0.5" macro="1" oversaturation="1" horizon="0.5" fireworks="3" fallen="0.5" groupphoto="0.5" doc="0.5" waterfalls="0.5" fewperson="0.5" overcast="0.5" oldbuildings="0.5" panda="0.5" car="0.5" bicycle="0.5" macrohint="0.3" room="0.5"/>
+            <zoomRatioTh portrait="2.0" night="6.0" doc="6.0"/>
+            <nightSceneConfig histLowRangeLow="10" histLowRangeUpper="20" histLowRatioEnter="0.2" histLowRatioExit="0.1" histHighRangeLow="50" histHighRangeUpper="255" histHighRatioEnter="0.3" histHighRatioExit="0.4" blockNumWidth="3" blockNumHeight="3" blockBrightPixelThr="230" blockBrightPixelRatioLow="0.01" blockBrightPixelRatioUpper="0.1" blockBrightBlockThrEnter="4" blockBrightBlockThrExit="0" nightSceneVersion="2"/>
+            <portraitConfig minFaceSizeWidthEnter="0.065" minFaceSizeHeightEnter="0.065" minFaceSizeWidthExit="0.04" minFaceSizeHeightExit="0.04" portraitVersion="2" />
+            <quitProbConfig quitProbVersion="2" sunset="400" fireworks="400" waterfalls="400" beach="400" bluesky="400" flower="100" greenplant="400" snow="400" text="400" stage="400" />
+            <macroConfig macroDistanceEnter="70" />
+        </V2Switch>
+        <ModeSwitch beach="1" bluesky="1" sunset="1" food="1" flower="1" greenplant="1" snow="1" night="1" text="1" stage="1" portrait="1" cat="1" dog="1" movingobject="0" macro="0" oversaturation="0" horizon="1" fireworks="1" fallen="1" groupphoto="1" doc="0" waterfalls="1" fewperson="1" overcast="1" oldbuildings="1" panda="1" car="1" bicycle="1" macrohint="0" room="0" >
+        </ModeSwitch>
+        <ModeSwitchFrontCamera beach="1" bluesky="1" sunset="0" food="0" flower="1" greenplant="1" snow="1" night="1" text="0" stage="1" portrait="0" cat="0" dog="0" movingobject="0" macro="0" oversaturation="0" horizon="0" fireworks="0" fallen="0" groupphoto="0" doc="0" waterfalls="0" fewperson="0" overcast="0" oldbuildings="0" panda="0" car="0" bicycle="0" macrohint="0" room="1">
+        </ModeSwitchFrontCamera>
+        <GyroInvalid value="1">
+        </GyroInvalid>
+</CONFIG_PARAM>

@@ -1,0 +1,41 @@
+scene
+{
+	path = feiqiming.gpb
+
+	node head
+	{
+		url = my_head_up.gpb#Mesh
+		material = head_new_with_camera_texture.material#lambert1
+		scale = 1.0, 1.0, 1.0
+		tags{
+			__head__
+			__dynamic__
+		}
+	}
+
+	node root{
+		node frame
+		{
+			url = feiqiming.gpb#frame
+			material = feiqiming.material#frame
+			tags {
+				__dynamic__
+				__transluscent__
+			}
+		}
+		node glass
+        {
+        	url = feiqiming.gpb#glass
+        	material = feiqiming.material#glass
+            tags {
+        		__dynamic__
+        		__translucent__
+        	}
+        }
+
+		tags {
+		
+			__dynamic__
+		}
+	}
+}

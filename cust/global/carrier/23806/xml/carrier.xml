@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="f889b444a697ad3004bb4bb1a330bf8d">
+  <dict>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:54:59.000-->
+    <int key="num_match">7</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">3 DK</string>
+    <!--2018-07-28 14:06:08.000-->
+    <string key="voicemail_carrier">3</string>
+    <!--2018-07-28 14:06:21.000-->
+    <string key="voicemail_number">004531133333</string>
+    <!--2018-07-28 14:06:33.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

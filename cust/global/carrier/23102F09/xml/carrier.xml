@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="91b96eeadc53fcf40db2a3ad88a1af90">
+  <dict>
+    <!--2018-05-29 18:20:28.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-06-22 18:39:51.000-->
+    <string key="hide_sepcial_apn_form_list">hos</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:05.000-->
+    <int key="num_match">7</int>
+    <!--2018-05-28 15:31:38.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 16:18:48.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-14 17:50:29.000-->
+    <int key="set_new_apn_port">8080</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Telekom SK</string>
+    <!--2018-07-26 16:33:54.000-->
+    <bool key="vm_edit_not_to_sim_bool">true</bool>
+    <!--2018-07-28 14:45:56.000-->
+    <string key="voicemail_carrier">DT</string>
+    <!--2018-07-28 14:46:17.000-->
+    <string key="voicemail_number">+421903333999</string>
+    <!--2018-07-28 14:46:07.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

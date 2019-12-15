@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="fe84b022d907f577fc01c865a922aed6">
+  <dict>
+    <array key="plmn_spn"/>
+    <array key="set_mtu"/>
+    <array key="plmn_abbrev"/>
+    <array key="net_sim_ue_pri">
+      <dict>
+        <string key="network_mccmnc">71610</string>
+        <bool key="network_highest">true</bool>
+      </dict>
+    </array>
+  </dict>
+</config>
