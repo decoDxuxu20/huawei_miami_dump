@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Free" mcc="208" mnc="15" apn="free" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="http://mms.free.fr" type="default,supl,mms,dun" authtype="0" protocol="IP"/>
+  <apn carrier="Free MMS" mcc="208" mnc="15" apn="mmsfree" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="http://mms.free.fr" type="mms" authtype="0" protocol="IP"/>
+</apns>

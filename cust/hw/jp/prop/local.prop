@@ -1,0 +1,60 @@
+# 2018-06-08 10:33:37.000
+persist.sys.timezone=Asia/Tokyo
+# 2018-06-09 14:17:12.000
+persist.telephony.mpdn=false
+# 2018-06-04 14:08:32.000
+ro.camera.cos_face_changing=false
+# 2018-11-13 17:20:58.000
+ro.camera.cos_ttpic_supported=false
+# 2018-06-15 16:41:21.000
+ro.config.attach_apn_enabled=true
+# 2018-06-05 11:01:23.000
+ro.config.delay_updatename=true
+# 2018-09-19 18:03:30.000
+ro.config.emergency_apn_handle=true
+# 2018-06-12 17:33:24.000
+ro.config.fix_bootsound=0
+# 2018-06-04 18:29:23.000
+ro.config.fm.disable=true
+# 2019-01-28 20:13:29.000
+ro.config.forbidden_msa_switch=true
+# 2018-06-21 10:57:23.000
+ro.config.hw_allow_rs_mms=false
+# 2018-07-06 17:17:55.000
+ro.config.hw_gmap_enabled=true
+# 2018-11-06 17:35:57.000
+ro.config.hw_nfc_msimce=false
+# 2018-05-31 10:01:57.000
+ro.config.hw_opta=635
+# 2018-05-31 10:01:57.000
+ro.config.hw_optb=392
+# 2018-07-07 17:54:23.000
+ro.config.hw_volte_icon_rule=1
+# 2019-10-21 16:28:59.000
+ro.config.jp_vcard=true
+# 2018-06-20 20:16:48.000
+ro.config.keyguard_unusedata=false
+# 2018-08-24 14:13:16.000
+ro.config.music_region=fidelity
+# 2018-09-19 18:01:10.000
+ro.config.need_reserve_port=true
+# 2018-11-06 17:35:57.000
+ro.config.nfc_hasese=false
+# 2019-10-21 16:28:59.000
+ro.config.pbapnotconvertnum=true
+# 2018-09-19 17:54:48.000
+ro.config.supl_es_pdn_switch=true
+# 2018-06-05 11:00:52.000
+ro.config.vm_prioritymode=2
+# 2018-10-08 20:56:06.000
+ro.odm.config.rep_cell_list=true
+# 2018-06-01 16:49:10.000
+ro.product.CustCVersion=C635
+# 2018-11-06 17:35:57.000
+ro.product.cuptsm=
+# 2018-06-08 16:06:28.000
+ro.product.locale=ja-JP
+# 2018-11-06 17:35:57.000
+ro.product.wallet.nfc=
+# 2018-09-11 14:51:03.000
+ro.vendor.config.camera.region=rh

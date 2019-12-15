@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>        /data/hw_init/system/app/ContactsCamcard.apk;
+        /system/app/HwCryptoMessageService.apk;
+        /system/app/HiLinkSvc.apk;
+    </apk>
+</tag>

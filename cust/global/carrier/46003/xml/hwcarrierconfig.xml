@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e96426480e28018c96659b8904da38e8">
+  <dict>
+    <!--2018-05-31 19:39:25.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-05-31 19:40:00.000-->
+    <bool key="use_403_for_local_cw">true</bool>
+    <!--2018-05-31 20:01:23.000-->
+    <bool key="utCanUseWifi">false</bool>
+  </dict>
+</config>

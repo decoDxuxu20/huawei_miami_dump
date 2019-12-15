@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="a62d080df4b8bbcbbe81b52cf910e306">
+  <dict>
+    <!--2018-07-02 11:31:08.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-07-02 11:29:38.000-->
+    <bool key="pre_apn_unable">true</bool>
+  </dict>
+</config>

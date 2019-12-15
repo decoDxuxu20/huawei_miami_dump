@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="eb8d3bae9a570af791e11e3ff479b9f3">
+  <dict>
+    <!--2018-12-07 17:45:32.000-->
+    <bool key="hw_radio_off_change_preferapn">true</bool>
+    <!--2018-06-07 17:27:12.000-->
+    <string key="hw_replace_country_code">+81</string>
+    <!--2018-07-27 15:56:23.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 14:47:50.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-07-28 14:06:17.000-->
+    <string key="voicemail_carrier">Docomo</string>
+    <!--2018-07-28 14:06:30.000-->
+    <string key="voicemail_number">1417</string>
+    <!--2018-07-28 14:06:42.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

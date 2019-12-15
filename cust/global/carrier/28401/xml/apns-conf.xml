@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="A1" mcc="284" mnc="01" apn="internet.a1.bg" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default" authtype="0"/>
+  <apn carrier="A1 MMS" mcc="284" mnc="01" apn="mms.a1.bg" user="" server="" password="" proxy="" port="" mmsproxy="010.150.000.033" mmsport="8080" mmsc="http://mmsc" type="mms" authtype="0"/>
+  <apn carrier="XCAP" mcc="284" mnc="01" apn="hos" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV4V6"/>
+</apns>

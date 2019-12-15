@@ -1,0 +1,3 @@
+version=9.0.0.4
+type=CARRIER_302220F02
+subtype=LITE

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="bc94723050be44c627e851484b81d8a3">
+  <array key="apks">
+    <dict>
+      <array key="cardinfo">
+        <string>250</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">com.huawei.honorclub.android</string>
+      <string key="apkpath">/product/region_comm/oversea/app/HonorClub/HonorClub.apk</string>
+    </dict>
+  </array>
+</config>

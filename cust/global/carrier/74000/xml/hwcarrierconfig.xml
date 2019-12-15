@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="73e514d5966f3022231499bd239c0d00">
+  <dict>
+    <!--2018-05-28 17:50:55.000-->
+    <int key="callWaitingMode">7</int>
+    <!--2018-05-28 17:50:55.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-11-27 16:56:59.000-->
+    <string key="carrier_statusbar_volte_type">VOZ4G</string>
+    <!--2018-11-19 20:40:19.000-->
+    <string key="carrier_volte_hd_icon_flag">00101001</string>
+    <!--2018-07-16 18:42:33.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2018-07-26 17:00:15.000-->
+    <bool key="is_ussd_ok_for_nw_release">true</bool>
+    <!--2018-05-21 16:30:29.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-02-14 11:03:24.000-->
+    <int key="smsToMmsTextThreshold">6</int>
+    <!--2018-07-11 16:30:57.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+    <!--2018-05-28 17:50:55.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

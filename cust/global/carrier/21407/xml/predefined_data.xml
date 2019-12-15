@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datainitializor >
+  <contact>
+    <name>Atención al Cliente</name>
+    <phone>
+      <detail>1004</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>At. Cliente (extranjero)</name>
+    <phone>
+      <detail>+34699991004</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Inf. 11822</name>
+    <phone>
+      <detail>11822</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Activar Buzón Movistar</name>
+    <phone>
+      <detail>22500</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Emergencias</name>
+    <phone>
+      <detail>112</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+  <contact>
+    <name>Atención Negocios</name>
+    <phone>
+      <detail>900101010</detail>
+      <type>Mobile</type>
+    </phone>
+  </contact>
+</datainitializor>

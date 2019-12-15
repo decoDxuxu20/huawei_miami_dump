@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="7807951213bee60556b7a20f3bb22cba">
+  <dict>
+    <!--2018-07-27 15:54:53.000-->
+    <int key="num_match">8</int>
+    <!--2018-07-28 14:06:07.000-->
+    <string key="voicemail_carrier">Sonatel</string>
+    <!--2018-07-28 14:06:21.000-->
+    <string key="voicemail_number">602</string>
+    <!--2018-07-28 14:06:33.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

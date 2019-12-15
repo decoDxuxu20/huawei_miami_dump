@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ca54ad0bd6a94022ff6c3e81d147b0c6">
+  <dict>
+    <!--2018-05-29 18:18:19.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-08-22 11:09:30.000-->
+    <string key="hide_sepcial_apn_form_list">hos</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:30.000-->
+    <int key="num_match">9</int>
+    <!--2018-05-28 15:32:25.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 16:16:01.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-14 17:52:20.000-->
+    <int key="set_new_apn_port">8080</int>
+    <!--2019-03-13 17:17:16.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Ben NL</string>
+    <!--2018-08-09 11:10:15.000-->
+    <string key="voicemail_carrier">Ben NL</string>
+    <!--2018-07-31 19:32:54.000-->
+    <string key="voicemail_number">+31624001233</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

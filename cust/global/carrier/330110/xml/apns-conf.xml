@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="INTERNET CLARO"
+    mcc="330"
+    mnc="110"
+    apn="lte.claropr.com"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+    authtype="2"
+  />
+  <apn carrier="MMS Claro"
+    mcc="330"
+    mnc="110"
+    apn="mmslte.claropr.com"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc="http://mmsg.claropr.com:10021/mmsc"
+    type="mms"
+  />
+</apns>

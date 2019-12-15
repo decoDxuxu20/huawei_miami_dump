@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datainitializor >
+  <contact>
+    <name>Huawei Customer Service</name>
+    <company>Kenya</company>
+    <email>
+      <detail>mobile.ke@huawei.com</detail>
+    </email>
+    <phone>
+      <detail>0800723456</detail>
+    </phone>
+    <care>true</care>
+  </contact>
+</datainitializor>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="62d5c79b97146c0138e263fc89812c05">
+  <array key="apks">
+    <dict>
+      <array key="cardinfo">
+        <string>432</string>
+        <string>417</string>
+        <string>634</string>
+        <string>467</string>
+        <string>368</string>
+      </array>
+      <int key="actiontype">0</int>
+      <string key="apkpackagename">com.microsoft.translator</string>
+      <string key="apkpath">/product/app/Microsoft_Translator/Microsoft_Translator.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>432</string>
+        <string>417</string>
+        <string>634</string>
+        <string>368</string>
+        <string>467</string>
+      </array>
+      <int key="actiontype">0</int>
+      <string key="apkpackagename">com.microsoft.translator</string>
+      <string key="apkpath">/data/hw_init/product/app/Microsoft_Translator/Microsoft_Translator.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>420</string>
+        <string>424</string>
+        <string>418</string>
+        <string>602</string>
+        <string>410</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">com.huawei.honorclub.android</string>
+      <string key="apkpath">/product/region_comm/oversea/app/HonorClub/HonorClub.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>432</string>
+        <string>417</string>
+        <string>634</string>
+        <string>467</string>
+        <string>368</string>
+      </array>
+      <int key="actiontype">0</int>
+      <string key="apkpackagename">com.microsoft.translator</string>
+      <string key="apkpath">/product/region_comm/oversea/app/Microsoft_Translator/Microsoft_Translator.apk</string>
+    </dict>
+  </array>
+</config>

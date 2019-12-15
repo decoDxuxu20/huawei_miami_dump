@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="1c9fe44516a8859345b40cf5c6858b47">
+  <dict>
+    <!--2018-05-28 17:44:59.000-->
+    <int key="callWaitingMode">3</int>
+    <!--2018-05-28 17:44:59.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-08-29 21:43:10.000-->
+    <bool key="carrier_hide_clir_bool">true</bool>
+    <!--2018-11-22 09:49:59.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-07-16 18:33:37.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2019-01-23 11:32:25.000-->
+    <int key="maxMessageSize">512000</int>
+    <!--2018-05-21 16:30:20.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-02-14 11:03:24.000-->
+    <int key="smsToMmsTextThreshold">6</int>
+    <!--2018-07-11 16:27:40.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+  </dict>
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c72a12bb3e106ac61b98eaf9176993ad">
+  <dict>
+    <!--2018-09-03 20:32:47.000-->
+    <string key="hide_sepcial_apn_form_list">vas.wlan.three.com.hk</string>
+    <!--2018-07-27 15:55:14.000-->
+    <int key="num_match">7</int>
+  </dict>
+</config>

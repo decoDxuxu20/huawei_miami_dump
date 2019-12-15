@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="4f927f5bb9ce5806bc8008335770e587">
+  <dict>
+    <!--2018-08-27 15:04:04.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-06-22 16:30:57.000-->
+    <string key="hide_sepcial_apn_form_list">supl.iusacellgsm.mx</string>
+    <!--2018-06-13 11:15:13.000-->
+    <bool key="hw_data_roam_option">true</bool>
+    <!--2018-07-07 14:17:41.000-->
+    <string key="hw_networkname_normal">all,HSDPA:3G;HSUPA:3G;HSPA:3G;HSPA+:4G;LTE:4G LTE;CA:4G LTE;MiMo:4G LTE;CAMiMo:4G LTE</string>
+    <!--2018-06-14 09:58:02.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2018-12-20 12:24:19.000-->
+    <bool key="hw_ussd_message_vibrator">true</bool>
+    <!--2018-12-20 12:25:09.000-->
+    <bool key="hw_ussd_message_wakescreen">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">614400</int>
+    <!--2018-07-27 15:56:06.000-->
+    <int key="num_match">7</int>
+    <!--2018-06-15 15:38:20.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-15 15:39:29.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-08-27 15:04:45.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2018-06-28 16:09:15.000-->
+    <string key="ussd_regex">(^\#9|\*228$)</string>
+    <!--2018-07-28 14:06:16.000-->
+    <string key="voicemail_carrier">IUSACELL</string>
+    <!--2018-07-28 14:06:29.000-->
+    <string key="voicemail_number">*86</string>
+    <!--2018-07-28 14:06:40.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

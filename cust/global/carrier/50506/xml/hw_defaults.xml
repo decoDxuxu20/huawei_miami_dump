@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-11-24 15:56:15.000-->
+  <string email_signature_cust_string="Sent on the go with Vodafone"/>
+  <!--2018-11-24 15:56:15.000-->
+  <string email_signature_with_productname="false"/>
+  <!--2018-11-26 15:14:06.000-->
+  <string settings.global.network_auto_phone="true"/>
+</resources>

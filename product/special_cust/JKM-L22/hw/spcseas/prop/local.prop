@@ -1,0 +1,10 @@
+# 2019-03-29 22:25:41.0
+ro.com.google.clientidbase.ms=android-huawei-rev1
+# 2019-03-19 19:00:30.0
+ro.config.ce_authenticate=0
+# 2019-04-02 17:13:30.0
+ro.config.ride_mode=true
+# 2019-05-15 15:53:21.0
+ro.config.use_google_smartlock=true
+
+ro.build.version.base_os=HUAWEI/JKM-LX2/HWJKM-H:9/HUAWEIJKM-LX2/9.1.0.237C636:user/release-keys

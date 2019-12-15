@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d66df5a2d07ce774dca2d33e8442737d">
+  <dict>
+    <!--2018-08-27 15:04:13.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-07-27 15:56:09.000-->
+    <int key="num_match">8</int>
+    <!--2018-08-27 15:04:52.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-06-27 16:00:43.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2018-07-28 14:06:17.000-->
+    <string key="voicemail_carrier">Nuevatel</string>
+    <!--2018-07-28 14:06:30.000-->
+    <string key="voicemail_number">106</string>
+    <!--2018-07-28 14:06:41.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

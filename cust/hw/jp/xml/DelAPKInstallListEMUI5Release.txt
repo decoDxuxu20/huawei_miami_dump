@@ -1,0 +1,3 @@
+/cust/app/Kaspersky_jp/Kaspersky_jp.apk,nosys
+/cust/app/SkinStdDark/SkinStdDark.apk
+/cust/app/SkinStdLight/SkinStdLight.apk

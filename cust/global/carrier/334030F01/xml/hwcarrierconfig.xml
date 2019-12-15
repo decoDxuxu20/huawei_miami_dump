@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ae9d4b86e780b44b8625c0ffcb755f9e">
+  <dict>
+    <!--2018-05-28 17:45:00.000-->
+    <int key="callWaitingMode">3</int>
+    <!--2018-05-28 17:45:00.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-08-29 21:43:10.000-->
+    <bool key="carrier_hide_clir_bool">true</bool>
+    <!--2018-11-22 09:50:29.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2019-01-23 11:32:25.000-->
+    <int key="maxMessageSize">512000</int>
+    <!--2018-05-21 16:30:20.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-09-26 16:19:21.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+  </dict>
+</config>

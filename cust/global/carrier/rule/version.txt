@@ -1,0 +1,3 @@
+version=9.0.0.26
+type=CARRIER_RULE
+subtype=LITE

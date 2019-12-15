@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e4349b4528630ef3eee91ce35193dc3d">
+  <dict>
+    <!--2018-08-27 15:03:47.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-11-28 15:46:19.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-11-28 15:42:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-11-28 15:50:46.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-06-04 17:49:40.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE;MiMo:LTE;CAMiMo:LTE</string>
+    <!--2018-08-27 15:04:28.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+  </dict>
+</config>

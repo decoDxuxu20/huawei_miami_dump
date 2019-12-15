@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="896e177ba59d1cbbc190d9d10844c242">
+  <dict>
+    <dict key="bookmarks_folders">
+      <string key="bookmarks_folder_name">Favoritos del Operador</string>
+      <array key="bookmarks">
+        <dict>
+          <string key="title">Yoigo SurfPort</string>
+          <string key="url">http://movil.yoigo.es</string>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

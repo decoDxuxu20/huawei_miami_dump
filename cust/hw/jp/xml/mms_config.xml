@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mms_config>
+  <!--2018-06-21 10:55:52.000-->
+  <bool name="checkEmailPopup">false</bool>
+  <!--2018-06-11 16:35:05.000-->
+  <bool name="disableSmileyInputConnection">true</bool>
+  <!--2018-06-11 15:17:55.000-->
+  <bool name="enableAlertLongSms">true</bool>
+  <!--2018-06-11 15:15:02.000-->
+  <bool name="enableShortPhoneNumberLink">true</bool>
+  <!--2018-06-11 15:04:36.000-->
+  <bool name="enableShowSmscNotEdit">true</bool>
+  <!--2018-06-21 10:39:03.000-->
+  <bool name="enabledMMS">false</bool>
+  <!--2018-06-11 15:11:52.000-->
+  <bool name="isChangeClassZeroMessageShow">true</bool>
+  <!--2018-06-21 10:56:33.000-->
+  <bool name="isShowSignature">false</bool>
+  <!--2018-06-21 10:55:21.000-->
+  <bool name="removeMms">true</bool>
+</mms_config>

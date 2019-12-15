@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="GB2312"?>
+<CONFIG_PARA>
+        <OPEN_NIGHT_HAWK_ISO_THRESHOLD value="500"/>
+        <PROCESS_SKIP_FRAME value="16"/>  <!-- must greater than 2 -->
+        <ISO1_LEV value="500"/>
+        <ISO1_HAWKLEV value="2"/>
+        <ISO1_IS_MOVE_DNENHANCE value="0"/>
+        <ISO2_LEV value="800"/>
+        <ISO2_HAWKLEV value="3"/>
+        <ISO2_IS_MOVE_DNENHANCE value="0"/>
+        <ISO3_LEV value="1200"/>
+        <ISO3_HAWKLEV value="4"/>
+        <ISO3_IS_MOVE_DNENHANCE value="0"/>
+        <ISO4_LEV value="1600"/>
+        <ISO4_HAWKLEV value="5"/>
+        <ISO4_IS_MOVE_DNENHANCE value="0"/>
+        <ISO5_LEV value="2400"/>
+        <ISO5_HAWKLEV value="6"/>
+        <ISO5_IS_MOVE_DNENHANCE value="0"/>
+        <ISO6_LEV value="2800"/>
+        <ISO6_HAWKLEV value="6"/>
+        <ISO6_IS_MOVE_DNENHANCE value="0"/>
+        <ISO7_LEV value="3200"/>
+        <ISO7_HAWKLEV value="6"/>
+        <ISO7_IS_MOVE_DNENHANCE value="0"/>
+        <ISO8_LEV value="3600"/>
+        <ISO8_HAWKLEV value="6"/>
+        <ISO8_IS_MOVE_DNENHANCE value="0"/>
+</CONFIG_PARA>

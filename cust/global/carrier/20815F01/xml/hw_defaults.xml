@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-05-31 20:33:41.000-->
+  <string hw_predefined_eap_sim="FreeWifi_secure"/>
+  <!--2018-06-21 16:00:12.000-->
+  <integer hwdefault_CheckIntervalt="15"/>
+  <!--2018-11-06 15:44:49.000-->
+  <string settings.global.hw_nfc_gsma="true"/>
+</resources>

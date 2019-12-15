@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <apk>/system/priv-app/HiVision.apk;/system/priv-app/HiAction.apk;/system/app/HiTouch.apk;</apk>
+  <restoreapk>/system/priv-app/HwPushService.apk;/system/app/HwPushService.apk;/system/app/HwCloudDrive_Local.apk;/system/app/HwDetectRepair.apk;/system/priv-app/HwPhoneService.apk;/preas/app/LatinImeGoogle.apk;</restoreapk>
+</tag>

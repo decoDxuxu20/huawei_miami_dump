@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!-- 精品推荐 -->
+    <folder
+        launcher:title="@string/cust_folder_name_top_apps"
+        launcher:container="-100"
+        launcher:op="add">
+        <!-- 中国移动 -->
+        <favorite
+            launcher:packageName="com.greenpoint.android.mc10086.activity"
+            launcher:className="com.leadeon.cmcc.base.StartPageActivity"/>
+        <!-- 139邮箱 -->
+        <favorite
+            launcher:packageName="cn.cj.pe"
+            launcher:className="com.mail139.about.LaunchActivity"/>
+        <!-- 咪咕视频 -->
+        <favorite
+            launcher:packageName="com.cmcc.cmvideo"
+            launcher:className="com.wondertek.activity.AppFakeActivity"/>
+        <!-- 和彩云 -->
+        <favorite
+            launcher:packageName="com.chinamobile.mcloud"
+            launcher:className="desktop.icon.active"/>
+    </folder>
+    <!-- 必备应用 -->
+    <favorite
+        launcher:packageName="com.cmic.mmnes"
+        launcher:className="com.cmic.mmnes.activity.SplashActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="2"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:op="insertinto"/>
+    <!--Party Mode-->
+    <favorite
+        launcher:packageName="com.android.imedia.syncplay"
+        launcher:className="com.android.mediacenter.PageActivity"
+        launcher:container="@string/cust_folder_name_hwapp"
+        launcher:op="add"/>
+</favorites>

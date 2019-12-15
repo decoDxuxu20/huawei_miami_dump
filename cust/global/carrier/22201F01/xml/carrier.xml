@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c6e910d2f57136d90def38fccb0b9459">
+  <dict>
+    <!--2018-06-14 09:50:06.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2018-07-27 15:55:30.000-->
+    <int key="num_match">7</int>
+    <!--2018-05-28 14:37:32.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-05-28 17:35:29.000-->
+    <string key="ussd_regex">(^\#9|\*228$)</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Coop Voce</string>
+  </dict>
+</config>

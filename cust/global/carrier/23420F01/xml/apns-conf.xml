@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="iD Mobile"
+    mcc="234"
+    mnc="20"
+    apn="id"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy="mms.idmobile.co.uk"
+    mmsport="8799"
+    mmsc="http://mms.um.idmobile.co.uk:10021/mmsc"
+    type="default,mms,supl,ia"
+  />
+  <apn carrier="ims"
+    mcc="234"
+    mnc="20"
+    apn="IMS"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="ims"
+    protocol="IPV6"
+    roaming_protocol="IPV6"
+  />
+</apns>

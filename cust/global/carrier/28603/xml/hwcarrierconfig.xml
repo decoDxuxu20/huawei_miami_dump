@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c4e08d86d39367e365506799bf7348cc">
+  <dict>
+    <!--2018-05-28 17:41:32.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_MD5</string>
+    <!--2018-05-28 17:41:32.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:41:32.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2018-05-28 17:41:32.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2018-05-28 17:41:32.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:41:32.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2018-05-28 17:41:31.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-05-28 17:41:31.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-01-04 16:10:04.000-->
+    <int key="carrier_show_volte_hd_rule">1</int>
+    <!--2018-12-06 14:45:40.000-->
+    <string key="carrier_statusbar_volte_type">HD+</string>
+    <!--2018-12-06 16:48:19.000-->
+    <string key="carrier_volte_hd_icon_flag">00100001</string>
+    <!--2018-05-21 16:30:16.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-05-28 17:41:31.000-->
+    <string key="ssTypeUseCsOnly">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23</string>
+    <!--2018-05-28 17:41:32.000-->
+    <string key="vowifiHplmnListItem">28603,epdg.epc.mnc003.mcc286.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:41:33.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:41:32.000-->
+    <string key="vowifiRssiThreshold">-60,-70,-6,-7</string>
+    <!--2018-05-28 17:41:33.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-05-28 17:41:33.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-05-28 17:41:32.000-->
+    <string key="vowifiWifiChip24GConf">-70,-63,3,1</string>
+    <!--2018-05-28 17:41:33.000-->
+    <string key="vowifiWifiChip5GConf">-70,-63,3,1</string>
+    <!--2018-05-28 17:41:33.000-->
+    <bool key="vowifi_roaming_switch">true</bool>
+  </dict>
+</config>

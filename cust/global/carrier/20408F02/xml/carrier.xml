@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b90b3d0c5897bae53444d3fe5cc706bf">
+  <dict>
+    <!--2018-06-13 22:13:39.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">voiceworks</string>
+  </dict>
+</config>

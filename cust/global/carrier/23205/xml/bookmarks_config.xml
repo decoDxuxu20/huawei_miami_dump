@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="201977c382d5e9d1393bcb589e5709d3">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Planet Drei</string>
+              <string key="url">https://mobile.drei.at/redirect/bm_planet3</string>
+            </dict>
+            <dict>
+              <string key="title">Kundenzone</string>
+              <string key="url">https://mobile.drei.at/redirect/bm_kundenzone</string>
+            </dict>
+            <dict>
+              <string key="title">Drei Film</string>
+              <string key="url">https://mobile.drei.at/redirect/bm_3Film</string>
+            </dict>
+            <dict>
+              <string key="title">Drei Kiosk</string>
+              <string key="url">https://mobile.drei.at/redirect/bm_kiosk</string>
+            </dict>
+            <dict>
+              <string key="title">DreiTV</string>
+              <string key="url">https://mobile.drei.at/multiredirect/mr/bm_drei_tv</string>
+            </dict>
+            <dict>
+              <string key="title">Drei Newsflash</string>
+              <string key="url">https://mobile.drei.at/redirect/bm_newsflash</string>
+            </dict>
+            <dict>
+              <string key="title">Spiele</string>
+              <string key="url">https://mobile.drei.at/redirect/bm_spiele</string>
+            </dict>
+            <dict>
+              <string key="title">News</string>
+              <string key="url">https://mobile.drei.at/redirect/bm_news</string>
+            </dict>
+            <dict>
+              <string key="title">Wetter</string>
+              <string key="url">https://mobile.drei.at/redirect/bm_wetter</string>
+            </dict>
+            <dict>
+              <string key="title">Friendfinder</string>
+              <string key="url">https://mobile.drei.at/redirect/bm_friendfinder</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="668859ea6d4efe55834834f51de0b045">
+  <dict>
+    <!--2018-08-27 15:03:45.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-12-03 11:50:55.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-12-03 11:55:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-11-28 15:25:30.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2018-06-04 17:36:11.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:4.5G;MiMo:4.5G;CAMiMo:4.5G+</string>
+    <!--2018-06-13 21:59:01.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:55.000-->
+    <int key="num_match">7</int>
+    <!--2018-08-27 15:04:24.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-06-27 16:00:38.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">13</int>
+    <!--2018-07-28 14:06:14.000-->
+    <string key="voicemail_carrier">Claro</string>
+    <!--2018-07-28 14:06:27.000-->
+    <string key="voicemail_number">*86</string>
+    <!--2018-07-28 14:06:39.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

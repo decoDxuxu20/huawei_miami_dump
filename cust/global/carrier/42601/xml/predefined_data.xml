@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datainitializor >
+  <contact>
+    <name>Huawei Customer Service</name>
+    <company>Bahrain</company>
+    <email>
+      <detail>mobile.bh@huawei.com</detail>
+    </email>
+    <phone>
+      <detail>17581116</detail>
+    </phone>
+    <care>true</care>
+  </contact>
+</datainitializor>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="a7241dafd4f621b49d3429f81b26eb9d">
+  <dict>
+    <!--2019-05-24 09:45:49.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2018-05-28 17:50:29.000-->
+    <string key="EspAuthAlg">RCT_ALG_AES_XCBC,RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_MD5,RCT_ALG_HMAC_SHA2_512,RCT_ALG_HMAC_SHA2_384,RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-05-28 17:50:29.000-->
+    <string key="EspEncAlg">RCT_ALG_DES3_CBC,RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2018-05-28 17:50:29.000-->
+    <int key="IPsecSaLifeTime">1200</int>
+    <!--2018-05-28 17:50:28.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024,RCT_ALG_MODP2048,RCT_ALG_MODP1536,RCT_ALG_MODP768,RCT_ALG_MODP3072,RCT_ALG_MODP4096</string>
+    <!--2018-05-28 17:50:28.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_DES3_CBC,RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2018-05-28 17:50:28.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_AES_XCBC,RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_MD5,RCT_ALG_HMAC_SHA2_512,RCT_ALG_HMAC_SHA2_384,RCT_ALG_HMAC_SHA2_256</string>
+    <!--2018-05-28 17:50:29.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">1200</int>
+    <!--2018-05-28 17:50:29.000-->
+    <int key="Ikev2IkeSaRekeyTimerSec">3000</int>
+    <!--2018-05-28 17:50:28.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_AES_XCBC,RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_MD5,RCT_ALG_HMAC_SHA2_256,RCT_ALG_HMAC_SHA2_384,RCT_ALG_HMAC_SHA2_512</string>
+    <!--2018-05-28 17:50:29.000-->
+    <int key="Ikev2SaLifeTime">3000</int>
+    <!--2018-05-28 17:50:28.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-05-30 16:43:13.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2018-07-23 11:53:39.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2018-05-21 16:30:28.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-01-31 17:42:06.000-->
+    <array key="read_only_apn_types_string_array">
+      <string></string>
+    </array>
+    <!--2018-07-02 16:03:21.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+    <!--2019-05-24 09:45:49.000-->
+    <int key="utBsfPort">80</int>
+    <!--2019-05-24 09:45:49.000-->
+    <string key="utNafSrvAddr">xcap.mnc017.mcc716.pub.3gppnetwork.org</string>
+    <!--2019-05-24 09:45:49.000-->
+    <string key="utParamsCfg">19:1</string>
+    <!--2018-05-28 17:50:28.000-->
+    <string key="vowifiHplmnListItem">71617, epdg.epc.mnc017.mcc716.pub.3gppnetwork.org</string>
+    <!--2018-05-28 17:50:29.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2018-05-28 17:50:29.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2018-05-28 17:50:29.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2018-05-28 17:50:30.000-->
+    <string key="wfc_format_wifi_string">%1$s</string>
+    <!--2018-09-07 10:38:33.000-->
+    <string key="wfc_spn_string">entel</string>
+  </dict>
+</config>

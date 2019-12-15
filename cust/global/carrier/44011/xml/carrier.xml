@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="cc4dad8194c36b00d68c8fb4f82fd1b3">
+  <dict>
+    <!--2019-07-17 11:03:56.000-->
+    <bool key="hw_add_4g_only">true</bool>
+    <!--2019-07-17 14:45:35.000-->
+    <int key="num_match">10</int>
+    <!--2019-07-18 14:56:17.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-07-17 14:45:35.000-->
+    <string key="voicemail_carrier">Rakuten</string>
+    <!--2019-07-17 14:45:35.000-->
+    <string key="voicemail_number">1417</string>
+    <!--2019-07-17 14:45:35.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

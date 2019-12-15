@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="8deb4fc4640251dc697eda0cb3db276e">
+  <dict>
+    <!--2019-10-12 10:32:45.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-10-12 10:32:45.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-10-12 10:36:05.000-->
+    <string key="carrier_volte_hd_icon_flag">01010101</string>
+    <!--2018-08-30 11:48:46.000-->
+    <int key="maxImageHeight">1440</int>
+    <!--2018-08-30 11:52:16.000-->
+    <int key="maxImageWidth">1920</int>
+    <!--2019-10-12 10:32:45.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-07-04 17:31:45.000-->
+    <bool key="suppport_cnap_bool">true</bool>
+    <!--2019-10-12 10:32:45.000-->
+    <int key="utBsfPort">80</int>
+    <!--2019-10-12 10:32:45.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc620.mcc302.pub.3gppnetwork.org</string>
+    <!--2019-10-12 10:32:45.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2019-10-12 10:32:45.000-->
+    <int key="utNafPort">8080</int>
+  </dict>
+</config>

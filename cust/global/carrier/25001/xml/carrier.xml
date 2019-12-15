@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c4544eb24d3dce3d90594fe384c76042">
+  <dict>
+    <!--2018-06-04 19:19:43.000-->
+    <bool key="hw_add_4g_only">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:56:23.000-->
+    <int key="num_match">10</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2018-07-28 14:06:17.000-->
+    <string key="voicemail_carrier">MTS</string>
+    <!--2018-07-28 14:06:30.000-->
+    <string key="voicemail_number">0860</string>
+    <!--2018-07-28 14:06:42.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

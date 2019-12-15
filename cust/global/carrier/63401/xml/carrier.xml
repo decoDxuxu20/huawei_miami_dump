@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ce13806ecbe30e3f30eacea1b360e6bb">
+  <dict>
+    <!--2018-08-08 11:38:04.000-->
+    <bool key="hw_tme_enable">true</bool>
+    <!--2018-07-27 15:54:53.000-->
+    <int key="num_match">9</int>
+    <!--2018-07-28 14:06:07.000-->
+    <string key="voicemail_carrier">Zain</string>
+    <!--2018-07-28 14:06:21.000-->
+    <string key="voicemail_number">1240</string>
+    <!--2018-07-28 14:06:32.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

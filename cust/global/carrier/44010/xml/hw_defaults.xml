@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-08-28 10:03:33.000-->
+  <string duplicate_compare_body="true"/>
+  <!--2019-02-12 16:04:14.000-->
+  <string settings.global.preset_wifiByMccmnc="false"/>
+  <!--2018-06-07 17:23:48.000-->
+  <string use_full_volume="true"/>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e11e2904adf6ab730336841cf9a3e532">
+  <dict>
+    <!--2018-11-27 19:53:58.000-->
+    <string key="carrier_statusbar_vowifi_type">DIAL_WIFI</string>
+    <!--2018-06-26 10:16:08.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10100000</string>
+    <!--2018-12-21 11:34:48.000-->
+    <string key="is_show_vowifi_tile_flag">true</string>
+    <!--2018-09-06 17:42:53.000-->
+    <int key="maxImageHeight">1440</int>
+    <!--2018-09-06 17:43:48.000-->
+    <int key="maxImageWidth">1920</int>
+    <!--2018-07-06 17:00:00.000-->
+    <int key="maxMessageSize">614400</int>
+  </dict>
+</config>

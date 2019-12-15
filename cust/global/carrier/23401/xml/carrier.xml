@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ff2cb6c5db80e4468df4e167906d237e">
+  <dict>
+    <!--2018-12-01 16:44:36.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2018-11-19 12:14:07.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-11-19 12:14:07.000-->
+    <bool key="pre_apn_unable">true</bool>
+  </dict>
+</config>

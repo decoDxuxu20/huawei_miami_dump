@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="jazzinternet" mcc="214" mnc="07" apn="jazzinternet" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="jazzmms" mcc="214" mnc="07" apn="jazzmms" user="" server="" password="" proxy="" port="" mmsproxy="37.132.0.10" mmsport="8080" mmsc="http://jazztelmms.com/servlets/mms" type="mms" authtype="1"/>
+  <apn carrier="IMS" mcc="214" mnc="07" apn="IMS" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="ims" protocol="IPV6" roaming_protocol="IPV6"/>
+  <apn carrier="Movistar XCAP APN" mcc="214" mnc="07" apn="XCAP" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IP"/>
+</apns>

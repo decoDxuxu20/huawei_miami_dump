@@ -1,0 +1,6 @@
+# 2019-03-01 19:12:37.0
+ro.com.google.clientidbase.ms=android-huawei-rev1
+# 2019-03-26 17:12:27.0
+ro.config.ce_authenticate=0
+
+ro.build.version.base_os=HUAWEI/JKM-LX1/HWJKM-H:9/HUAWEIJKM-LX1/9.1.0.237C185:user/release-keys

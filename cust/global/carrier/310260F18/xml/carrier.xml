@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="397dcbe8caf139358c0a8164cb81e542">
+  <dict>
+    <!--2018-07-25 09:58:11.000-->
+    <string key="hw_networkname_normal">all,GPRS:G;EDGE:E;UMTS:4G;HSDPA:4G;HSUPA:4G;HSPA:4G;HSPA+:4G;LTE:4G LTE;CA:4G LTE</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Google Project Fi</string>
+  </dict>
+</config>

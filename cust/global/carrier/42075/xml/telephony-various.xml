@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="d7d9d05df719eb4cdee4a99c8e79c566">
+  <dict>
+    <array key="plmn_spn">
+      <dict>
+        <string key="network_mccmnc">42075</string>
+        <string key="sim_mccmnc">42075</string>
+        <string key="network_type"></string>
+        <int key="rule">2</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">42003</string>
+        <string key="sim_mccmnc">42075</string>
+        <string key="network_type"></string>
+        <int key="rule">2</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+    </array>
+    <array key="set_mtu"/>
+    <array key="plmn_abbrev"/>
+    <array key="net_sim_ue_pri">
+      <dict>
+        <string key="network_mccmnc">42003</string>
+        <bool key="network_highest">true</bool>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">42075</string>
+        <bool key="network_highest">true</bool>
+      </dict>
+    </array>
+  </dict>
+</config>

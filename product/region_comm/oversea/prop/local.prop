@@ -1,0 +1,8 @@
+# 2018-12-28 16:23:58.0
+ro.config.check_battery_error=false
+# 2018-10-16 16:20:42.0
+ro.config.hw_newsimple=true
+# 2018-10-16 15:41:35.0
+ro.config.ota_update_theme=9
+# 2018-08-13 20:43:05.0
+ro.cust.cdrom=/data/hw_init/product/region_comm/oversea/cdrom/autorun.iso

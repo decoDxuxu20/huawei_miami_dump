@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Telenor INTERNET" mcc="220" mnc="01" apn="internet" user="telenor" server="" password="gprs" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default" authtype="3" productScope="phoneOnly"/>
+  <apn carrier="Telenor MMS" mcc="220" mnc="01" apn="mms" user="" server="" password="" proxy="" port="" mmsproxy="217.65.192.33" mmsport="8080" mmsc="http://mms.telenor.rs/servlets/mms" type="mms"/>
+  <apn carrier="Telenor NET" mcc="220" mnc="01" apn="net" user="telenor" server="" password="gprs" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default" authtype="3" productScope="tabletOnly"/>
+</apns>

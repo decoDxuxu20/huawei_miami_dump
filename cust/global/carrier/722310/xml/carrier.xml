@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e02ea5b22b7b0542d9d5803f7a63269f">
+  <dict>
+    <!--2018-08-27 15:04:08.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2018-06-04 15:23:06.000-->
+    <string key="hw_networkname_normal">all,LTE:4G;CA:4.5G;MiMo:4.5G;CAMiMo:4.5G+</string>
+    <!--2018-06-13 22:02:44.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:56:08.000-->
+    <int key="num_match">7</int>
+    <!--2018-06-15 10:48:31.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-15 10:58:47.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-08-27 15:04:49.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2018-06-27 16:00:42.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">13</int>
+    <!--2018-07-28 14:06:16.000-->
+    <string key="voicemail_carrier">Claro AR</string>
+    <!--2018-07-28 14:06:29.000-->
+    <string key="voicemail_number">*2747</string>
+    <!--2018-07-28 14:06:41.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

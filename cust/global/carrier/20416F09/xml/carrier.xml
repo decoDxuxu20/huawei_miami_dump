@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="7178e1959efafe606232daeca940844b">
+  <dict>
+    <!--2018-05-29 18:18:19.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2018-08-22 11:09:30.000-->
+    <string key="hide_sepcial_apn_form_list">hos</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:20.000-->
+    <int key="num_match">9</int>
+    <!--2018-05-28 15:32:34.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-06-22 16:16:01.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-06-14 17:52:20.000-->
+    <int key="set_new_apn_port">8080</int>
+    <!--2019-03-13 17:17:16.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-09-25 20:00:13.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">T-Mobile NL</string>
+    <!--2018-07-28 14:45:58.000-->
+    <string key="voicemail_carrier">T-Mobile</string>
+    <!--2018-07-28 14:46:18.000-->
+    <string key="voicemail_number">+31624001233</string>
+    <!--2018-07-28 14:46:07.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

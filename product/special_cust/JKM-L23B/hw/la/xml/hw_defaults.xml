@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-07-19 18:02:36.0-->
+  <string custom_certify_picture="product/special_cust/JKM-L23B/hw/la/media/JKM-LX3.png"/>
+  <!--2019-06-27 11:25:32.0-->
+  <string settings.global.sutelbyid="HL1JKMMG,Sutel:00102-2019"/>
+  <!--2019-05-07 18:56:29.0-->
+  <string settings.system.sutelversion="Sutel:00066-2018"/>
+  <!--2019-06-18 19:14:57.0-->
+  <string twoline_display_font_size="10.5"/>
+</resources>

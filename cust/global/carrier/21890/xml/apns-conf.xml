@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 当前版本号：Global_parameters V3.664
+SE13_version 20180416
+type=GLOBAL
+subtype=generic
+compatibleVersion=1目前包含 217个国家和地区，1334套运营商参数。 -->
+<apns version="8">
+  <apn carrier="BHMobileInternet"
+    mcc="218"
+    mnc="90"
+    apn="active.bhmobile.ba"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy=""
+    mmsport=""
+    mmsc=""
+    type="default,supl"
+  />
+  <apn carrier="BHMobileMMS"
+    mcc="218"
+    mnc="90"
+    apn="mms.bhmobile.ba"
+    user=""
+    server=""
+    password=""
+    proxy=""
+    port=""
+    mmsproxy="195.222.56.41"
+    mmsport="8080"
+    mmsc="http://mms.bhmobile.ba/servlets/mms"
+    type="mms"
+  />
+</apns>

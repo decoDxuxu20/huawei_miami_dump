@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="72d2cbad21a3916e862c359a336df98c">
+  <dict>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:23.000-->
+    <int key="num_match">9</int>
+    <!--2018-06-27 16:00:36.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-09-25 20:00:20.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">simyo</string>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">KPN ES</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">1213</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

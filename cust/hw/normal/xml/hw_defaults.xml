@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-08-21 21:20:29.000-->
+  <string enable_email_contact_in_mms="true"/>
+  <!--2018-08-21 21:22:25.000-->
+  <string hw_contacts_filter_number="true"/>
+  <!--2018-06-19 14:02:32.000-->
+  <string settings.global.hw_hidecallforward="false"/>
+  <!--2018-07-06 15:51:36.000-->
+  <integer settings.system.hw_omacp_apn_policy="2"/>
+</resources>

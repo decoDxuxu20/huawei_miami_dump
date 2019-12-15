@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-05-31 16:52:11.000-->
+  <integer alert_duration="180000"/>
+  <!--2018-05-31 15:14:44.000-->
+  <string always_vibrate="true"/>
+  <!--2018-10-08 19:39:05.000-->
+  <string hide_full_volume_menu="true"/>
+  <!--2018-06-28 15:45:21.000-->
+  <string hw_weatherclock_myloc_show_first="false"/>
+  <!--2019-02-18 14:51:18.000-->
+  <integer settings.global.sms_center_editable="0"/>
+  <!--2018-06-21 16:44:12.000-->
+  <string settings.global.speeddial_predefined_numbers="3,*611;"/>
+  <!--2019-02-13 14:46:56.000-->
+  <string show_add_channel="false"/>
+  <!--2019-02-13 14:46:56.000-->
+  <string show_channel_settings="true"/>
+  <!--2018-05-31 15:14:44.000-->
+  <string use_full_volume="true"/>
+</resources>

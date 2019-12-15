@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-08-07 14:45:06.000-->
+  <integer default_cbs_state="2"/>
+  <!--2018-06-21 15:41:08.000-->
+  <integer hwdefault_CheckIntervalt="-1"/>
+  <!--2018-06-13 11:59:12.000-->
+  <string settings.global.hw_wifidialog_skip="true"/>
+  <!--2018-06-13 11:59:12.000-->
+  <string settings.global.show_data_cost_tip_list="true"/>
+  <!--2018-06-13 11:59:12.000-->
+  <string settings.global.show_skip_wifi_dialog_list="true"/>
+  <!--2018-08-07 14:45:06.000-->
+  <string show_master_toggle="true"/>
+</resources>

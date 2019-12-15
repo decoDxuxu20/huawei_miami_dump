@@ -1,0 +1,32 @@
+# 2018-08-14 14:58:26.0
+ro.boot.product.hardware.sku=JKM-LX1
+# 2018-08-13 17:21:33.0
+ro.build.id=HUAWEIJKM-LX1
+# 2019-05-28 13:48:20.0
+ro.config.cpu_info_display=Hisilicon Kirin 710
+# 2018-08-14 14:58:26.0
+ro.config.hw_lte_support=true
+# 2018-08-14 14:59:18.0
+ro.config.hw_sim2airplane=true
+# 2018-08-14 14:58:26.0
+ro.config.hw_vowifi_mmsut=true
+# 2018-08-14 14:58:26.0
+ro.config.marketing_name=HUAWEI Y9 2019
+# 2018-10-11 11:17:16.0
+ro.config.safety_certification=CE
+# 2018-08-14 14:58:26.0
+ro.dual.sim.phone=true
+# 2018-08-14 14:58:26.0
+ro.frp.pst=/dev/block/bootdevice/by-name/frp
+# 2018-08-14 14:58:26.0
+ro.product.board=JKM-L21
+# 2018-08-14 14:58:26.0
+ro.product.hardwareversion=HL3JKMM
+# 2018-08-14 14:58:26.0
+ro.product.model=JKM-LX1
+# 2018-08-14 14:58:26.0
+ro.product.name=JKM-LX1
+# 2018-10-11 16:21:13.0
+ro.vendor.config.hw_vowifi=true
+
+ro.build.description=JKM-LX1-user 9.1.0 HUAWEIJKM-LX1 250-OVS-LGRP2 release-keys

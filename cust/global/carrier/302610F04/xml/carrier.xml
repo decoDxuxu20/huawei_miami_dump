@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e20189d1bca9f8e62f2821c94145d5c2">
+  <dict>
+    <!--2018-06-28 16:02:56.000-->
+    <string key="hw_networkname_normal">all,HSDPA:H;HSUPA:H;HSPA:H;HSPA+:H+;LTE:LTE;CA:LTE+</string>
+    <!--2019-03-06 17:35:01.000-->
+    <int key="max_message_size">614400</int>
+    <!--2018-07-27 15:55:49.000-->
+    <int key="num_match">10</int>
+    <!--2018-05-28 15:59:36.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-07-02 11:31:08.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-07-02 11:29:38.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-06 17:36:39.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2018-09-25 20:00:38.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+911,+112</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">PC Mobile</string>
+  </dict>
+</config>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="316721d0a4a96b9457b9a5be8caec9dc">
+  <dict>
+    <!--2018-07-28 14:06:10.000-->
+    <string key="voicemail_carrier">Globacom</string>
+    <!--2018-07-28 14:06:24.000-->
+    <string key="voicemail_number">111</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

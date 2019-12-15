@@ -1,0 +1,38 @@
+# 2018-08-14 14:51:06.0
+ro.boot.product.hardware.sku=JKM-AL00b
+# 2018-08-13 17:21:33.0
+ro.build.id=HUAWEIJKM-AL00b
+# 2018-08-14 14:51:06.0
+ro.config.amr_wb_show_hd=true
+# 2018-08-14 14:51:06.0
+ro.config.cdma.ecclist=+110,+112,+911,+999,+119,+120,+122
+# 2019-09-06 20:29:57.0
+ro.config.cl_volte_switch_on=true
+# 2019-05-28 13:48:20.0
+ro.config.cpu_info_display=Hisilicon Kirin 710F
+# 2018-08-14 14:51:06.0
+ro.config.hw_show_4G_Plus_icon=true
+# 2018-08-14 14:51:06.0
+ro.config.hw_sim2airplane=true
+# 2018-08-14 14:51:06.0
+ro.config.hw_srlte=true
+# 2018-08-14 14:51:06.0
+ro.config.hw_vtlte_on=true
+# 2018-08-14 14:51:06.0
+ro.config.marketing_name=JKM-AL00b
+# 2018-08-14 14:51:06.0
+ro.config.support_ca=true
+# 2018-08-14 14:51:06.0
+ro.dual.sim.phone=true
+# 2018-08-14 14:51:06.0
+ro.hwpp_ds_fail=111,32,30
+# 2018-08-14 14:51:06.0
+ro.product.board=JKM-AL20
+# 2018-08-14 14:51:06.0
+ro.product.device=HWJKM-HM
+# 2018-08-14 14:51:06.0
+ro.product.hardwareversion=HL5JKMM
+# 2018-08-14 14:51:06.0
+ro.product.model=JKM-AL00b
+# 2018-08-14 14:51:06.0
+ro.product.name=JKM-AL00b

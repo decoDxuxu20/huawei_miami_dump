@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!--Party Mode-->
+    <favorite
+        launcher:packageName="com.android.imedia.syncplay"
+        launcher:className="com.android.mediacenter.PageActivity"
+        launcher:container="@string/cust_folder_name_hwapp"
+        launcher:op="add"/>
+</favorites>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ab72d7a8be881bd82939d9a87c9921d0">
+  <dict>
+    <!--2018-07-27 15:55:28.000-->
+    <int key="num_match">9</int>
+    <!--2018-06-27 16:00:35.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2018-09-25 20:00:19.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-25 10:15:51.000-->
+    <string key="virtual_ecclist_withcard">+112,+911</string>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">Pepephone</string>
+    <!--2018-08-13 21:25:35.000-->
+    <string key="voicemail_carrier">Pepephone</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_number">22123</string>
+    <!--2018-05-26 15:02:11.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

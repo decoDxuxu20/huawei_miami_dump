@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5d40eaa3a783c340b558febc786ebd36">
+  <dict>
+    <!--2018-07-27 15:55:11.000-->
+    <int key="num_match">9</int>
+    <!--2019-04-04 16:17:16.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-07-28 14:06:09.000-->
+    <string key="voicemail_carrier">Safaricom</string>
+    <!--2018-07-28 14:06:23.000-->
+    <string key="voicemail_number">0722122</string>
+    <!--2018-07-28 14:06:34.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="98faf64cd143bdb7e6d4f7bf629134a3">
+  <dict>
+    <!--2018-09-07 11:58:34.000-->
+    <string key="hide_sepcial_apn_form_list">netsvcs</string>
+    <!--2018-06-28 17:11:49.000-->
+    <string key="hw_networkname_domestic">all,EDGE:E;GSM:E;HSPA:4G;HSPA+:4G;LTE:LTE;CA:LTE+@settings,DC-HSPA+:4G@systemUI,DCHSPAP:4G</string>
+    <!--2018-06-28 17:12:16.000-->
+    <string key="hw_networkname_roaming">all,EDGE:E;GSM:E;HSPA:3G;HSPA+:3G;LTE:LTE;CA:LTE+@settings,DC-HSPA+:3G@systemUI,DCHSPAP:3G</string>
+    <!--2019-03-06 17:35:01.000-->
+    <int key="max_message_size">1048576</int>
+    <!--2018-07-27 15:55:35.000-->
+    <int key="num_match">10</int>
+    <!--2018-09-19 11:59:18.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2018-07-02 11:31:08.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2018-07-02 11:29:38.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2018-09-25 20:00:38.000-->
+    <bool key="support_vn_ecc">true</bool>
+  </dict>
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-07-19 18:05:36.0-->
+  <string custom_certify_picture="/product/hw_oem/JKM-L03B/media/JKM-LX3.png"/>
+  <!--2018-08-29 18:04:17.0-->
+  <integer settings.global.hw_wifi_ap_band="1"/>
+</resources>

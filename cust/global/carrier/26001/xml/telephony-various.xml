@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="3176d978c8ab8a59d07cdaf28f6d771e"> 
+  <dict> 
+    <array key="plmn_spn"> 
+      <dict> 
+        <string key="network_mccmnc">26001</string>  
+        <string key="sim_mccmnc">26001</string>  
+        <string key="network_type"/>  
+        <int key="rule">1</int>  
+        <string key="spn">Plus</string>  
+        <string key="plmn">Plus</string> 
+      </dict> 
+    </array>  
+    <array key="set_mtu"/>  
+    <array key="plmn_abbrev"/>  
+    <array key="net_sim_ue_pri"/> 
+  </dict> 
+</config>

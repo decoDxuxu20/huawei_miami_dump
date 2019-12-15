@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="00b9a261279ded752990c602edbfbc36">
+  <dict>
+    <!--2018-05-28 16:52:48.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">614400</int>
+    <!--2018-07-27 15:55:22.000-->
+    <int key="num_match">9</int>
+    <!--2018-05-28 14:43:27.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">Bouygues</string>
+    <!--2018-07-28 14:06:24.000-->
+    <string key="voicemail_number">+33660660001</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

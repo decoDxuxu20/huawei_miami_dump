@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="GB2312"?>
+<PPSr>
+    <PPSrAlgo name="self_portrait" faceing="1" ispwidth = "4608" ispheight = "3456" width="2560" height="1920"></PPSrAlgo>
+    <PPSrAlgo name="fairlight_self_portrait" faceing="1" ispwidth = "4608" ispheight = "3456" width="2560" height="1920"></PPSrAlgo>
+</PPSr>

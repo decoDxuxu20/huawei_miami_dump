@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="bf0bf8561b3d4e58734fa2fea4b13949">
+  <dict>
+    <!--2018-07-26 17:55:50.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2018-07-27 15:55:13.000-->
+    <int key="num_match">7</int>
+    <!--2018-07-28 14:06:10.000-->
+    <string key="voicemail_carrier">Neotel</string>
+    <!--2018-07-28 14:06:23.000-->
+    <string key="voicemail_number">132</string>
+    <!--2018-07-28 14:06:35.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

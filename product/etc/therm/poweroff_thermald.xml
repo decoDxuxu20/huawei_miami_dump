@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!--
+ * Copyright (C) 2014 Huawei Inc.
+ * Cpu Freq Config
+ *
+                TYPE                                            AVALIABLE_VALUE
+        cpu_maxprofile                    533000 999000 1402000 1709000 1844000
+        cpu_minprofile                    533000 999000 1402000 1709000 1844000
+
+        cpu_a15_maxprofile                903000 1421000 1805000 2112000 2458000 2612000
+        cpu_a15_minprofile                903000 1421000 1805000 2112000 2458000 2612000
+
+        gpu_maxprofile                    400000000 533000000 807000000 884000000
+        gpu_minprofile                    400000000 533000000 807000000 884000000
+
+        ddr_maxprofile                    400000000 667000000 1067000000 1333000000 1600000000 1866000000
+        ddr_minprofile                    400000000 667000000 1067000000 1333000000 1600000000 1866000000
+
+        cpu_number_max                    1,2,3,4
+        cpu_number_min                    1,2,3,4
+        cpu_a15_number_max                0,1,2,3,4
+        cpu_a15_number_min                0,1,2,3,4
+
+-->
+
+<!-- scene id
+
+id >= 100000  cust config, white list
+ -->
+
+<thermal version="2.3">
+    <scene name="power_off_charging_ctrl" id="110000">
+    <sensor_temp name="ucurrent" type="2" enable="true" min_temp="0" step="5" to_celsius="1000">
+    <item>
+        <thresholds>40</thresholds>
+        <thresholds_clr>38</thresholds_clr>
+        <action>
+            <ucurrent>1600</ucurrent>
+        </action>
+    </item>
+    <item>
+        <thresholds>43</thresholds>
+        <thresholds_clr>41</thresholds_clr>
+        <action>
+            <ucurrent>1400</ucurrent>
+        </action>
+    </item>
+    <item>
+        <thresholds>46</thresholds>
+        <thresholds_clr>44</thresholds_clr>
+        <action>
+            <ucurrent>1000</ucurrent>
+        </action>
+    </item>
+    <item>
+        <thresholds>75</thresholds>
+        <thresholds_clr>73</thresholds_clr>
+        <action>
+            <shutdown>10000</shutdown>
+        </action>
+    </item>
+    </sensor_temp>
+    </scene>
+</thermal>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Vip GPRS" mcc="220" mnc="05" apn="vipmobile" user="vipmobile" server="" password="vipmobile" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="Vip MMS" mcc="220" mnc="05" apn="vipmobile.mms" user="vipmobile" server="" password="vipmobile" proxy="" port="" mmsproxy="" mmsport="" mmsc="http://mms.vipmobile.rs" type="mms"/>
+  <apn carrier="XCAP" mcc="220" mnc="05" apn="hos" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IP"/>
+</apns>

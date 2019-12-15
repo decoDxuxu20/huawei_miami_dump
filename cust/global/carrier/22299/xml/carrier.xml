@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="79b7ea00dbc01480e428d4668b7749ee">
+  <dict>
+    <!--2018-07-19 19:59:14.000-->
+    <int key="allow_mms_property_int">6</int>
+    <!--2018-12-03 11:52:19.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2018-12-03 11:55:06.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2018-12-03 11:13:39.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2019-09-02 16:34:22.000-->
+    <bool key="hw_data_roam_option">false</bool>
+    <!--2018-06-01 17:23:16.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE+</string>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2018-07-27 15:55:24.000-->
+    <int key="num_match">7</int>
+    <!--2015-05-18 11:20:09.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2018-09-25 20:00:22.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2018-05-26 15:14:11.000-->
+    <string key="virtualnet_operatorname">3 ITA</string>
+    <!--2018-07-28 14:06:11.000-->
+    <string key="voicemail_carrier">3</string>
+    <!--2018-07-28 14:06:25.000-->
+    <string key="voicemail_number">4133</string>
+    <!--2018-07-28 14:06:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-09-28 10:14:32.000-->
+  <string always_show_test_item="true"/>
+  <!--2018-05-31 16:31:59.000-->
+  <string disable_extreme_settings="true"/>
+  <!--2018-05-31 16:31:59.000-->
+  <string disable_severe_settings="true"/>
+  <!--2018-10-08 19:03:00.000-->
+  <string hide_full_volume_menu="true"/>
+  <!--2019-07-30 14:52:48.000-->
+  <string settings.global.calllog_support_cnap="true"/>
+  <!--2018-11-19 19:07:18.000-->
+  <string show_channel_settings="true"/>
+  <!--2018-10-08 19:43:51.000-->
+  <string show_unclickable_presidential_menu="true"/>
+  <!--2018-05-31 16:53:20.000-->
+  <string use_full_volume="true"/>
+</resources>

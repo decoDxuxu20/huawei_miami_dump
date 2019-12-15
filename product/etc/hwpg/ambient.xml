@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="therm.xsl"?>
+<!--
+ * Copyright (C) 2014 Huawei Inc.
+ * <debug>1</debug> debug on
+-->
+<thermal version="1" product="JKM">
+    <ambient_calculate_coef>
+        <debug>0</debug>
+        <nstate>20</nstate>
+        <nout>12</nout>
+        <dt>5</dt>
+        <tmax_diff>2400</tmax_diff>
+        <tout>120</tout>
+        <tp_stiff>5000</tp_stiff>
+        <epsilon>3000</epsilon>
+        <it_std>100</it_std>
+        <md_err>10</md_err>
+        <tf>240</tf>
+        <fcoef>1.2</fcoef>
+        <sensor_count>4</sensor_count>
+        <sensor0 type="system_h" Ts="0.005423" alpha="16.3" beta="37.8" p="0.031441" b="941.9"/>
+        <sensor1 type="charger" Ts="0.005423" alpha="14.4" beta="22.9" p="0.031441" b="1247.2"/>
+        <sensor2 type="pa_0" Ts="0.005423" alpha="14.2" beta="24.6" p="0.031441" b="1167.0"/>
+        <sensor3 type="dcxo0" Ts="0.005423" alpha="13.9" beta="27.1" p="0.031441" b="1556.8"/>
+    </ambient_calculate_coef>
+</thermal>

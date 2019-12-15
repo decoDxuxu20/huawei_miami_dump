@@ -1,0 +1,119 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.huawei.android.launcher">
+    <!-- Files -->
+    <favorite
+        launcher:packageName="com.huawei.hidisk"
+        launcher:className="com.huawei.hidisk.filemanager.FileManager"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle="1"
+        launcher:op="insertinto"/>
+    <!-- health -->
+    <favorite
+        launcher:packageName="com.huawei.health"
+        launcher:className="com.huawei.health.MainActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="1"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle="1"
+        launcher:op="insertinto"/>
+    <!-- Clock -->
+    <favorite
+        launcher:packageName="com.android.deskclock"
+        launcher:className="com.android.deskclock.AlarmsMainActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle="1"
+        launcher:op="insertinto"/>
+    <!-- Calendar -->
+    <favorite
+        launcher:packageName="com.android.calendar"
+        launcher:className="com.android.calendar.AllInOneActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="0"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle="1"
+        launcher:op="insertinto"/>
+    <!-- Email -->
+    <favorite
+        launcher:packageName="com.android.email"
+        launcher:className="com.android.email.activity.Welcome"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="1"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle="1"
+        launcher:op="insertinto"/>
+    <!-- Notepad -->
+    <favorite
+        launcher:packageName="com.example.android.notepad"
+        launcher:className="com.example.android.notepad.NotePadActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="1"
+        launcher:y="1"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle="1"
+        launcher:op="insertinto"/>
+    <!-- Tips -->
+    <favorite
+        launcher:packageName="com.huawei.android.tips"
+        launcher:className="com.huawei.android.tips.HomePageActivity"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="1"
+        launcher:spanX="1"
+        launcher:spanY="1"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle="1"
+        launcher:op="insertinto"/>
+    <!-- Tools -->
+    <folder
+        launcher:title="@string/folder_tools"
+        launcher:container="-100"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="1"
+        launcher:op="insertinto">
+    </folder>
+    <!--Party Mode-->
+    <favorite
+        launcher:packageName="com.android.imedia.syncplay"
+        launcher:className="com.android.mediacenter.PageActivity"
+        launcher:container="@string/folder_tools"
+        launcher:shortcut="true"
+        launcher:icontype="0"
+        launcher:translatetitle = "1"
+        launcher:op="add"/>
+</favorites>

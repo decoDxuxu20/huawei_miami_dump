@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="gb2312"?>
+<MDAlgoConfig>
+    <!--HighSpeed2MidSpeed2LowSpeed Threshold in Raw Domain-->
+    <h2mRawThrd>1500</h2mRawThrd>
+    <m2lRawThrd>600</m2lRawThrd>
+    <!--Face Unmoiton2Motion Threshold in Raw Domain-->
+    <faceRawThrd>180</faceRawThrd>
+    <!--Scene Unmoiton2Motion Numb/Moiton2Unmotion Numb-->
+    <u2mNumStable>1</u2mNumStable>
+    <m2uNumStable>3</m2uNumStable>
+    <u2mNumShaking>6</u2mNumShaking>
+    <m2uNumShaking>1</m2uNumShaking>
+    <!--Anti Motion Banding Thrd-->
+    <mBandingStTh>8</mBandingStTh>
+    <mBandingRlTh>100</mBandingRlTh>
+    <!--motion Wins Disable Mask-->
+    <mDisableMask>1</mDisableMask>
+    <!--Sensitivity Enhence Switch-->
+    <smlAreaSwitch>1</smlAreaSwitch>
+    <rgbDetSwitch>1</rgbDetSwitch>
+    <!--globalMoiton Thrd-->
+    <globalMoitonTh>15</globalMoitonTh>
+    <!--4DTracking Switch AF&UI-->
+    <afTrackSwitch>0</afTrackSwitch>
+    <!--4DTracking ForecastRatio AF&UI-->
+    <afTrackForecast>1</afTrackForecast>
+    <!--4DTracking Space Time Filter Thrd---->
+    <tkSpaceFilterTh>2</tkSpaceFilterTh>
+    <tkTimeFilterTh>6</tkTimeFilterTh>
+</MDAlgoConfig>

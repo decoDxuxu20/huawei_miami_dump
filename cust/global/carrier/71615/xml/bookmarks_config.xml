@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="f6abeed99eb64032fa9a63c5a6f588e1">
+  <dict>
+    <dict key="bookmarks_folders">
+      <string key="bookmarks_folder_name">BITEL</string>
+      <array key="bookmarks">
+        <dict>
+          <string key="title">Portal por defecto</string>
+          <string key="url">https://bitel.com.pe</string>
+        </dict>
+        <dict>
+          <string key="title">Auto Atención</string>
+          <string key="url">https://mi.bitel.com.pe</string>
+        </dict>
+        <dict>
+          <string key="title">Recargas</string>
+          <string key="url">https://recargas.bitel.com.pe</string>
+        </dict>
+        <dict>
+          <string key="title">Tienda Bitel</string>
+          <string key="url">https://tienda.bitel.com.pe</string>
+        </dict>
+        <dict>
+          <string key="title">Portal Servicios de valor agregado</string>
+          <string key="url">https://bitelplus.com.pe</string>
+        </dict>
+        <dict>
+          <string key="title">Servicio de música por streaming</string>
+          <string key="url">https://bitelmusica.com</string>
+        </dict>
+        <dict>
+          <string key="title">Seguridad Móvil</string>
+          <string key="url">https://escudo.bitel.com.pe</string>
+        </dict>
+        <dict>
+          <string key="title">Tonos de espera Bitel</string>
+          <string key="url">https://tonos.bitel.com.pe/</string>
+        </dict>
+        <dict>
+          <string key="title">Aplicaciones Bitel</string>
+          <string key="url">http://bstore.bitel.pe</string>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

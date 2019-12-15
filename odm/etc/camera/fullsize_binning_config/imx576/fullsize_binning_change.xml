@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Config>
+    <Enable value="1"/>
+    <ISOLower value="101"/>
+    <ISOUpper value="250"/>
+    <!-- add for zoom, real zoom Ratio big than ZoomRatio/10, use zoom ISO threshold -->
+    <ZoomRatio value="10"/>
+    <ZoomISOLower value="250"/>
+    <ZoomISOUpper value="400"/>
+</Config>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2018-08-24 14:31:09.000-->
+  <integer alert_duration="10000"/>
+  <!--2018-10-27 17:36:10.000-->
+  <integer default_language_speech_state="2"/>
+  <!--2018-08-28 10:03:33.000-->
+  <string duplicate_compare_body="true"/>
+  <!--2018-08-31 14:25:40.000-->
+  <string settings.global.calllog_support_cnap="true"/>
+  <!--2018-09-20 09:37:41.000-->
+  <string show_date_time_title="true"/>
+  <!--2018-06-07 18:04:31.000-->
+  <string use_full_volume="true"/>
+</resources>

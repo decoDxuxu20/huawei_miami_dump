@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="453df689f2f85291e896e648e97dbb46">
+  <dict>
+    <!--2018-12-14 10:50:15.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2018-12-14 10:51:22.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2018-12-14 10:53:47.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2018-12-13 16:08:13.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2018-12-14 10:50:51.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2018-12-14 10:52:00.000-->
+    <int key="utBsfPort">80</int>
+    <!--2018-12-14 10:48:24.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2018-12-14 10:53:14.000-->
+    <string key="utParamsCfg">0:1,1:1</string>
+    <!--2018-12-14 10:49:10.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>
